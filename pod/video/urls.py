@@ -86,6 +86,11 @@ urlpatterns += [
     path("cut/", include("pod.cut.urls", namespace="video_cut")),
 ]
 
+# DRESSING
+urlpatterns += [
+    path("dressing/", include("pod.dressing.urls", namespace="video_dressing")),
+]
+
 ##
 # OEMBED feature patterns
 #

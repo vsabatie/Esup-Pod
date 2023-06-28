@@ -1,0 +1,64 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+{% load tagging_tags %}
+{% load thumbnail %}
+{% load video_filters %}
+{% load video_tags %}
+{% block page_title %}{% trans 'Dress the video' %} "{{video.title}}" {% endblock page_title %}
+{% block page_extra_head %}
+
+
+{% include 'videos/video-header.html' %}
+
+{% endblock page_extra_head %}
+
+{% block breadcrumbs %}
+{{block.super}}
+<li class="breadcrumb-item"><a href="{% url 'video:my_videos'%}">{% trans 'My videos' %}</a></li>
+<li class="breadcrumb-item">
+  <a href="{% url 'video:video' slug=video.slug %}" title="{{video.title}}">
+    {{video.title|title|truncatechars:45}}
+  </a>
+</li>
+
+<li class="breadcrumb-item active" aria-current="page">        
+    {% trans 'Dress the video' %}
+</li>
+
+{% endblock %}
+{% block page_content %}
+
+{% if video.encoding_in_progress %}
+<div class="alert alert-warning" role="alert">
+  {% trans "The video is currently being encoded." %}
+</div>
+{% endif %}
+
+<span id="video_dressing">
+  {% include 'videos/video-element.html' %}
+</span>
+
+
+
+
+
+{% endblock page_content %}
+
+{% block page_aside %}
+  {% if access_not_allowed == True %}
+  {% else %}
+    <div class="card" id="card-managevideo">
+      <h2 class="card-header card-title pod-card__title h4"><i class="bi bi-gear"></i>&nbsp;{% trans "Manage video" %}</h2>
+      <div class="card-body card-text text-center">
+        {% include "videos/link_video.html" %}
+      </div>
+    </div>
+  {% endif %}
+{% endblock page_aside %}
+
+{% block more_script %}
+{% include 'videos/video-script.html'%}
+<script src="{% static 'js/video_dressing.js' %}?ver={{VERSION}}"></script>
+
+{% endblock more_script %}

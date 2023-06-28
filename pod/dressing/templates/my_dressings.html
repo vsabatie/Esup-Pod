@@ -1,0 +1,91 @@
+{% extends 'base.html' %}
+{% load i18n %}
+{% load static %}
+{% load thumbnail %}
+{% block page_title %}{% trans 'My dressings' %}{% endblock page_title %}
+{% block page_extra_head %}
+
+<link rel="stylesheet" href="{% static 'css/video_dressing.css' %}?ver={{VERSION}}">
+
+{% endblock page_extra_head %}
+
+{% block breadcrumbs %}
+{{block.super}}
+
+<li class="breadcrumb-item active" aria-current="page">        
+    {% trans 'My dressings' %}
+</li>
+
+{% endblock %}
+
+{% block page_content %}
+<table>
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Owners</th>
+            <th>Users</th>
+            <th>Allow to Groups</th>
+            <th>Watermark</th>
+            <th>Position</th>
+            <th>Opacity</th>
+            <th>Opening Credits</th>
+            <th>Ending Credits</th>
+            <th>Visible</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for dressing in dressings %}
+            <tr>
+                <td><a href="{% url 'dressing:dressing_edit' dressing_id=dressing.pk %}">{{ dressing.title }}</a></td>
+                <td>
+                    {% for owner in dressing.owners.all %}
+                        {{ owner.username }}{% if not forloop.last %}, {% endif %}
+                    {% empty %}
+                        No owners
+                    {% endfor %}
+                </td>
+                <td>
+                    {% for user in dressing.users.all %}
+                        {{ user.username }}{% if not forloop.last %}, {% endif %}
+                    {% empty %}
+                        No users
+                    {% endfor %}
+                </td>
+                <td>
+                    {% for group in dressing.allow_to_groups.all %}
+                        {{ group.name }}{% if not forloop.last %}, {% endif %}
+                    {% empty %}
+                        No groups
+                    {% endfor %}
+                </td>
+                <td>
+                    {% if dressing.watermark %}
+                        <img src="{{ dressing.watermark.image.url }}" alt="Watermark">
+                    {% else %}
+                        No watermark
+                    {% endif %}
+                </td>
+                <td>{{ dressing.get_position_display }}</td>
+                <td>{{ dressing.opacity }}</td>
+                <td>{{ dressing.opening_credits }}</td>
+                <td>{{ dressing.ending_credits }}</td>
+                <td>{{ dressing.visible }}</td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="11">No dressings found.</td>
+            </tr>
+        {% endfor %}
+    </tbody>
+</table>
+{% endblock page_content %}
+
+{% block collapse_page_aside %}
+{% endblock collapse_page_aside %}
+
+{% block page_aside %}
+{% endblock page_aside %}
+
+{% block more_script %}
+{% endblock more_script %}

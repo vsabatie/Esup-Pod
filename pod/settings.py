@@ -66,6 +66,7 @@ INSTALLED_APPS = [
     "pod.favorite",
     "pod.video_encode_transcript",
     "pod.import_video",
+    "pod.dressing",
     "pod.custom",
 ]
 

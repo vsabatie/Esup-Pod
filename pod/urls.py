@@ -79,6 +79,8 @@ urlpatterns = [
     url(r"^custom/", include("pod.custom.urls")),
     # cut
     url(r"^cut/", include("pod.cut.urls")),
+    # dressing
+    url(r"^dressing/", include("pod.dressing.urls")),
 ]
 # PLAYLIST
 urlpatterns += [
