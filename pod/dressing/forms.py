@@ -90,6 +90,13 @@ class DressingForm(forms.ModelForm):
         self.fields["opening_credits"].queryset = query_videos.all()
         self.fields["ending_credits"].queryset = query_videos.all()
 
+        query_videos = Video.objects.filter(is_video=True).filter(
+            Q(owner=self.user) | Q(additional_owners__in=[self.user])
+        )
+
+        self.fields["opening_credits"].queryset = query_videos.all()
+        self.fields["ending_credits"].queryset = query_videos.all()
+
     class Meta(object):
         model = Dressing
         fields = "__all__"
