@@ -63,7 +63,6 @@ class DressingForm(forms.ModelForm):
         super(DressingForm, self).__init__(*args, **kwargs)
         if __FILEPICKER__:
             self.fields["watermark"].widget = CustomFileWidget(type="image")
-
         if not self.is_superuser or not hasattr(self, "admin_form"):
             self.fields["owners"].queryset = self.fields["owners"].queryset.filter(
                 owner__sites=Site.objects.get_current()
@@ -84,6 +83,13 @@ class DressingForm(forms.ModelForm):
         self.fields = add_placeholder_and_asterisk(self.fields)
         self.fields['opacity'].widget.attrs.update({'max': '100'})
         self.fields["owners"].initial = self.user
+
+        query_videos = Video.objects.filter(is_video=True).filter(
+            Q(owner=self.user) | Q(additional_owners__in=[self.user])
+        )
+
+        self.fields["opening_credits"].queryset = query_videos.all()
+        self.fields["ending_credits"].queryset = query_videos.all()
 
     class Meta(object):
         model = Dressing
