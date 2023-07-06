@@ -67,14 +67,15 @@ class Dressing(models.Model):
         verbose_name=_("position"),
         max_length=200,
         choices=POSITIONS,
-        default="TOP_RIGHT",
+        blank=True,
+        null=True,
     )
 
     opacity = models.PositiveIntegerField(
         default=100,
         validators=[MinValueValidator(0), MaxValueValidator(100)],
-        blank=False,
-        null=False,
+        blank=True,
+        null=True,
         verbose_name=_("opacity"),
     )
 
@@ -94,15 +95,6 @@ class Dressing(models.Model):
         on_delete=models.CASCADE,
         null=True,
         blank=True,
-    )
-
-    visible = models.BooleanField(
-        verbose_name=_("Visible"),
-        help_text=_(
-            "If checked, the video dressing appear in a list of available "
-            + "dressings on the platform."
-        ),
-        default=False,
     )
 
     class Meta:

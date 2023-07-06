@@ -9,7 +9,7 @@ from .forms import DressingForm
 
 class DressingAdmin(admin.ModelAdmin):
     form = DressingForm
-    list_display = ("title", "visible", "watermark", "opacity", "position", "opening_credits", "ending_credits")
+    list_display = ("title", "watermark", "opacity", "position", "opening_credits", "ending_credits")
     autocomplete_fields = [
         "owners",
         "users",

@@ -4,6 +4,7 @@ from pod.main.forms_utils import add_placeholder_and_asterisk
 from pod.podfile.widgets import CustomFileWidget
 from django.contrib.sites.models import Site
 from django_select2 import forms as s2forms
+from django.db.models import Q
 
 from pod.video.models import Video
 from .models import Dressing
@@ -50,13 +51,12 @@ class DressingForm(forms.ModelForm):
             if ("is_superuser" in kwargs.keys())
             else self.is_superuser
         )
+        self.user = kwargs.pop("user", None)
 
         super(DressingForm, self).__init__(*args, **kwargs)
         if __FILEPICKER__:
             self.fields["watermark"].widget = CustomFileWidget(type="image")
-
-        if not hasattr(self, "admin_form"):
-            del self.fields["visible"]
+            
         if not self.is_superuser or not hasattr(self, "admin_form"):
             self.fields["owners"].queryset = self.fields["owners"].queryset.filter(
                 owner__sites=Site.objects.get_current()
@@ -76,6 +76,13 @@ class DressingForm(forms.ModelForm):
 
         self.fields = add_placeholder_and_asterisk(self.fields)
         self.fields['opacity'].widget.attrs.update({'max': '100'})
+
+        query_videos = Video.objects.filter(is_video=True).filter(
+            Q(owner=self.user) | Q(additional_owners__in=[self.user])
+        )
+
+        self.fields["opening_credits"].queryset = query_videos.all()
+        self.fields["ending_credits"].queryset = query_videos.all()
 
     class Meta(object):
         model = Dressing
