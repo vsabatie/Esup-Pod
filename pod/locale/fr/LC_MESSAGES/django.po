@@ -29,6 +29,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -148,6 +149,9 @@ msgstr ""
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 5f137acd (Encoding ok)
 >>>>>>> 9490b823 (Encoding ok)
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -1945,9 +1949,12 @@ msgstr "Sous-titres et légendes"
 #: pod/completion/templates/video_completion.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
+=======
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 #, fuzzy
 #| msgid "to create your subtitles and/or caption(s) files"
 msgid "To create your subtitles and/or caption(s) files"
@@ -3059,6 +3066,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3110,6 +3118,10 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 9490b823 (Encoding ok)
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -3942,11 +3954,19 @@ msgstr "Attention, utilise une API Google"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording not done: "
+<<<<<<< HEAD
 msgstr "Impossible de commencer l’enregistrement : "
 
 #: pod/live/templates/live/event-script.html
 msgid "Error calling"
 msgstr "Erreur à l’appel de"
+=======
+msgstr "Impossible de commencer l'enregistrement : "
+
+#: pod/live/templates/live/event-script.html
+msgid "Error calling"
+msgstr "Erreur à l'appel de"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording stopped"
@@ -3954,6 +3974,7 @@ msgstr "Enregistrement arrêté"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording not stopped: "
+<<<<<<< HEAD
 msgstr "Impossible d’arrêter l’enregistrement : "
 
 #: pod/live/templates/live/event-script.html
@@ -3963,6 +3984,17 @@ msgstr "Découpe de l’enregistrement effectué"
 #: pod/live/templates/live/event-script.html
 msgid "Recording not split: "
 msgstr "Impossible de découper l’enregistrement : "
+=======
+msgstr "Impossible d'arrêter l'enregistrement : "
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording split done"
+msgstr "Découpe de l'enregistrement effectué"
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording not split: "
+msgstr "Impossible de découper l'enregistrement : "
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream started (please wait a moment)"
@@ -3970,7 +4002,11 @@ msgstr "Flux vidéo ouvert (patienter pour le rafraichissement)"
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream can not be started"
+<<<<<<< HEAD
 msgstr "Impossible d’ouvrir le flux vidéo"
+=======
+msgstr "Impossible d'ouvrir le flux vidéo"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream stopped (please wait a moment)"
@@ -3994,7 +4030,11 @@ msgstr "Mes évènements"
 
 #: pod/live/templates/live/event.html
 msgid "Report the event"
+<<<<<<< HEAD
 msgstr "Signaler l’évènement"
+=======
+msgstr "Signaler l'évènement"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/live/templates/live/event.html
 msgid "Start stream"
@@ -7226,6 +7266,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7252,6 +7293,10 @@ msgid ""
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."

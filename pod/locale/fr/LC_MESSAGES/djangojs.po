@@ -33,6 +33,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -136,6 +137,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 9490b823 (Encoding ok)
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -552,6 +556,10 @@ msgstr "Une erreur est survenue"
 msgid "An error occurred"
 msgstr "Une erreur est survenue."
 
+#: pod/live/static/js/admin_broadcaster.js
+msgid "An error occurred"
+msgstr "Une erreur est survenue."
+
 #: pod/live/static/js/broadcaster_from_building.js
 msgid "Restricted because the broadcaster is restricted"
 msgstr "Obligatoirement restreint car le diffuseur est restreint"
@@ -811,6 +819,11 @@ msgstr "Chargement en cours…"
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
 msgid "Network response was not ok."
 msgstr "La réponse du réseau n'était pas correcte."
+
+#: pod/podfile/static/podfile/js/filewidget.js
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+msgstr "Chargement en cours…"
 
 #: pod/podfile/static/podfile/js/filewidget.js
 #: pod/video/static/js/change_video_owner.js

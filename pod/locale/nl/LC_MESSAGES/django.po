@@ -34,6 +34,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -140,6 +141,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 9490b823 (Encoding ok)
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -6629,6 +6633,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -6655,6 +6660,10 @@ msgid ""
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 msgstr ""
 
 <<<<<<< HEAD
