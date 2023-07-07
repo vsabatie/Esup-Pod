@@ -5,7 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1590,7 +1594,7 @@ msgid "Subtitle(s) and Caption(s)"
 msgstr ""
 
 #: pod/completion/templates/video_completion.html
-msgid "to create your subtitles and/or caption(s) files"
+msgid "To create your subtitles and/or caption(s) files"
 msgstr ""
 
 #: pod/completion/templates/video_completion.html
@@ -3086,6 +3090,7 @@ msgid "Plan an event"
 msgstr ""
 
 #: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html
 msgid "Recording in progress"
 msgstr ""
 
@@ -3149,11 +3154,6 @@ msgstr ""
 
 #: pod/live/templates/live/directs_all.html
 msgid "Sorry, no buildings found."
-msgstr ""
-
-#: pod/live/templates/live/event-all-info.html
-#: pod/video/templates/videos/video-all-info.html
-msgid "Report the video"
 msgstr ""
 
 #: pod/live/templates/live/event-all-info.html
@@ -3281,6 +3281,46 @@ msgid "Warning, it use google API"
 msgstr ""
 
 #: pod/live/templates/live/event-script.html
+msgid "Recording not done: "
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Error calling"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording stopped"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording not stopped: "
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording split done"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording not split: "
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream started (please wait a moment)"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream can not be started"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream stopped (please wait a moment)"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream can not be stopped"
+msgstr ""
+
+#: pod/live/templates/live/event-script.html
 msgid "Recording duration"
 msgstr ""
 
@@ -3290,6 +3330,22 @@ msgstr ""
 #: pod/live/templates/live/my_events.html pod/live/views.py
 #: pod/main/templates/navbar.html
 msgid "My events"
+msgstr ""
+
+#: pod/live/templates/live/event.html
+msgid "Report the event"
+msgstr ""
+
+#: pod/live/templates/live/event.html
+msgid "Start stream"
+msgstr ""
+
+#: pod/live/templates/live/event.html
+msgid "Stop stream"
+msgstr ""
+
+#: pod/live/templates/live/event.html
+msgid "Start stream and record"
 msgstr ""
 
 #: pod/live/templates/live/event.html
@@ -6933,6 +6989,10 @@ msgstr ""
 msgid ""
 "Please use the thumbnails toolbar which is located under the video on which "
 "you want to work with."
+msgstr ""
+
+#: pod/video/templates/videos/video-all-info.html
+msgid "Report the video"
 msgstr ""
 
 #: pod/video/templates/videos/video-all-info.html

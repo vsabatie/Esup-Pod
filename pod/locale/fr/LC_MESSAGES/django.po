@@ -5,7 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -1659,7 +1663,9 @@ msgid "Subtitle(s) and Caption(s)"
 msgstr "Sous-titres et légendes"
 
 #: pod/completion/templates/video_completion.html
-msgid "to create your subtitles and/or caption(s) files"
+#, fuzzy
+#| msgid "to create your subtitles and/or caption(s) files"
+msgid "To create your subtitles and/or caption(s) files"
 msgstr "pour créer les fichiers de sous-titres ou de légendes"
 
 #: pod/completion/templates/video_completion.html
@@ -3300,6 +3306,7 @@ msgid "Plan an event"
 msgstr "Programmer un évènement"
 
 #: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html
 msgid "Recording in progress"
 msgstr "Enregistrement en cours"
 
@@ -3369,11 +3376,6 @@ msgstr "Message non envoyé: problème de connexion (REDIS)"
 #: pod/live/templates/live/directs_all.html
 msgid "Sorry, no buildings found."
 msgstr "Désolé, aucun bâtiment trouvé."
-
-#: pod/live/templates/live/event-all-info.html
-#: pod/video/templates/videos/video-all-info.html
-msgid "Report the video"
-msgstr "Signaler la vidéo"
 
 #: pod/live/templates/live/event-all-info.html
 #: pod/live/templates/live/event-info.html
@@ -3506,6 +3508,46 @@ msgid "Warning, it use google API"
 msgstr "Attention, utilise une API Google"
 
 #: pod/live/templates/live/event-script.html
+msgid "Recording not done: "
+msgstr "Impossible de commencer l'enregistrement : "
+
+#: pod/live/templates/live/event-script.html
+msgid "Error calling"
+msgstr "Erreur à l'appel de"
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording stopped"
+msgstr "Enregistrement arrêté"
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording not stopped: "
+msgstr "Impossible d'arrêter l'enregistrement : "
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording split done"
+msgstr "Découpe de l'enregistrement effectué"
+
+#: pod/live/templates/live/event-script.html
+msgid "Recording not split: "
+msgstr "Impossible de découper l'enregistrement : "
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream started (please wait a moment)"
+msgstr "Flux vidéo ouvert (patienter pour le rafraichissement)"
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream can not be started"
+msgstr "Impossible d'ouvrir le flux vidéo"
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream stopped (please wait a moment)"
+msgstr "Flux vidéo fermé (patienter pour le rafraichissement)"
+
+#: pod/live/templates/live/event-script.html
+msgid "Video stream can not be stopped"
+msgstr "Impossible de fermer le flux vidéo"
+
+#: pod/live/templates/live/event-script.html
 msgid "Recording duration"
 msgstr "Temps d’enregistrement"
 
@@ -3516,6 +3558,22 @@ msgstr "Temps d’enregistrement"
 #: pod/main/templates/navbar.html
 msgid "My events"
 msgstr "Mes évènements"
+
+#: pod/live/templates/live/event.html
+msgid "Report the event"
+msgstr "Signaler l'évènement"
+
+#: pod/live/templates/live/event.html
+msgid "Start stream"
+msgstr "Ouvrir le flux vidéo"
+
+#: pod/live/templates/live/event.html
+msgid "Stop stream"
+msgstr "Fermer le flux vidéo"
+
+#: pod/live/templates/live/event.html
+msgid "Start stream and record"
+msgstr "Ouvrir le flux vidéo et enregistrer"
 
 #: pod/live/templates/live/event.html
 msgid "Start record"
@@ -7390,6 +7448,10 @@ msgid ""
 msgstr ""
 "Veuillez utiliser la barre d’outils située au bas de la vignette de la vidéo "
 "sur laquelle vous voulez travailler."
+
+#: pod/video/templates/videos/video-all-info.html
+msgid "Report the video"
+msgstr "Signaler la vidéo"
 
 #: pod/video/templates/videos/video-all-info.html
 msgid ""
