@@ -86,6 +86,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -317,6 +318,8 @@ msgstr ""
 >>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 =======
 >>>>>>> fbaa3e0b (ajout)
+=======
+>>>>>>> 82df45bd ([DONE] live Extron SMP (#873))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -428,6 +431,8 @@ msgstr ""
 >>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
 =======
 >>>>>>> 88aac632 (ajout)
+=======
+>>>>>>> a58b2fc5 ([DONE] live Extron SMP (#873))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -630,8 +635,20 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 >>>>>>> 88aac632 (ajout)
+<<<<<<< HEAD
 >>>>>>> fbaa3e0b (ajout)
+=======
+=======
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 934d0b65 ([DONE] live Extron SMP (#873))
+>>>>>>> a58b2fc5 ([DONE] live Extron SMP (#873))
+>>>>>>> 82df45bd ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
