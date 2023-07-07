@@ -28,6 +28,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -98,6 +99,12 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 >>>>>>> 4ef26a00 (ajout)
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 934d0b65 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
