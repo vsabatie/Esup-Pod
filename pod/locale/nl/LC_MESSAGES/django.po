@@ -63,6 +63,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -248,6 +249,8 @@ msgstr ""
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -311,7 +314,16 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -7609,6 +7621,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7662,6 +7675,8 @@ msgid "Protected playlist form"
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7681,8 +7696,14 @@ msgstr ""
 #: pod/playlist/templates/playlist/protected-playlist-form.html
 msgid "Protected playlist form"
 =======
+=======
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html

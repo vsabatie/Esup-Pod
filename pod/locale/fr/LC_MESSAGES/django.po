@@ -57,6 +57,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -225,6 +226,8 @@ msgstr ""
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -288,7 +291,16 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -2256,8 +2268,13 @@ msgstr "Sous-titres et légendes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+=======
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
@@ -2273,6 +2290,7 @@ msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "pour créer les fichiers de sous-titres ou de légendes"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 =======
 msgid "To create your subtitles and/or caption(s) files"
@@ -2283,6 +2301,8 @@ msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 >>>>>>> c7c7882c ([DONE] live Extron SMP (#873))
 <<<<<<< HEAD
 >>>>>>> c8fb6985 ([DONE] live Extron SMP (#873))
@@ -2291,7 +2311,13 @@ msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 >>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+<<<<<<< HEAD
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+=======
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 
 #: pod/completion/templates/video_completion.html
 msgid "Add a new subtitle or caption file"
@@ -3506,6 +3532,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3599,6 +3626,8 @@ msgstr ""
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -3619,7 +3648,12 @@ msgstr ""
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 =======
+=======
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5f137acd (Encoding ok)
 >>>>>>> 09b732ff (Encoding ok)
@@ -8801,10 +8835,21 @@ msgid ""
 #| "You have not created any playlists yet, please use the \"Add a new "
 #| "playlist\" button to add one."
 msgid ""
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."

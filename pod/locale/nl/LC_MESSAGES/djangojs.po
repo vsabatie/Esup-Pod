@@ -56,6 +56,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -241,6 +242,8 @@ msgstr ""
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -304,7 +307,16 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -717,6 +729,10 @@ msgstr ""
 msgid "An error occurred"
 msgstr ""
 
+#: pod/live/static/js/admin_broadcaster.js
+msgid "An error occurred"
+msgstr ""
+
 #: pod/live/static/js/broadcaster_from_building.js
 msgid "Restricted because the broadcaster is restricted"
 msgstr ""
@@ -1095,6 +1111,11 @@ msgid "Loading…"
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+msgstr ""
+
+#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr ""
 
@@ -1450,13 +1471,22 @@ msgid "video"
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
+<<<<<<< HEAD
 msgid "No element found"
 >>>>>>> 5f137acd (Encoding ok)
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
+<<<<<<< HEAD
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+>>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 msgid "An error occurred during the change of owner"
 msgstr ""
 
