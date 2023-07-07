@@ -5,7 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -5673,8 +5677,13 @@ msgstr ""
 
 #: pod/playlist/templates/playlist/playlists.html
 msgid ""
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html

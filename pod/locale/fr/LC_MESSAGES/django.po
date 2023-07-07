@@ -5,7 +5,11 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -1668,8 +1672,15 @@ msgid "Subtitle(s) and Caption(s)"
 msgstr "Sous-titres et légendes"
 
 #: pod/completion/templates/video_completion.html
+<<<<<<< HEAD
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
+=======
+#, fuzzy
+#| msgid "to create your subtitles and/or caption(s) files"
+msgid "To create your subtitles and/or caption(s) files"
+msgstr "pour créer les fichiers de sous-titres ou de légendes"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 
 #: pod/completion/templates/video_completion.html
 msgid "Add a new subtitle or caption file"
@@ -2724,7 +2735,11 @@ msgid ""
 "This video was uploaded to Pod; its origin is %(type)s : <a href=\"%(url)s\" "
 "target=\"_blank\">%(url)s</a>"
 msgstr ""
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 
 #: pod/import_video/views.py pod/meeting/views.py
@@ -6017,8 +6032,13 @@ msgstr "Aucune liste de lecture trouvée"
 #| "You have not created any playlists yet, please use the \"Add a new "
 #| "playlist\" button to add one."
 msgid ""
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."
