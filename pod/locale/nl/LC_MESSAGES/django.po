@@ -6,10 +6,14 @@ msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2572,8 +2576,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
-"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
 #: pod/import_video/views.py
@@ -4562,6 +4566,7 @@ msgstr ""
 msgid "Log out"
 msgstr "Uitloggen"
 
+<<<<<<< HEAD
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr ""
@@ -4574,6 +4579,8 @@ msgstr ""
 msgid "Number of playlists:"
 msgstr ""
 
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -5678,12 +5685,17 @@ msgstr ""
 #: pod/playlist/templates/playlist/playlists.html
 msgid ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
 "You have not created any playlists yet, please use the \"Add a new "
 "playlist\" button to add one."
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"You have not created any playlists yet, please use the \"Add a new playlist"
+"\" button to add one."
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html
@@ -5710,8 +5722,92 @@ msgstr ""
 msgid "This field is required."
 msgstr "Titelveld is verplicht"
 
+<<<<<<< HEAD
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
+=======
+#: pod/playlist/templates/playlist.html
+msgid "Back to my playlists"
+msgstr ""
+
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Repeat the playlist"
+msgstr ""
+
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Switch to next video automatically"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "List of videos"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Thumbnail"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Video thumbnail"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move up"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move down"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Save position"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is visible to all users."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is only visible by you."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_list.html
+#: pod/playlist/templates/playlist/playlist_video_list.html
+#: pod/video/templates/channel/channel.html
+#, python-format
+msgid "%(counter)s video"
+msgid_plural "%(counter)s videos"
+msgstr[0] ""
+msgstr[1] ""
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Launch"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Sorry, no playlist found"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is password protected."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is chaptered."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Video content."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Audio content."
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/views.py
@@ -6178,8 +6274,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html

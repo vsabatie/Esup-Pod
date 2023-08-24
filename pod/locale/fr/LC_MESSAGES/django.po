@@ -6,10 +6,14 @@ msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -1746,8 +1750,8 @@ msgstr ""
 #: pod/completion/templates/video_completion.html
 msgid "Subtitles and/or caption(s) files must be in \".vtt\" format."
 msgstr ""
-"Les fichiers de sous-titres et/ou de légendes doivent être au format \"."
-"vtt\"."
+"Les fichiers de sous-titres et/ou de légendes doivent être au format \".vtt"
+"\"."
 
 #: pod/completion/templates/video_completion.html
 msgid "You can use"
@@ -2239,8 +2243,8 @@ msgid ""
 msgstr ""
 "Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
-"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
-"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
+"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -2736,11 +2740,16 @@ msgid ""
 "target=\"_blank\">%(url)s</a>"
 msgstr ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -2751,8 +2760,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
-"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -4824,6 +4833,7 @@ msgstr "Revendiquer un enregistrement"
 msgid "Log out"
 msgstr "Déconnexion"
 
+<<<<<<< HEAD
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr "Vos statistiques"
@@ -4836,6 +4846,8 @@ msgstr "Nombre de vidéos :"
 msgid "Number of playlists:"
 msgstr "Nombre de listes de lecture :"
 
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -5555,16 +5567,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente "
-"<b>%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente <b>"
+"%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -5590,8 +5602,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -6033,12 +6045,17 @@ msgstr "Aucune liste de lecture trouvée"
 #| "playlist\" button to add one."
 msgid ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
 "You have not created any playlists yet, please use the \"Add a new "
 "playlist\" button to add one."
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"You have not created any playlists yet, please use the \"Add a new playlist"
+"\" button to add one."
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."
@@ -6067,9 +6084,94 @@ msgstr "Favoris"
 msgid "This field is required."
 msgstr "Champ de titre est requis"
 
+<<<<<<< HEAD
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 msgstr "Vous ne pouvez créer une liste de lecture nommé \"Favoris\""
+=======
+#: pod/playlist/templates/playlist.html
+msgid "Back to my playlists"
+msgstr "Retour à mes listes de lecture"
+
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Repeat the playlist"
+msgstr "Répéter la liste de lecture"
+
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Switch to next video automatically"
+msgstr "Passer automatiquement à la prochaine vidéo"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "List of videos"
+msgstr "Liste des vidéos"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Video thumbnail"
+msgstr "Vignette de la vidéo"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move up"
+msgstr "Déplacer vers le haut"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move down"
+msgstr "Déplacer vers le bas"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Save position"
+msgstr "Enregistrer les positions"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is visible to all users."
+msgstr "Cette liste de lecture est visible à d’autres utilisateurs."
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is only visible by you."
+msgstr "Vous seul pouvez voir cette liste de lecture."
+
+#: pod/playlist/templates/playlist/playlist_list.html
+#: pod/playlist/templates/playlist/playlist_video_list.html
+#: pod/video/templates/channel/channel.html
+#, python-format
+msgid "%(counter)s video"
+msgid_plural "%(counter)s videos"
+msgstr[0] "%(counter)s vidéo"
+msgstr[1] "%(counter)s vidéos"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Launch"
+msgstr "Lancer"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Sorry, no playlist found"
+msgstr "Désolé, aucune liste de lecture trouvée"
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is password protected."
+msgstr "Ce contenu est protégé par un mot de passe."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is chaptered."
+msgstr "Ce contenu est chapitré."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Video content."
+msgstr "Contenu vidéo."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Audio content."
+msgstr "Contenu audio."
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/playlist/views.py
 msgid "The playlist has been deleted."
@@ -6562,8 +6664,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -6642,10 +6744,9 @@ msgid ""
 msgstr ""
 "Bonjour, <p>un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur \"%(recorder)s\".<br>Pour "
-"l’ajouter, cliquez sur le lien ci dessous.</p><a "
-"href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
-"faut le copier-coller dans la barre d’adresse de votre navigateur.</"
-"i><p><p>Cordialement</p>"
+"l’ajouter, cliquez sur le lien ci dessous.</p><a href=\"%(link_url)s\">"
+"%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
+"dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -6977,8 +7078,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
-"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
+"%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -7718,8 +7819,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
-"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
+"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -8536,9 +8637,12 @@ msgstr "Résultats de la recherche"
 msgid "Esup-Pod xAPI"
 msgstr "xAPI Esup-Pod"
 
+<<<<<<< HEAD
 #~ msgid "End:"
 #~ msgstr "Fin :"
 
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 #~ msgid "%(counter)s Channel"
 #~ msgid_plural "%(counter)s Channels"
 #~ msgstr[0] "%(counter)s Chaîne"
