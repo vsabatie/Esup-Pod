@@ -1661,3 +1661,11 @@ div.disabled, a.player-element.disabled {
 .progress .progress-bar {
   width: 100%;
 }
+
+.progress {
+  height: .6em;
+}
+
+.progress .progress-bar {
+  width: 100%;
+}
