@@ -57,6 +57,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -244,6 +245,8 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -311,12 +314,23 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 =======
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -473,6 +487,7 @@ msgstr ""
 #: pod/completion/static/js/caption_maker.js
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "A caption cannot has more than 80 characters."
 msgstr ""
 
@@ -505,6 +520,8 @@ msgid "Caption / Subtitle"
 =======
 =======
 >>>>>>> 5f137acd (Encoding ok)
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 msgid "Caption"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
@@ -892,6 +909,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
@@ -913,6 +931,8 @@ msgstr ""
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
 msgstr ""
@@ -921,7 +941,12 @@ msgstr ""
 msgid "Information"
 msgstr ""
 
+<<<<<<< HEAD
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+=======
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."
 msgstr ""
@@ -942,6 +967,7 @@ msgid "The video slug not found."
 msgstr ""
 
 #: pod/playlist/static/js/playlist.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
@@ -969,6 +995,8 @@ msgstr ""
 #: pod/playlist/static/playlist/js/add-or-edit.js
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -980,7 +1008,13 @@ msgstr ""
 
 #: pod/playlist/static/playlist/js/add-or-edit.js
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 msgid ""
 "<b>Password-protected:</b> the playlist can be accessed by anyone with the "
 "appropriate link and password."
@@ -1111,11 +1145,6 @@ msgid "Loading…"
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
-#: pod/video/static/js/change_video_owner.js
-msgid "Loading…"
-msgstr ""
-
-#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr ""
 
@@ -1141,6 +1170,10 @@ msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Server error"
+msgstr ""
+
+#: pod/podfile/static/podfile/js/filewidget.js
+msgid "Add"
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
@@ -1275,10 +1308,13 @@ msgstr ""
 =======
 =======
 #: pod/video/static/js/ajax-display-channels.js
+<<<<<<< HEAD
 msgid "Channels"
 msgstr ""
 
 #: pod/video/static/js/ajax-display-channels.js
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 msgid "Channel"
 msgstr ""
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
@@ -1325,6 +1361,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/video/static/js/ajax-display-channels.js
 msgid "video"
 msgstr ""
@@ -1333,6 +1370,8 @@ msgstr ""
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/video/static/js/change_video_owner.js
 <<<<<<< HEAD
 msgid "No element found"
@@ -1466,10 +1505,14 @@ msgstr ""
 =======
 msgid "Loading…"
 =======
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/video/static/js/ajax-display-channels.js
 msgid "video"
 msgstr ""
 
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/video/static/js/change_video_owner.js
 <<<<<<< HEAD
 msgid "No element found"
@@ -1477,6 +1520,7 @@ msgid "No element found"
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
@@ -1486,7 +1530,20 @@ msgstr ""
 =======
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+=======
+=======
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+msgid "Loading…"
+msgstr ""
+
+#: pod/video/static/js/change_video_owner.js
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 msgid "An error occurred during the change of owner"
 msgstr ""
 
@@ -1503,38 +1560,19 @@ msgid "Answers"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Cancel"
+msgid "Delete"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgid "Cancel"
+msgstr ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Reply to comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Reply"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
 msgid "Remove this comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Add a public comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Send"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
@@ -1548,6 +1586,13 @@ msgstr ""
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr ""
+
+#: pod/video/static/js/comment-script.js
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] ""
+msgstr[1] ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -1569,47 +1614,38 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr ""
 
@@ -1695,18 +1731,6 @@ msgstr ""
 
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Delete the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Success!"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Error…"
 msgstr ""
 
 #: pod/video/static/js/video_category.js

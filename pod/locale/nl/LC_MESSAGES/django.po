@@ -64,6 +64,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -251,6 +252,8 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -318,12 +321,23 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 =======
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3271,6 +3285,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3284,6 +3299,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 856119ca (ajout)
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -5570,6 +5589,7 @@ msgstr "Uitloggen"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -5586,6 +5606,12 @@ msgstr "Uitloggen"
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr ""
@@ -5616,6 +5642,7 @@ msgstr ""
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
@@ -5633,6 +5660,8 @@ msgstr ""
 =======
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar.html
 msgid "Open login page"
 msgstr ""
@@ -5691,6 +5720,10 @@ msgid "Number of playlists:"
 msgstr ""
 
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -7622,6 +7655,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7677,6 +7711,8 @@ msgid "Protected playlist form"
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7698,12 +7734,18 @@ msgid "Protected playlist form"
 =======
 =======
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
 "You have not created any playlists yet, please use the \"Add a new "
 "playlist\" button to add one."
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"You have not created any playlists yet, please use the \"Add a new playlist"
+"\" button to add one."
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html
@@ -7754,10 +7796,16 @@ msgstr "Titelveld is verplicht"
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 =======
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/templates/playlist.html
 msgid "Back to my playlists"
 msgstr ""
 
+<<<<<<< HEAD
 =======
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
@@ -7768,6 +7816,9 @@ msgid "You cannot create a playlist named \"Favorites\""
 msgid "You cannot create a playlist named \"Favorites\""
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/templates/playlist/player_controls.html
 msgid "Repeat the playlist"
 msgstr ""
@@ -7847,12 +7898,15 @@ msgstr ""
 msgid "Audio content."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7878,6 +7932,7 @@ msgstr "Titelveld is verplicht"
 msgid "You cannot create a playlist named \"Favorites\""
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 msgid "contact its owner"
@@ -7901,6 +7956,11 @@ msgid "You cannot create a playlist named \"Favorites\""
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/views.py
@@ -8474,8 +8534,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
