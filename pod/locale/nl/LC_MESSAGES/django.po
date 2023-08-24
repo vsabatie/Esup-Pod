@@ -87,6 +87,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -320,6 +321,8 @@ msgstr ""
 >>>>>>> fbaa3e0b (ajout)
 =======
 >>>>>>> 82df45bd ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -433,6 +436,8 @@ msgstr ""
 >>>>>>> 88aac632 (ajout)
 =======
 >>>>>>> a58b2fc5 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -642,13 +647,27 @@ msgstr ""
 =======
 =======
 =======
+=======
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> 934d0b65 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> a58b2fc5 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> 82df45bd ([DONE] live Extron SMP (#873))
+=======
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3754,6 +3773,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3802,6 +3822,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -6221,6 +6245,7 @@ msgstr "Uitloggen"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -6241,6 +6266,8 @@ msgstr "Uitloggen"
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -6251,7 +6278,16 @@ msgstr "Uitloggen"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr ""
@@ -6409,6 +6445,8 @@ msgstr ""
 msgid "Channel list"
 msgstr ""
 
+=======
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -8753,6 +8791,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8814,6 +8853,8 @@ msgid "Protected playlist form"
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> fbaa3e0b (ajout)
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8841,6 +8882,8 @@ msgid "Protected playlist form"
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 88aac632 (ajout)
+=======
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8859,6 +8902,10 @@ msgid "Protected playlist form"
 "You have not created any playlists yet, please use the \"Add a new "
 "playlist\" button to add one."
 >>>>>>> 4ef26a00 (ajout)
+=======
+"You have not created any playlists yet, please use the \"Add a new playlist"
+"\" button to add one."
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/templates/playlist/playlists.html
@@ -8911,8 +8958,11 @@ msgstr "Titelveld is verplicht"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 =======
@@ -8925,6 +8975,7 @@ msgid "You cannot create a playlist named \"Favorites\""
 msgid "Back to my playlists"
 msgstr ""
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #: pod/playlist/tests/test_forms.py
@@ -8939,6 +8990,16 @@ msgid "You cannot create a playlist named \"Favorites\""
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+#: pod/playlist/tests/test_forms.py
+msgid "You cannot create a playlist named \"Favorites\""
+=======
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/templates/playlist/player_controls.html
 msgid "Repeat the playlist"
 msgstr ""
@@ -9019,6 +9080,7 @@ msgid "Audio content."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 #: pod/playlist/tests/test_forms.py
@@ -9027,6 +9089,8 @@ msgid "You cannot create a playlist named \"Favorites\""
 =======
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9078,6 +9142,8 @@ msgid "You cannot create a playlist named \"Favorites\""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 =======
+=======
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -9089,8 +9155,17 @@ msgid "You cannot create a playlist named \"Favorites\""
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 
 #: pod/playlist/views.py
@@ -9709,8 +9784,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html

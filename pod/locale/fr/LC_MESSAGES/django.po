@@ -79,6 +79,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -291,6 +292,8 @@ msgstr ""
 >>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> fbaa3e0b (ajout)
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -400,6 +403,8 @@ msgstr ""
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 88aac632 (ajout)
+=======
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -574,6 +579,20 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 >>>>>>> 4ef26a00 (ajout)
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+=======
+"POT-Creation-Date: 2023-07-05 15:50+0200\n"
+>>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+"POT-Creation-Date: 2023-08-14 13:00+0000\n"
+>>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 "PO-Revision-Date: \n"
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2804,6 +2823,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
 "vtt »."
 =======
@@ -2830,6 +2850,10 @@ msgstr ""
 "Les fichiers de sous-titres et/ou de légendes doivent être au format \"."
 "vtt\"."
 >>>>>>> 88aac632 (ajout)
+=======
+"Les fichiers de sous-titres et/ou de légendes doivent être au format \".vtt"
+"\"."
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/completion/templates/video_completion.html
 msgid "You can use"
@@ -3478,10 +3502,18 @@ msgstr ""
 =======
 "Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
+<<<<<<< HEAD
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 88aac632 (ajout)
+<<<<<<< HEAD
 >>>>>>> fbaa3e0b (ajout)
+=======
+=======
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
+"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -4083,6 +4115,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4196,6 +4229,8 @@ msgstr ""
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> fbaa3e0b (ajout)
+=======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4236,6 +4271,8 @@ msgstr ""
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 88aac632 (ajout)
+=======
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4324,8 +4361,18 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 >>>>>>> 88aac632 (ajout)
+<<<<<<< HEAD
 >>>>>>> fbaa3e0b (ajout)
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -4336,6 +4383,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4393,6 +4441,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 88aac632 (ajout)
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7211,6 +7263,7 @@ msgstr "Déconnexion"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -7231,6 +7284,8 @@ msgstr "Déconnexion"
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -7241,7 +7296,16 @@ msgstr "Déconnexion"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr "Vos statistiques"
@@ -7406,6 +7470,8 @@ msgstr "Ouvrir la page de connexion"
 msgid "Channel list"
 msgstr "Liste des chaînes"
 
+=======
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -8407,16 +8473,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente "
-"<b>%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente <b>"
+"%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8442,8 +8508,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -10493,6 +10559,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 <<<<<<< HEAD
@@ -10535,8 +10602,18 @@ msgid ""
 "You have not created any playlists yet, please use the \"Add a new "
 "playlist\" button to add one."
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 >>>>>>> 88aac632 (ajout)
+<<<<<<< HEAD
 >>>>>>> fbaa3e0b (ajout)
+=======
+=======
+=======
+"You have not created any playlists yet, please use the \"Add a new playlist"
+"\" button to add one."
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+>>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."
@@ -11022,6 +11099,7 @@ msgstr "Ce champ est requis."
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 msgstr "Vous ne pouvez créer une liste de lecture nommé \"Favoris\""
@@ -11131,9 +11209,91 @@ msgstr "JSON au mauvais format"
 msgid "This video isn't present in this playlist."
 msgstr "Cette vidéo n'est pas présente dans cette playlist."
 =======
+=======
+>>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 msgstr "Vous ne pouvez créer une liste de lecture nommé \"Favoris\""
+=======
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Repeat the playlist"
+msgstr "Répéter la liste de lecture"
+
+#: pod/playlist/templates/playlist/player_controls.html
+msgid "Switch to next video automatically"
+msgstr "Passer automatiquement à la prochaine vidéo"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "List of videos"
+msgstr "Liste des vidéos"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Thumbnail"
+msgstr "Vignette"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Video thumbnail"
+msgstr "Vignette de la vidéo"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move up"
+msgstr "Déplacer vers le haut"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Move down"
+msgstr "Déplacer vers le bas"
+
+#: pod/playlist/templates/playlist/playlist_element_list.html
+msgid "Save position"
+msgstr "Enregistrer les positions"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is visible to all users."
+msgstr "Cette liste de lecture est visible à d’autres utilisateurs."
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "This playlist is only visible by you."
+msgstr "Vous seul pouvez voir cette liste de lecture."
+
+#: pod/playlist/templates/playlist/playlist_list.html
+#: pod/playlist/templates/playlist/playlist_video_list.html
+#: pod/video/templates/channel/channel.html
+#, python-format
+msgid "%(counter)s video"
+msgid_plural "%(counter)s videos"
+msgstr[0] "%(counter)s vidéo"
+msgstr[1] "%(counter)s vidéos"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Launch"
+msgstr "Lancer"
+
+#: pod/playlist/templates/playlist/playlist_list.html
+msgid "Sorry, no playlist found"
+msgstr "Désolé, aucune liste de lecture trouvée"
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is password protected."
+msgstr "Ce contenu est protégé par un mot de passe."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+msgid "This content is chaptered."
+msgstr "Ce contenu est chapitré."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Video content."
+msgstr "Contenu vidéo."
+
+#: pod/playlist/templates/playlist/playlist_video_card.html
+#: pod/video/templates/videos/card.html
+#: pod/video/templates/videos/category_modal_card.html
+msgid "Audio content."
+msgstr "Contenu audio."
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/playlist/views.py
 msgid "The playlist has been deleted."
@@ -11768,8 +11928,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11865,6 +12025,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 856119ca (ajout)
 =======
@@ -11931,6 +12092,11 @@ msgstr ""
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 88aac632 (ajout)
+=======
+"l’ajouter, cliquez sur le lien ci dessous.</p><a href=\"%(link_url)s\">"
+"%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
+"dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
+>>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -12278,8 +12444,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
-"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
+"%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -13191,8 +13357,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
-"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
+"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -14638,8 +14804,26 @@ msgstr "xAPI Esup-Pod"
 =======
 =======
 
+<<<<<<< HEAD
 #~ msgid "Toggle navigation"
 #~ msgstr "Basculer le menu"
+=======
+#~ msgid "%(counter)s Channel"
+#~ msgid_plural "%(counter)s Channels"
+#~ msgstr[0] "%(counter)s Chaîne"
+#~ msgstr[1] "%(counter)s Chaînes"
+
+#~ msgid "%(counter)s Theme"
+#~ msgid_plural "%(counter)s Themes"
+#~ msgstr[0] "%(counter)s Thème"
+#~ msgstr[1] "%(counter)s Thèmes"
+
+#~ msgid "No channels found"
+#~ msgstr "Aucune chaîne trouvée"
+
+#~ msgid "Error in %s: "
+#~ msgstr "Erreur sur %s : "
+>>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 
 #~ msgid "The password is / will be encrypted."
 #~ msgstr "Le mot de passe est / sera encrypté."
