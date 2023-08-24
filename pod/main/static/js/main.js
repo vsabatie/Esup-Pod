@@ -426,11 +426,7 @@ var get_list = function (
         channel,
       );
     }
-    if (
-      count > 0 &&
-      show_only_parent_themes &&
-      theme_parents.includes(val.slug)
-    ) {
+    if(count > 0 && show_only_parent_themes && theme_parents.includes(val.slug)) {
       list += get_list(
         child,
         level + 1,

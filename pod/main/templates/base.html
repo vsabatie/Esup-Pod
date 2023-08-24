@@ -208,6 +208,19 @@
     <script src="{% static 'js/ajax-display-channels.js' %}?ver={{VERSION}}"></script>
   {% endif %}
 
+    /**
+     * URL to send a request to get the channel tab list.
+     */
+    const GET_CHANNEL_TAGS_REQUEST_URL = '{% url 'video:get-channel-tabs' %}';
+
+    /**
+     * URL to send a request to get the theme list.
+     */
+    const GET_THEMES_FOR_SPECIFIC_CHANNEL_REQUEST_URL = '{% url 'video:get-themes-for-specific-channel' slug="__SLUG__" %}';
+    </script>
+    <script src="{% static 'js/ajax-display-channels.js' %}?ver={{VERSION}}"></script>
+  {% endif %}
+
   <div id="more-script">
     {% block more_script %}
     {% endblock more_script %}

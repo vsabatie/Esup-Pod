@@ -1,5 +1,4 @@
 """Esup-Pod videos views."""
-from django.core.exceptions import PermissionDenied, SuspiciousOperation
 from django.core.handlers.wsgi import WSGIRequest
 from django.core.paginator import Paginator, EmptyPage, PageNotAnInteger
 from django.core.serializers.json import DjangoJSONEncoder
@@ -1100,11 +1099,10 @@ def video_edit(request, slug=None):
                 _("One or more errors have been found in the form."),
             )
 
-    return render(
-        request,
-        "videos/video_edit.html",
-        {"form": form, "listTheme": json.dumps(get_list_theme_in_form(form))},
-    )
+    return render(request, "videos/video_edit.html", {
+        "form": form,
+        "listTheme": json.dumps(get_list_theme_in_form(form))
+    })
 
 
 def get_list_theme_in_form(form):
@@ -2949,18 +2947,12 @@ def get_serialized_channels(request: WSGIRequest, channels: QueryDict) -> dict:
         dict: The channel list in JSON format.
     """
     channels_json_format = {}
-    for num, channel in enumerate(channels):
-        channels_json_format[num] = ChannelSerializer(
-            channel, context={"request": request}
-        ).data
-        channels_json_format[num]["url"] = reverse(
-            "channel-video:channel", kwargs={"slug_c": channel.slug}
-        )
-        channels_json_format[num]["videoCount"] = channel.video_count
-        channels_json_format[num]["headbandImage"] = (
-            channel.headband.file.url if channel.headband else ""
-        )
-        channels_json_format[num]["themes"] = channel.themes.count()
+    for channel in channels:
+        channels_json_format[channel.pk] = ChannelSerializer(channel, context={'request': request}).data
+        channels_json_format[channel.pk]["url"] = reverse('channel-video:channel', kwargs={"slug_c": channel.slug})
+        channels_json_format[channel.pk]["videoCount"] = channel.video_count
+        channels_json_format[channel.pk]["headbandImage"] = channel.headband.file.url if channel.headband else ""
+        channels_json_format[channel.pk]["themes"] = channel.themes.count()
     return channels_json_format
 
 
@@ -2976,8 +2968,8 @@ def get_channel_tabs_for_navbar(request: WSGIRequest) -> JsonResponse:
     """
     channel_tabs = AdditionalChannelTab.objects.all()
     channel_tabs_json_format = {}
-    for num, channel_tab in enumerate(channel_tabs):
-        channel_tabs_json_format[num] = {
+    for channel_tab in channel_tabs:
+        channel_tabs_json_format[channel_tab.pk] = {
             "id": channel_tab.pk,
             "name": channel_tab.name,
         }
@@ -3006,7 +2998,7 @@ def get_channels_for_specific_channel_tab(request: WSGIRequest) -> JsonResponse:
             )
             .distinct()
             .annotate(video_count=Count("video", distinct=True))
-            .order_by("title")
+            .order_by('title')
         )
     else:
         channels = (
@@ -3018,7 +3010,7 @@ def get_channels_for_specific_channel_tab(request: WSGIRequest) -> JsonResponse:
             )
             .distinct()
             .annotate(video_count=Count("video", distinct=True))
-            .order_by("title")
+            .order_by('title')
         )
     paginator = Paginator(channels, CHANNELS_PER_BATCH)
     page_obj = paginator.get_page(page_number)

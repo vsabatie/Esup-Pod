@@ -1518,10 +1518,7 @@ class ChannelJsonResponseViews(TestCase):
     Args:
         TestCase (::class::`django.test.TestCase`): The test case.
     """
-
-    fixtures = [
-        "initial_data.json",
-    ]
+    fixtures = ["initial_data.json", ]
 
     def setUp(self):
         """Set up the tests."""
@@ -1557,9 +1554,7 @@ class ChannelJsonResponseViews(TestCase):
     @override_settings(HIDE_CHANNEL_TAB=False)
     def test_get_channels_for_navbar(self):
         """Test if the get channels request for the navbar works correctly."""
-        response = self.client.get(
-            f"{reverse('video:get-channels-for-specific-channel-tab')}"
-        )
+        response = self.client.get(f"{reverse('video:get-channels-for-specific-channel-tab')}")
         self.assertEqual(
             response.status_code,
             200,
@@ -1572,8 +1567,8 @@ class ChannelJsonResponseViews(TestCase):
         )
         self.assertEqual(
             response.content,
-            b'{"channels": {"0": {"id": 1, "url": "/first-channel/", "title": "First channel", "description": "", "headband": null, "color": null, "style": null, "owners": ["http://testserver/rest/users/1/"], "users": [], "visible": true, "themes": 0, "site": "http://testserver/rest/sites/1/", "videoCount": 1, "headbandImage": ""}}, "currentPage": 1, "totalPages": 1, "count": 1}',
-            "[test_get_channels_for_navbar] Test if the response content is correct.",
+            b'{"channels": {"1": {"id": 1, "url": "/first-channel/", "title": "First channel", "description": "", "headband": null, "color": null, "style": null, "owners": ["http://testserver/rest/users/1/"], "users": [], "visible": true, "themes": 0, "site": "http://testserver/rest/sites/1/", "videoCount": 1, "headbandImage": ""}}, "currentPage": 1, "totalPages": 1, "count": 1}',
+            "[test_get_channels_for_navbar] Test if the response content is correct."
         )
         print(" ---> test_get_channels_for_navbar : OK!")
 
@@ -1593,17 +1588,15 @@ class ChannelJsonResponseViews(TestCase):
         )
         self.assertEqual(
             response.content,
-            b'{"0": {"id": 1, "name": "Simple addional channel tab"}}',
-            "[test_get_channel_tabs_for_navbar] Test if the response content is correct.",
+            b'{"1": {"id": 1, "name": "Simple addional channel tab"}}',
+            "[test_get_channel_tabs_for_navbar] Test if the response content is correct."
         )
         print(" ---> test_get_channel_tabs_for_navbar : OK!")
 
     @override_settings(HIDE_CHANNEL_TAB=False)
     def test_get_channels_for_specific_channel_tab(self):
         """Test if the get channels request for a specific channel tab works correctly."""
-        response = self.client.get(
-            f"{reverse('video:get-channels-for-specific-channel-tab')}?page=1&id=1"
-        )
+        response = self.client.get(f"{reverse('video:get-channels-for-specific-channel-tab')}?page=1&id=1")
         self.assertEqual(
             response.status_code,
             200,
@@ -1616,7 +1609,7 @@ class ChannelJsonResponseViews(TestCase):
         )
         self.assertEqual(
             response.content,
-            b'{"channels": {"0": {"id": 2, "url": "/second-channel/", "title": "Second channel", "description": "", "headband": null, "color": null, "style": null, "owners": ["http://testserver/rest/users/1/"], "users": [], "visible": true, "themes": 0, "site": "http://testserver/rest/sites/1/", "videoCount": 1, "headbandImage": ""}}, "currentPage": 1, "totalPages": 1, "count": 1}',
-            "[test_get_channels_for_specific_channel_tab] Test if the response content is correct.",
+            b'{"channels": {"2": {"id": 2, "url": "/second-channel/", "title": "Second channel", "description": "", "headband": null, "color": null, "style": null, "owners": ["http://testserver/rest/users/1/"], "users": [], "visible": true, "themes": 0, "site": "http://testserver/rest/sites/1/", "videoCount": 1, "headbandImage": ""}}, "currentPage": 1, "totalPages": 1, "count": 1}',
+            "[test_get_channels_for_specific_channel_tab] Test if the response content is correct."
         )
         print(" ---> test_get_channels_for_specific_channel_tab : OK!")

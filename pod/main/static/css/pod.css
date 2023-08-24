@@ -1643,3 +1643,11 @@ body[data-admin-utc-offset]
   font-size: 13px;
   text-align: left;
 }
+
+.progress {
+  height: .6em;
+}
+
+.progress .progress-bar {
+  width: 100%;
+}
