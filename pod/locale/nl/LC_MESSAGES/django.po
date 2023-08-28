@@ -65,6 +65,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -254,6 +255,8 @@ msgstr ""
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -323,6 +326,8 @@ msgstr ""
 =======
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -336,8 +341,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-14 13:00+0000\n"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-18 09:32+0000\n"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1077,6 +1091,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
@@ -1085,6 +1100,10 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/bbb/templates/bbb/record_list.html pod/main/templates/loader.html
 =======
 #: pod/bbb/templates/bbb/record_list.html
@@ -1092,11 +1111,14 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 #: pod/bbb/templates/bbb/record_list.html pod/main/templates/loader.html
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1105,6 +1127,7 @@ msgstr ""
 =======
 #: pod/bbb/templates/bbb/record_list.html pod/main/templates/loader.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -1119,6 +1142,11 @@ msgstr ""
 #: pod/bbb/templates/bbb/record_list.html pod/main/templates/loader.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist-videos-list.html
 #: pod/podfile/templates/podfile/home_content.html
 #: pod/podfile/templates/podfile/list_folder_files.html
@@ -1577,6 +1605,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video_encode_transcript/models.py
 =======
@@ -1596,6 +1625,8 @@ msgstr ""
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/video/templates/channel/channel.html
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video/templates/videos/videos.html pod/video_encode_transcript/models.py
@@ -1612,6 +1643,7 @@ msgstr ""
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video_encode_transcript/models.py
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -1636,6 +1668,15 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+#: pod/video/templates/videos/video_breadcrumbs.html
+#: pod/video_encode_transcript/models.py
+=======
+#: pod/video/templates/videos/video.html pod/video_encode_transcript/models.py
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Video"
 msgstr ""
 
@@ -1798,6 +1839,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -1810,6 +1852,8 @@ msgstr ""
 >>>>>>> 386cba9c (ajout)
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -1871,7 +1915,16 @@ msgstr ""
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Position"
 msgstr ""
 
@@ -3784,6 +3837,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -3802,11 +3856,20 @@ msgstr ""
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/live/templates/live/direct.html
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3828,6 +3891,8 @@ msgstr ""
 >>>>>>> 23b50507 (ajout)
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 >>>>>>> 8eeb87fe (ajout)
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -3837,7 +3902,13 @@ msgstr ""
 =======
 =======
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr ""
@@ -5407,12 +5478,15 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Search for a media on"
 msgstr ""
 
@@ -5435,11 +5509,15 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 msgid "Promoted playlists"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -5450,6 +5528,9 @@ msgstr ""
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Some features are unavailable"
 msgstr ""
 
@@ -5590,6 +5671,7 @@ msgstr "Uitloggen"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -5608,15 +5690,25 @@ msgstr "Uitloggen"
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -5633,6 +5725,10 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Number of videos:"
 msgstr ""
 
@@ -5723,7 +5819,19 @@ msgstr ""
 =======
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+msgid "Number of videos"
+msgstr ""
+
+#: pod/main/templates/navbar.html
+msgid "Number of playlists"
+msgstr ""
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -5816,12 +5924,14 @@ msgid "Record session"
 =======
 msgstr ""
 
+<<<<<<< HEAD
 #: pod/meeting/forms.py
 msgid "Recurring options"
 >>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
 >>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 msgstr ""
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #: pod/meeting/forms.py
 msgid "Recurring options"
@@ -5833,6 +5943,10 @@ msgid "Recurring options"
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 =======
 =======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 #: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
 msgid "Owner of the video cannot be an additional owner too"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
@@ -6563,6 +6677,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/playlist/templatetags/favorites_playlist.py
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -6575,12 +6690,15 @@ msgstr ""
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templatetags/favorites_playlist.py
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/templatetags/favorites_playlist.py
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -6600,6 +6718,13 @@ msgstr ""
 #: pod/playlist/templatetags/favorites_playlist.py
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+#: pod/playlist/templatetags/favorites_playlist.py
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Your favorites videos."
 msgstr ""
 
@@ -6629,6 +6754,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/playlist/templates/playlist/playlist-informations-card.html
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -6641,10 +6767,13 @@ msgstr ""
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 #: pod/playlist/templates/playlist/playlist-informations-card.html
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 #: pod/playlist/templates/playlist/playlist-informations-card.html
@@ -6663,6 +6792,13 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+#: pod/playlist/templates/playlist/playlist-informations-card.html
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Right of access"
 msgstr ""
 
@@ -6739,6 +6875,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -6755,10 +6892,17 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/models.py
 #: pod/playlist/templates/playlist/playlist_breadcrumbs.html
 #: pod/playlist/tests/test_models.py pod/playlist/views.py
 #: pod/video/templates/videos/video_breadcrumbs.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6778,6 +6922,8 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/models.py pod/playlist/tests/test_models.py
 #: pod/playlist/views.py pod/video/templates/videos/video.html
@@ -6789,11 +6935,16 @@ msgstr ""
 =======
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/models.py pod/playlist/tests/test_models.py
 #: pod/playlist/views.py pod/video/templates/videos/video.html
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -6802,6 +6953,9 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Playlist"
 msgstr ""
 
@@ -6826,6 +6980,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
@@ -6834,6 +6989,10 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_sort_select.html
 msgid "Creation date"
 msgstr ""
@@ -6854,6 +7013,9 @@ msgid "Date created"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/templates/playlist/playlist_sort_select.html
 msgid "Creation date"
@@ -6920,6 +7082,7 @@ msgid "Date added"
 msgid "Addition date"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "Date created"
@@ -6934,10 +7097,20 @@ msgid "Update date"
 msgstr ""
 
 <<<<<<< HEAD
+=======
+=======
+msgstr ""
+
+#: pod/playlist/models.py
+msgid "Date updated"
+msgstr ""
+
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
 #: pod/video/templates/videos/video_sort_select.html
 msgid "Date added"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 =======
 #: pod/playlist/models.py
 msgid "Addition date"
@@ -6946,6 +7119,9 @@ msgid "Addition date"
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/models.py pod/video/templates/videos/video_sort_select.html
@@ -6997,6 +7173,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "Delete the playlist <strong>%(name)s</strong>"
 =======
 msgid "Delete the playlist <b>%(name)s</b>"
@@ -7009,6 +7186,8 @@ msgid "Delete the playlist <strong>%(name)s</strong>"
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Delete the playlist <strong>%(name)s</strong>"
 =======
 msgid "Delete the playlist <b>%(name)s</b>"
@@ -7020,6 +7199,7 @@ msgid "Delete the playlist <b>%(name)s</b>"
 =======
 msgid "Delete the playlist <strong>%(name)s</strong>"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "Delete the playlist <b>%(name)s</b>"
@@ -7038,6 +7218,14 @@ msgid "Delete the playlist <b>%(name)s</b>"
 msgid "Delete the playlist <strong>%(name)s</strong>"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgid "Delete the playlist <strong>%(name)s</strong>"
+=======
+msgid "Delete the playlist <b>%(name)s</b>"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/templates/playlist/delete.html
@@ -7078,6 +7266,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -7103,6 +7292,8 @@ msgstr ""
 =======
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid ""
 "When you click on a choice in the form, you will be automatically redirected "
 "to the page dedicated to this filter."
@@ -7110,9 +7301,14 @@ msgstr ""
 
 #: pod/playlist/templates/playlist/filter_aside.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "See my private playlists"
 msgstr ""
 
@@ -7137,6 +7333,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "See the additional playlists"
 =======
 msgid "See playlists I can contribute"
@@ -7149,6 +7346,8 @@ msgid "See the additional playlists"
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "See the additional playlists"
 =======
 msgid "See playlists I can contribute"
@@ -7160,6 +7359,7 @@ msgid "See playlists I can contribute"
 =======
 msgid "See the additional playlists"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "See playlists I can contribute"
@@ -7178,6 +7378,14 @@ msgid "See playlists I can contribute"
 msgid "See the additional playlists"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgid "See the additional playlists"
+=======
+msgid "See playlists I can contribute"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/templates/playlist/filter_aside.html
@@ -7213,6 +7421,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -7229,6 +7438,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Right of access:"
 msgstr ""
 
@@ -7240,6 +7455,7 @@ msgid "Playlist owner:"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 msgid "Playlist owner"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -7252,10 +7468,13 @@ msgid "Playlist owner"
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 msgid "Playlist owner"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "Playlist owner"
@@ -7274,6 +7493,13 @@ msgid "Playlist owner"
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+msgid "Playlist owner"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/templates/playlist/playlist-informations-card.html
@@ -7335,6 +7561,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "Reorganize your playlist videos"
 =======
 msgid "Reorganize your favorite videos"
@@ -7347,6 +7574,8 @@ msgid "Reorganize your playlist videos"
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid "Reorganize your playlist videos"
 =======
 msgid "Reorganize your favorite videos"
@@ -7358,6 +7587,7 @@ msgid "Reorganize your favorite videos"
 =======
 msgid "Reorganize your playlist videos"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "Reorganize your favorite videos"
@@ -7376,6 +7606,14 @@ msgid "Reorganize your favorite videos"
 msgid "Reorganize your playlist videos"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgid "Reorganize your playlist videos"
+=======
+msgid "Reorganize your favorite videos"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/templates/playlist/playlist.html
@@ -7415,6 +7653,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -7456,6 +7695,8 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_link.html
 #, python-format
 msgid "Edit the playlist “%(playlist.name)s”"
@@ -7465,14 +7706,22 @@ msgstr ""
 #, python-format
 msgid "Remove the playlist “%(playlist.name)s”"
 =======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+=======
 #: pod/playlist/templates/playlist/playlist_card.html
 #: pod/playlist/templates/playlist/playlist_player.html
 msgid "Playlist image"
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgstr ""
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_link.html
 msgid "Remove the playlist"
 msgstr ""
@@ -7497,6 +7746,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -7513,6 +7763,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_player.html
 msgid "Playlist image"
 msgstr ""
@@ -7523,6 +7779,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -7533,9 +7790,12 @@ msgstr ""
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -7551,6 +7811,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_sort_select.html
 #: pod/video/templates/videos/video_sort_select.html
 msgid "Sort"
@@ -7583,6 +7849,11 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -7602,10 +7873,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7613,6 +7887,7 @@ msgstr ""
 =======
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -7625,6 +7900,11 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_visibility_icon.html
 msgid "Public and promoted"
 msgstr ""
@@ -7642,6 +7922,7 @@ msgstr ""
 
 #: pod/playlist/templates/playlist/playlists.html
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7713,6 +7994,8 @@ msgid "Protected playlist form"
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7736,6 +8019,8 @@ msgid "Protected playlist form"
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -7746,6 +8031,10 @@ msgid "Protected playlist form"
 "You have not created any playlists yet, please use the \"Add a new playlist"
 "\" button to add one."
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"You haven't got any playlist yet, please use the \"Add a playlist\" button "
+"to add one."
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html
@@ -7793,6 +8082,9 @@ msgstr "Titelveld is verplicht"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
 =======
@@ -7959,8 +8251,18 @@ msgid "You cannot create a playlist named \"Favorites\""
 =======
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+#: pod/playlist/tests/test_forms.py
+msgid "You cannot create a playlist named \"Favorites\""
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/views.py
@@ -7983,6 +8285,7 @@ msgstr ""
 #: pod/playlist/views.py
 msgid "The playlist has been created and the video has been added in it."
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/playlist/views.py
@@ -8017,6 +8320,8 @@ msgid "The playlist has been created and the video has been added in it."
 =======
 msgid "The playlist has been created and the video has been added in it."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/views.py
@@ -8033,11 +8338,16 @@ msgstr ""
 #: pod/playlist/views.py
 msgid "This video isn't present in this playlist."
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 msgid "The playlist has been created and the video has been added in it."
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/podfile/apps.py
@@ -9032,7 +9342,18 @@ msgstr ""
 msgid "Visible"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+=======
+msgstr ""
+
+#: pod/video/models.py
+msgid ""
+"If checked, the channel appear in a list of available channels on the "
+"platform."
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/video/models.py
@@ -10068,6 +10389,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -10084,6 +10406,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/video/templates/videos/video_page_content.html
 msgid "Channel description"
 msgstr ""
@@ -10098,6 +10426,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -10108,9 +10437,12 @@ msgstr ""
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -10126,6 +10458,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/video/templates/videos/video_stats_view.html
 msgid "Change the date"
 msgstr ""

@@ -108,6 +108,11 @@
             </span>
           </li>
         {% endif %}
+        {% if USE_PLAYLIST %}
+          <li class="nav-item" id="nav-promoted-playlists">
+            <a class="nav-link" href="{% url 'playlist:list' %}?visibility=promoted"><i class="bi bi-list-stars pod-nav-link-icon"></i> {% trans "Promoted playlists"%}</a>
+          </li>
+        {% endif %}
         {% if "live" in THIRD_PARTY_APPS %}
           <li class="nav-item" id="nav-live">
             <a class="nav-link" href="{% url 'live:events'%}">

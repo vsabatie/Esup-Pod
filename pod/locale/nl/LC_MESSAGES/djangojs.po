@@ -58,6 +58,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -247,6 +248,8 @@ msgstr ""
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -316,6 +319,8 @@ msgstr ""
 =======
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -329,8 +334,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-14 13:00+0000\n"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-18 09:32+0000\n"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -397,6 +411,7 @@ msgid "starts at the same time."
 msgstr ""
 
 #: pod/chapter/static/js/videojs-chapters.js
+#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr ""
 
@@ -714,6 +729,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
@@ -736,16 +752,22 @@ msgstr ""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
 
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
@@ -780,6 +802,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -796,6 +819,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
@@ -808,6 +837,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -818,9 +848,12 @@ msgstr ""
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -836,6 +869,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr ""
@@ -910,6 +949,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
@@ -933,6 +973,8 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
 msgstr ""
@@ -946,7 +988,12 @@ msgstr ""
 =======
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."
 msgstr ""
@@ -1013,8 +1060,21 @@ msgstr ""
 =======
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+#: pod/playlist/static/playlist/js/add-or-edit.js
+msgid "<b>Public:</b> the playlist can be accessed by anyone."
+msgstr ""
+
+#: pod/playlist/static/playlist/js/add-or-edit.js
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgid ""
 "<b>Password-protected:</b> the playlist can be accessed by anyone with the "
 "appropriate link and password."
@@ -1032,6 +1092,11 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -1052,10 +1117,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1063,6 +1131,7 @@ msgstr ""
 =======
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -1075,12 +1144,18 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save your reorganization"
 msgstr ""
 
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1122,6 +1197,8 @@ msgid "Loading…"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
@@ -1133,6 +1210,8 @@ msgstr ""
 msgid "Loading…"
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
@@ -1142,6 +1221,8 @@ msgstr ""
 #: pod/podfile/static/podfile/js/filewidget.js
 #: pod/video/static/js/change_video_owner.js
 msgid "Loading…"
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
