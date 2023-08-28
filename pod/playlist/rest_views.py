@@ -6,8 +6,6 @@ from .models import Playlist, PlaylistContent
 
 
 class PlaylistContentSerializer(serializers.ModelSerializer):
-    """Serializer for the `PlaylistContent` model."""
-
     video = VideoSerializer()
 
     class Meta:
@@ -16,11 +14,7 @@ class PlaylistContentSerializer(serializers.ModelSerializer):
 
 
 class PlaylistSerializer(serializers.HyperlinkedModelSerializer):
-    """Serializer for the `Playlist` model."""
-
-    videos = PlaylistContentSerializer(
-        many=True, source="playlistcontent_set", read_only=True
-    )
+    videos = PlaylistContentSerializer(many=True, source="playlistcontent_set", read_only=True)
 
     class Meta:
         model = Playlist
@@ -39,7 +33,9 @@ class PlaylistSerializer(serializers.HyperlinkedModelSerializer):
             "additional_owners",
             "videos",
         )
-        read_only_fields = ("editable",)
+        read_only_fields = (
+            "editable",
+        )
 
 
 class PlaylistViewSet(viewsets.ModelViewSet):

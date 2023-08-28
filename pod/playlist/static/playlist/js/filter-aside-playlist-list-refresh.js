@@ -18,7 +18,6 @@ function getUrlForRefresh() {
     return newUrl;
 }
 
-
 /**
  * Updates playlist list.
  */
@@ -45,7 +44,6 @@ function refreshPlaylistsSearch() {
             );
         });
 }
-
 
 // Add trigger event to manage sort direction.
 document

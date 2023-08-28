@@ -414,7 +414,6 @@ class TestShowMeetingButton(TestCase):
 
 class TestNavbar(TestCase):
     """Navbar tests case."""
-
     fixtures = ["initial_data.json"]
 
     def setUp(self) -> None:

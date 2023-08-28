@@ -111,7 +111,6 @@ function refreshElementWithDocumentFragment(elementQuerySelector, newHTMLContent
     elementToRefresh.innerHTML = fragment.querySelector(elementQuerySelector).innerHTML;
 }
 
-
 /**
  * Scroll to the selected video.
  */
@@ -129,7 +128,6 @@ function scrollToSelectedVideo() {
     }
 }
 
-
 /**
  * Get startCountDown() promise.
  *
@@ -140,7 +138,6 @@ function asyncStartCountDown() {
         startCountdown(resolve);
     });
 }
-
 
 /**
  * Start the count down.
@@ -158,7 +155,6 @@ function startCountdown(callback) {
         callback();
     }
 }
-
 
 if (typeof videos === undefined) {
     let videos = document.querySelectorAll('.player-element');

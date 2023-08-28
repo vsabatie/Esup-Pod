@@ -52,6 +52,7 @@ class Playlist(models.Model):
             Please chosse a right of access among 'public', 'password-protected', 'private'.
             """
         ),
+        editable=False,
     )
     autoplay = models.BooleanField(
         verbose_name=_("Autoplay"),

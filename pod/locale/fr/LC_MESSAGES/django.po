@@ -7,6 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -14,6 +15,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-14 13:00+0000\n"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"POT-Creation-Date: 2023-08-18 09:32+0000\n"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -765,7 +769,12 @@ msgid "More"
 msgstr "Plus"
 
 #: pod/bbb/templates/bbb/live_record_list.html
+<<<<<<< HEAD
 #: pod/bbb/templates/bbb/record_list.html pod/main/templates/loader.html
+=======
+#: pod/bbb/templates/bbb/record_list.html
+#: pod/live/templates/live/events_list.html pod/main/templates/loader.html
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist-videos-list.html
 #: pod/podfile/templates/podfile/home_content.html
 #: pod/podfile/templates/podfile/list_folder_files.html
@@ -1212,8 +1221,12 @@ msgstr ""
 
 #: pod/completion/models.py pod/enrichment/models.py pod/playlist/models.py
 #: pod/recorder/models.py pod/video/models.py
+<<<<<<< HEAD
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video_encode_transcript/models.py
+=======
+#: pod/video/templates/videos/video.html pod/video_encode_transcript/models.py
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "Video"
 msgstr "Vidéo"
 
@@ -1368,8 +1381,11 @@ msgid "Content"
 msgstr "Contenu"
 
 #: pod/completion/models.py pod/completion/templates/overlay/list_overlay.html
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "Position"
 msgstr "Position"
 
@@ -3280,6 +3296,14 @@ msgstr "Prochains évènements"
 msgid "Manage broadcaster"
 msgstr "Gérer le diffuseur"
 
+<<<<<<< HEAD
+=======
+#: pod/live/templates/live/direct.html
+#: pod/video/templates/videos/video_edit.html
+msgid "Edit"
+msgstr "Éditer"
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr "aucune diffusion actuellement"
@@ -4747,6 +4771,10 @@ msgid "Channels"
 msgstr "Chaînes"
 
 #: pod/main/templates/navbar.html
+msgid "Promoted playlists"
+msgstr "Listes de lecture promues"
+
+#: pod/main/templates/navbar.html
 msgid "Some features are unavailable"
 msgstr "Certaines fonctionnalités sont indisponibles"
 
@@ -4834,11 +4862,15 @@ msgid "Log out"
 msgstr "Déconnexion"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/navbar.html
 msgid "Your statistics"
 msgstr "Vos statistiques"
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 msgid "Number of videos:"
 msgstr "Nombre de vidéos :"
 
@@ -4848,6 +4880,15 @@ msgstr "Nombre de listes de lecture :"
 
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+msgid "Number of videos"
+msgstr "Nombre de vidéos"
+
+#: pod/main/templates/navbar.html
+msgid "Number of playlists"
+msgstr "Nombre de listes de lecture"
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -4930,10 +4971,13 @@ msgstr "Date et heure"
 msgid "Record session"
 msgstr "Enregistrement"
 
+<<<<<<< HEAD
 #: pod/meeting/forms.py
 msgid "Recurring options"
 msgstr "Options de récurrence"
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
 msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
@@ -5635,7 +5679,10 @@ msgid "Playlists"
 msgstr "Listes de lecture"
 
 #: pod/playlist/apps.py pod/playlist/signals.py
+<<<<<<< HEAD
 #: pod/playlist/templatetags/favorites_playlist.py
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "Your favorites videos."
 msgstr "Vos vidéos favorites."
 
@@ -5649,7 +5696,11 @@ msgstr "Informations de sécurité"
 
 #: pod/playlist/forms.py pod/playlist/models.py
 msgid "Please choose a title between 1 and 250 characters."
+<<<<<<< HEAD
 msgstr "Veuillez entrer un titre contenant entre 1 et 250 caractères."
+=======
+msgstr "Veuillez entrer un titre contenant entre 2 et 100 caractères."
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 
 #: pod/playlist/forms.py pod/playlist/models.py
 msgid "Please choose a description. This description is empty by default."
@@ -5657,6 +5708,10 @@ msgstr "Veuillez choisir une description. Celle-ci est vide par défaut."
 
 #: pod/playlist/forms.py pod/playlist/models.py
 #: pod/playlist/templates/playlist/filter_aside.html
+<<<<<<< HEAD
+=======
+#: pod/playlist/templates/playlist/playlist-informations-card.html
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "Right of access"
 msgstr "Droit d'accès"
 
@@ -5708,9 +5763,13 @@ msgstr "Veuillez choisir si cette playlist est en lecture automatique ou non."
 #, fuzzy, python-brace-format
 #| msgid "You cannot create a playlist named \"{FAVORITE_PLAYLIST_NAME}\""
 msgid "You cannot create a playlist named \"{FAVORITE_PLAYLIST_NAME}\""
+<<<<<<< HEAD
 msgstr ""
 "Vous ne pouvez pas créer une liste de lecture nommée "
 "\"{FAVORITE_PLAYLIST_NAME}\""
+=======
+msgstr "Vous ne pouvez créer une liste de lecture nommée \"Favoris\""
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 
 #: pod/playlist/forms.py
 msgid "Remove playlist cannot be undone"
@@ -5741,10 +5800,15 @@ msgstr "Protégé par un mot de passe"
 msgid "Private"
 msgstr "Privé"
 
+<<<<<<< HEAD
 #: pod/playlist/models.py
 #: pod/playlist/templates/playlist/playlist_breadcrumbs.html
 #: pod/playlist/tests/test_models.py pod/playlist/views.py
 #: pod/video/templates/videos/video_breadcrumbs.html
+=======
+#: pod/playlist/models.py pod/playlist/tests/test_models.py
+#: pod/playlist/views.py pod/video/templates/videos/video.html
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "Playlist"
 msgstr "Liste de lecture"
 
@@ -5761,6 +5825,7 @@ msgid "You can add additional owners to the playlist."
 msgstr "Vous pouvez ajouter des propriétaires additionnels à la playlist."
 
 #: pod/playlist/models.py
+<<<<<<< HEAD
 #: pod/playlist/templates/playlist/playlist_sort_select.html
 msgid "Creation date"
 msgstr "Date de création"
@@ -5771,6 +5836,18 @@ msgstr "Date de mise à jour"
 
 #: pod/playlist/models.py
 msgid "Addition date"
+=======
+msgid "Date created"
+msgstr "Date de création"
+
+#: pod/playlist/models.py
+msgid "Date updated"
+msgstr "Date de mise à jour"
+
+#: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
+#: pod/video/templates/videos/video_sort_select.html
+msgid "Date added"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr "Date d’ajout"
 
 #: pod/playlist/models.py pod/video/templates/videos/video_sort_select.html
@@ -5814,8 +5891,13 @@ msgstr "Accéder à la liste de lecture"
 
 #: pod/playlist/templates/playlist/delete.html
 #, python-format
+<<<<<<< HEAD
 msgid "Delete the playlist <strong>%(name)s</strong>"
 msgstr "Supprimer la liste de lecture <strong>%(name)s</strong>"
+=======
+msgid "Delete the playlist <b>%(name)s</b>"
+msgstr "Supprimer la liste de lecture <b>%(name)s</b>"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 
 #: pod/playlist/templates/playlist/delete.html
 msgid "Back to my playlists"
@@ -5832,6 +5914,7 @@ msgid "Reset the filter"
 msgstr "Retirer ce filtre"
 
 #: pod/playlist/templates/playlist/filter_aside.html
+<<<<<<< HEAD
 msgid ""
 "When you click on a choice in the form, you will be automatically redirected "
 "to the page dedicated to this filter."
@@ -5840,6 +5923,8 @@ msgstr ""
 "automatiquement vers la page dédiée à ce filtre."
 
 #: pod/playlist/templates/playlist/filter_aside.html
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid "See my private playlists"
 msgstr "Voir mes listes de lecture privées"
 
@@ -5856,7 +5941,11 @@ msgid "See my playlists"
 msgstr "Voir mes listes de lecture"
 
 #: pod/playlist/templates/playlist/filter_aside.html
+<<<<<<< HEAD
 msgid "See the additional playlists"
+=======
+msgid "See playlists I can contribute"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr "Voir les listes de lecture additionnelles"
 
 #: pod/playlist/templates/playlist/filter_aside.html
@@ -5884,6 +5973,7 @@ msgid "at"
 msgstr "à"
 
 #: pod/playlist/templates/playlist/playlist-informations-card.html
+<<<<<<< HEAD
 msgid "Right of access:"
 msgstr "Droit d'accès :"
 
@@ -5898,6 +5988,18 @@ msgstr "Accéder au profil du propriétaire de la liste de lecture"
 #: pod/playlist/templates/playlist/playlist-informations-card.html
 msgid "Access to playlist additional owner profile"
 msgstr "Accéder au profil du propriétaire additionnel"
+=======
+msgid "Playlist owner"
+msgstr "Propriétaire de la liste de lecture"
+
+#: pod/playlist/templates/playlist/playlist-informations-card.html
+msgid "Access to playlist owner profile"
+msgstr "Accéder au profile du propriétaire de la liste de lecture"
+
+#: pod/playlist/templates/playlist/playlist-informations-card.html
+msgid "Access to playlist additional owner profile"
+msgstr "Accéder au profile du propriétaire additionnel"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 
 #: pod/playlist/templates/playlist/playlist-list-modal.html
 msgid "Your playlists"
@@ -5942,9 +6044,13 @@ msgid "Playlist videos"
 msgstr "Vidéos de la playlist"
 
 #: pod/playlist/templates/playlist/playlist.html
+<<<<<<< HEAD
 #, fuzzy
 #| msgid "Reorganize your favorite videos"
 msgid "Reorganize your playlist videos"
+=======
+msgid "Reorganize your favorite videos"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr "Réorganiser vos vidéos favorites"
 
 #: pod/playlist/templates/playlist/playlist.html
@@ -5979,6 +6085,14 @@ msgstr "Déposez la vidéo sur une autre pour échanger leur position."
 msgid "videos"
 msgstr "vidéos"
 
+<<<<<<< HEAD
+=======
+#: pod/playlist/templates/playlist/playlist_card.html
+#: pod/playlist/templates/playlist/playlist_player.html
+msgid "Playlist image"
+msgstr "Image de la playlist"
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_link.html
 msgid "Remove the playlist"
 msgstr "Supprimer la liste de lecture"
@@ -5995,10 +6109,13 @@ msgstr "Consulter la liste de lecture"
 msgid "Watch the video"
 msgstr "Regarder la vidéo"
 
+<<<<<<< HEAD
 #: pod/playlist/templates/playlist/playlist_player.html
 msgid "Playlist image"
 msgstr "Image de la playlist"
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_sort_select.html
 #: pod/video/templates/videos/video_sort_select.html
 msgid "Sort"
@@ -6023,6 +6140,13 @@ msgstr "Direction de tri"
 msgid "Modification date"
 msgstr "Date de modification"
 
+<<<<<<< HEAD
+=======
+#: pod/playlist/templates/playlist/playlist_sort_select.html
+msgid "Creation date"
+msgstr "Date de création"
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/playlist/templates/playlist/playlist_visibility_icon.html
 msgid "Public and promoted"
 msgstr "Public et promu"
@@ -6046,6 +6170,7 @@ msgstr "Aucune liste de lecture trouvée"
 msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -6056,6 +6181,10 @@ msgid ""
 "You have not created any playlists yet, please use the \"Add a new playlist"
 "\" button to add one."
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"You haven't got any playlist yet, please use the \"Add a playlist\" button "
+"to add one."
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."
@@ -6084,6 +6213,7 @@ msgstr "Favoris"
 msgid "This field is required."
 msgstr "Champ de titre est requis"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #: pod/playlist/tests/test_forms.py
 msgid "You cannot create a playlist named \"Favorites\""
@@ -6188,6 +6318,19 @@ msgstr "JSON au mauvais format"
 #: pod/playlist/views.py
 msgid "This video isn't present in this playlist."
 msgstr "Cette vidéo n'est pas présente dans cette playlist."
+=======
+#: pod/playlist/tests/test_forms.py
+msgid "You cannot create a playlist named \"Favorites\""
+msgstr "Vous ne pouvez créer une liste de lecture nommé \"Favoris\""
+
+#: pod/playlist/views.py
+msgid "The playlist has been deleted."
+msgstr "Cette liste de lecture a été supprimée."
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+
+#: pod/playlist/views.py
+msgid "The playlist has been created and the video has been added in it."
+msgstr "La liste de lecture a été créée et la vidéo a été ajoutée dedans."
 
 #: pod/podfile/apps.py
 msgid "Pod files"
@@ -8190,6 +8333,7 @@ msgstr "Télécharger les notes"
 msgid "New note"
 msgstr "Nouvelle note"
 
+<<<<<<< HEAD
 #: pod/video/templates/videos/video_page_content.html
 msgid "Channel description"
 msgstr "Description de la chaîne"
@@ -8198,6 +8342,8 @@ msgstr "Description de la chaîne"
 msgid "Theme description"
 msgstr "Description du thème"
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/video/templates/videos/video_stats_view.html
 msgid "Change the date"
 msgstr "Modifier la période de visualisation"
@@ -8607,7 +8753,11 @@ msgstr "Vous la/le retrouverez ici :"
 
 #: pod/video_encode_transcript/utils.py
 msgid "the:"
+<<<<<<< HEAD
 msgstr "le :"
+=======
+msgstr "le:"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 
 #: pod/video_search/apps.py
 msgid "Video search"

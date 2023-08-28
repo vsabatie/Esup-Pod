@@ -17,7 +17,6 @@ class PlaylistConfig(AppConfig):
 
     def ready(self) -> None:
         from . import signals  # noqa: F401
-
         pre_migrate.connect(self.save_previous_data, sender=self)
         post_migrate.connect(self.send_previous_data, sender=self)
         post_migrate.connect(self.remove_previous_favorites_table, sender=self)
@@ -191,7 +190,6 @@ class PlaylistConfig(AppConfig):
     def add_playlists_contents(self):
         """Add playlist content record from existing datas"""
         from pod.playlist.models import PlaylistContent
-
         content_list_to_bulk = []
         for content_datas in PLAYLIST_CONTENTS.values():
             position, playlist_id, video_id = content_datas

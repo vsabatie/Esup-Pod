@@ -19,7 +19,6 @@ class PlaylistForm(forms.ModelForm):
 
     class Meta:
         """Meta class."""
-
         model = Playlist
         exclude = [
             "editable",
@@ -167,7 +166,6 @@ class PlaylistForm(forms.ModelForm):
 
 class PlaylistRemoveForm(forms.Form):
     """Form to remove a playlist."""
-
     agree = forms.BooleanField(
         label=_("I agree"),
         help_text=_("Remove playlist cannot be undone"),
@@ -186,7 +184,6 @@ class PlaylistRemoveForm(forms.Form):
 
 class PlaylistPasswordForm(forms.Form):
     """Form to access to a password-protected playlist."""
-
     password = forms.CharField(
         label=_("Password"),
         widget=forms.PasswordInput(

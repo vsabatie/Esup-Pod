@@ -7,6 +7,7 @@ msgstr ""
 "Report-Msgid-Bugs-To: \n"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -14,6 +15,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-14 13:00+0000\n"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"POT-Creation-Date: 2023-08-18 09:32+0000\n"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -80,6 +84,7 @@ msgid "starts at the same time."
 msgstr ""
 
 #: pod/chapter/static/js/videojs-chapters.js
+#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr ""
 
@@ -363,10 +368,13 @@ msgstr ""
 msgid "Enrich mode"
 msgstr ""
 
+<<<<<<< HEAD
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr ""
@@ -393,12 +401,15 @@ msgstr ""
 msgid "An error occurred during broadcasters loading..."
 msgstr ""
 
+<<<<<<< HEAD
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
 msgid "An Error occurred while processing."
 msgstr ""
 
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr ""
@@ -464,6 +475,7 @@ msgid "The file extension not in the allowed extension:"
 msgstr ""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."
 msgstr ""
@@ -480,6 +492,13 @@ msgstr ""
 
 #: pod/playlist/static/js/playlist.js
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+#: pod/playlist/static/playlist/js/add-or-edit.js
+msgid "<b>Public:</b> the playlist can be accessed by anyone."
+msgstr ""
+
+#: pod/playlist/static/playlist/js/add-or-edit.js
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgid ""
 "<b>Password-protected:</b> the playlist can be accessed by anyone with the "
 "appropriate link and password."
@@ -489,12 +508,21 @@ msgstr ""
 msgid "<b>Private:</b> only you have access to this playlist."
 msgstr ""
 
+<<<<<<< HEAD
+=======
+#: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
+#: pod/video/static/js/filter_aside_video_list_refresh.js
+msgid "An Error occurred while processing."
+msgstr ""
+
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save your reorganization"
 msgstr ""
 
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save"
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
@@ -504,6 +532,8 @@ msgstr ""
 #: pod/podfile/static/podfile/js/filewidget.js
 #: pod/video/static/js/change_video_owner.js
 msgid "Loading…"
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
