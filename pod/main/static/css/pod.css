@@ -1644,6 +1644,12 @@ body[data-admin-utc-offset]
   text-align: left;
 }
 
+div.disabled, a.player-element.disabled {
+  background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.2) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.2) 75%, transparent 75%, transparent);
+  background-size: 4px 4px;
+  background-repeat: repeat;
+}
+
 .progress {
   height: .6em;
 }
