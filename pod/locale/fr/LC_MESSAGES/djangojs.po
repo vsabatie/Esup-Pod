@@ -57,6 +57,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -228,6 +229,8 @@ msgstr ""
 >>>>>>> c8fb6985 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -238,6 +241,8 @@ msgstr ""
 =======
 =======
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -251,8 +256,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-07-20 13:09+0000\n"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-18 09:32+0000\n"
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -331,6 +345,7 @@ msgid "starts at the same time."
 msgstr "commencent au même moment."
 
 #: pod/chapter/static/js/videojs-chapters.js
+#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr "Chapitres"
 
@@ -726,6 +741,7 @@ msgstr "Mode enrichi"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr "Une erreur est survenue."
@@ -746,10 +762,14 @@ msgstr "Une erreur est survenue."
 
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr "Une erreur est survenue"
 
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/admin_broadcaster.js
 msgid "An error occurred"
 msgstr "Une erreur est survenue."
@@ -784,6 +804,7 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -794,6 +815,8 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
@@ -804,6 +827,7 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -822,6 +846,10 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr "Tri descendant"
@@ -897,6 +925,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
@@ -906,6 +935,8 @@ msgstr ""
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
 msgstr "Info"
@@ -951,8 +982,11 @@ msgstr "<b>Public :</b> la liste de lecture est accessible par tous."
 =======
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 =======
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."
@@ -960,6 +994,7 @@ msgstr "<b>Public :</b> la liste de lecture est accessible par tous."
 
 #: pod/playlist/static/playlist/js/add-or-edit.js
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
 #: pod/playlist/static/playlist/js/add-or-edit.js
@@ -971,6 +1006,8 @@ msgstr "<b>Public :</b> la liste de lecture est accessible par tous."
 =======
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 msgid ""
 "<b>Password-protected:</b> the playlist can be accessed by anyone with the "
 "appropriate link and password."
@@ -978,20 +1015,27 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 "<b>Protégé par un mot de passe :</b> la liste de lecture est accessible à "
 =======
 "<b>Protégé par un mot de passe :</b> la liste de lecture est accessible à "
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 =======
 "<b>Protégé par un mot de passe :</b> la liste de lecture est accessible à "
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 "<b>Protégé par un mot de passe :</b> la liste de lecture est accessible à "
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 "toute personne disposant du lien et du mot de passe appropriés."
 
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Private:</b> only you have access to this playlist."
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1001,6 +1045,17 @@ msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
 =======
 msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
+=======
+msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
+
+#: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
+#: pod/video/static/js/filter_aside_video_list_refresh.js
+msgid "An Error occurred while processing."
+msgstr "Une erreur est survenue durant l’exécution du processus."
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1045,6 +1100,7 @@ msgstr "Sauvegarder"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
 msgid "Network response was not ok."
@@ -1080,6 +1136,8 @@ msgid "Loading…"
 msgstr "Chargement en cours…"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 
 #: pod/playlist/static/playlist/js/video-favorites-remove-card.js
 msgid "Network response was not ok."
@@ -1089,6 +1147,8 @@ msgstr "La réponse du réseau n’était pas correcte."
 #: pod/video/static/js/change_video_owner.js
 msgid "Loading…"
 msgstr "Chargement en cours…"
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
@@ -1798,22 +1858,6 @@ msgstr "Titre court"
 #~ msgstr "vidéos"
 =======
 =======
-
-#~ msgid "Position saved"
-#~ msgstr "Position enregistrée"
-
-#~ msgid "Error deleting video from playlist. The video could not be deleted."
-#~ msgstr ""
-#~ "Erreur lors de la suppression de la vidéo de la liste de lecture. La "
-#~ "vidéo n’a pas pu être retirée."
-
-#~ msgid "Error deleting playlist. The playlist could not be deleted."
-#~ msgstr ""
-#~ "Erreur lors de la suppression. La liste de lecture n’a pas pu être "
-#~ "supprimée."
-
-#~ msgid "Reply to comment"
-#~ msgstr "Répondre au commentaire"
 
 #~ msgid "Reply"
 #~ msgstr "Répondre"
