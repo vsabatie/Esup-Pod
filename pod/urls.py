@@ -82,10 +82,6 @@ urlpatterns = [
     # dressing
     url(r"^dressing/", include("pod.dressing.urls")),
 ]
-# PLAYLIST
-urlpatterns += [
-    path("playlist/", include("pod.playlist.urls", namespace="playlist")),
-]
 
 # CAS
 if USE_CAS:
@@ -130,10 +126,10 @@ for apps in settings.THIRD_PARTY_APPS:
         url(r"^" + apps + "/", include("pod.%s.urls" % apps, namespace=apps)),
     ]
 
-# FAVORITE
-if getattr(settings, "USE_FAVORITES", True):
+# PLAYLIST
+if getattr(settings, "USE_PLAYLIST", True):
     urlpatterns += [
-        path("favorite/", include("pod.favorite.urls", namespace="favorite")),
+        path("playlist/", include("pod.playlist.urls", namespace="playlist")),
     ]
 
 # IMPORT_VIDEO
