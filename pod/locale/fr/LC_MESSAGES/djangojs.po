@@ -37,6 +37,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -152,6 +153,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-23 12:22+0000\n"
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+=======
+"POT-Creation-Date: 2023-08-29 14:17+0000\n"
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -222,7 +226,6 @@ msgid "starts at the same time."
 msgstr "commencent au même moment."
 
 #: pod/chapter/static/js/videojs-chapters.js
-#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr "Chapitres"
 
@@ -608,6 +611,7 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -616,6 +620,8 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
@@ -625,6 +631,7 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -641,6 +648,8 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr "Tri descendant"
@@ -798,6 +807,7 @@ msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
 msgstr "<b>Privé :</b> vous seul avez accès à cette liste de lecture."
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
 msgid "An Error occurred while processing."
@@ -827,6 +837,8 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save your reorganization"
 msgstr "Sauvegarder votre réorganisation"
@@ -872,6 +884,10 @@ msgid "Loading…"
 msgstr "Chargement en cours…"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+
+#: pod/playlist/static/playlist/js/video-favorites-remove-card.js
+msgid "Network response was not ok."
+msgstr "La réponse du réseau n'était pas correcte."
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
@@ -1018,6 +1034,7 @@ msgstr "Chaîne"
 #: pod/video/static/js/ajax-display-channels.js
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "Channels"
 msgstr "Chaînes"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
@@ -1048,6 +1065,8 @@ msgstr "Chaînes"
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 msgid "No channels found"
 msgstr "Aucun chaîne trouvée"
 
@@ -1419,6 +1438,9 @@ msgid "Slug"
 msgstr "Titre court"
 <<<<<<< HEAD
 =======
+
+#~ msgid "Channels"
+#~ msgstr "Chaînes"
 
 #~ msgid "Reply"
 #~ msgstr "Répondre"
