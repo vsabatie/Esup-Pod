@@ -3031,6 +3031,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3073,6 +3074,9 @@ msgstr ""
 >>>>>>> 4ef26a00 (ajout)
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 
@@ -3090,6 +3094,9 @@ msgid ""
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -3103,7 +3110,14 @@ msgstr ""
 >>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 =======
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+<<<<<<< HEAD
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
+"<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
