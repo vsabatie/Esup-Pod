@@ -4294,6 +4294,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4409,6 +4410,8 @@ msgstr ""
 >>>>>>> fbaa3e0b (ajout)
 =======
 >>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> c68554ba ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4451,6 +4454,8 @@ msgstr ""
 >>>>>>> 88aac632 (ajout)
 =======
 >>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> b030554a ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4547,6 +4552,9 @@ msgstr ""
 =======
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 7a99126f ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
@@ -4634,6 +4642,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
@@ -4646,6 +4655,8 @@ msgstr ""
 >>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+>>>>>>> c68554ba ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -4701,6 +4712,10 @@ msgstr ""
 =======
 =======
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+=======
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> b030554a ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -4726,9 +4741,22 @@ msgstr ""
 =======
 =======
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+<<<<<<< HEAD
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+=======
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
+"<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> b030554a ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> c68554ba ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
