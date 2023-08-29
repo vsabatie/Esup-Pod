@@ -6,6 +6,7 @@ from .models import Playlist, PlaylistContent
 
 
 class PlaylistContentSerializer(serializers.ModelSerializer):
+    """Serializer for the `PlaylistContent` model."""
     video = VideoSerializer()
 
     class Meta:
@@ -40,7 +41,6 @@ class PlaylistSerializer(serializers.HyperlinkedModelSerializer):
 
 class PlaylistViewSet(viewsets.ModelViewSet):
     """Viewset for the `Playlist` model."""
-
     queryset = Playlist.objects.all()
     serializer_class = PlaylistSerializer
     filter_fields = (
