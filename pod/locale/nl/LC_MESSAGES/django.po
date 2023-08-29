@@ -3354,7 +3354,11 @@ msgstr ""
 
 #: pod/import_video/utils.py
 #, python-format
+<<<<<<< HEAD
 msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
+=======
+msgid "The size of the video file exceeds the maximum allowed value (%s Gb)."
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 msgstr ""
 
 #: pod/import_video/views.py

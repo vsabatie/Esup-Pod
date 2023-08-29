@@ -2395,12 +2395,19 @@ msgstr "Sous-titres et légendes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 =======
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+=======
+>>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+=======
+>>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
@@ -2442,8 +2449,18 @@ msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
 =======
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
+=======
+=======
+=======
+msgid "To create your subtitles and/or caption(s) files"
+msgstr "Pour créer les fichiers de sous-titres ou de légendes"
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/completion/templates/video_completion.html
 msgid "Add a new subtitle or caption file"
@@ -3673,6 +3690,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3770,6 +3788,8 @@ msgstr ""
 >>>>>>> b78c7ae7 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -3794,6 +3814,8 @@ msgstr ""
 >>>>>>> 84fb1555 ([DONE] live Extron SMP (#873))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3807,6 +3829,9 @@ msgstr ""
 =======
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -3852,6 +3877,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
@@ -3860,6 +3886,8 @@ msgstr ""
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -3898,6 +3926,7 @@ msgstr ""
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5f137acd (Encoding ok)
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 9490b823 (Encoding ok)
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
@@ -3910,6 +3939,16 @@ msgstr ""
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
+"Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
+"<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
