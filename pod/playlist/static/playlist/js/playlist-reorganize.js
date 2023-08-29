@@ -71,6 +71,7 @@ function onDragStart(event) {
   event.target.classList.toggle("shake-effect-active");
 }
 
+
 /**
  * Prevent the default behavior of the element during the event.
  *
@@ -80,6 +81,7 @@ function onDragOver(event) {
   event.preventDefault();
   event.dataTransfer.dropEffect = 'move';
 }
+
 
 /**
  * Performs a swap between the dragged elements when dropping.
@@ -103,6 +105,7 @@ function onDrop(event) {
   child2.remove();
   exchangedValues.push([child1.id, child2.id]);
 }
+
 
 /**
  * Activate the drag and drop in the page
@@ -130,6 +133,7 @@ function activateDragAndDrop(parent) {
   }
 }
 
+
 /**
  * Convert a 2D table into a JSON string representation.
  *
@@ -144,6 +148,7 @@ function convert2DTableToJson(table) {
   }
   return JSON.stringify(jsonObject);
 }
+
 
 /**
  * Update collapse aside to help user.
