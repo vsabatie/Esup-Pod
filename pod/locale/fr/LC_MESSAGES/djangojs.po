@@ -65,6 +65,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -252,6 +253,8 @@ msgstr ""
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> a43af8bf ([DONE] Fix : accessibility issues (#913))
+=======
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -325,6 +328,8 @@ msgstr ""
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 9e3de4db ([DONE] Fix : accessibility issues (#913))
+=======
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -356,8 +361,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-23 12:22+0000\n"
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> 9e3de4db ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> a43af8bf ([DONE] Fix : accessibility issues (#913))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-29 14:17+0000\n"
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -436,7 +450,6 @@ msgid "starts at the same time."
 msgstr "commencent au même moment."
 
 #: pod/chapter/static/js/videojs-chapters.js
-#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr "Chapitres"
 
@@ -940,6 +953,7 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -958,10 +972,19 @@ msgstr "Une erreur s’est produite lors du chargement des diffuseurs…"
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
 =======
 =======
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
@@ -975,6 +998,7 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -986,6 +1010,8 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 =======
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
@@ -1011,7 +1037,16 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr "Tri descendant"
@@ -1311,8 +1346,16 @@ msgstr "Une erreur est survenue durant l’exécution du processus."
 =======
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save your reorganization"
 msgstr "Sauvegarder votre réorganisation"
@@ -1388,6 +1431,10 @@ msgid "Loading…"
 msgstr "Chargement en cours…"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+
+#: pod/playlist/static/playlist/js/video-favorites-remove-card.js
+msgid "Network response was not ok."
+msgstr "La réponse du réseau n'était pas correcte."
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
@@ -1571,16 +1618,20 @@ msgstr[1] "%(count)s chaînes"
 =======
 #: pod/video/static/js/ajax-display-channels.js
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "Channels"
 msgstr "Chaînes"
 
 #: pod/video/static/js/ajax-display-channels.js
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 msgid "Channel"
 msgstr "Chaîne"
 
 #: pod/video/static/js/ajax-display-channels.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 msgid "Channels"
@@ -1635,13 +1686,23 @@ msgstr "Chaînes"
 =======
 =======
 =======
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+=======
 msgid "Channels"
 msgstr "Chaînes"
 
 #: pod/video/static/js/ajax-display-channels.js
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 msgid "No channels found"
 msgstr "Aucun chaîne trouvée"
 
@@ -2124,6 +2185,7 @@ msgstr "Titre court"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Add a caption/subtitle after this one"
 #~ msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 
@@ -2179,6 +2241,11 @@ msgstr "Titre court"
 
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+#~ msgid "Channels"
+#~ msgstr "Chaînes"
+
+>>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 #~ msgid "Reply"
 #~ msgstr "Répondre"
 
