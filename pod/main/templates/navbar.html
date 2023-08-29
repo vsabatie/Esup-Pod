@@ -62,7 +62,7 @@
         {% endif %}
         {% if HIDE_TYPES_TAB == False %}
           <li class="nav-item" id="nav-types">
-            <button class="nav-link" data-bs-toggle="modal" data-bs-target=".types-modal"> <i class="bi bi-tv pod-nav-link-icon"></i> {% trans "Types"%}</button>
+            <button class="nav-link" data-bs-toggle="modal" data-bs-target=".types-modal"> <i class="bi bi-tv pod-nav-link-icon" aria-hidden="true"></i> {% trans "Types"%}</button>
           </li>
         {% endif %}
         {% if HIDE_CHANNEL_TAB == False %}
@@ -79,7 +79,7 @@
         {% if HIDE_CHANNEL_TAB == False %}
           <li class="nav-item" id="nav-channels">
             <button class="nav-link" data-bs-toggle="modal" data-bs-target=".chaines-modal">
-              <i class="bi bi-play-btn pod-nav-link-icon"></i> {% trans "Channels" %}</button>
+              <i class="bi bi-play-btn pod-nav-link-icon" aria-hidden="true"></i> {% trans "Channels" %}</button>
           </li>
           <li>
             <span class="progress">
@@ -250,10 +250,10 @@
                 </button></div>
               {% endif %}
               {% if video_buttons %}
-                <a class="nav-item nav-link" href="{% url 'video:my_videos' %}"><i class="bi bi-film pod-nav-link-icon mx-1" aria-hidden="true"></i>{% trans 'My videos' %}</a>
+                <a class="nav-item nav-link" href="{% url 'video:my_videos' %}"><i class="bi bi-film pod-nav-link-icon mx-1" aria-hidden="true" aria-hidden="true"></i>{% trans 'My videos' %}</a>
               {% endif %}
               {% if USE_PLAYLIST %}
-                <a class="nav-item nav-link" href="{% url 'playlist:list' %}"><i class="bi bi-list-ul pod-nav-link-icon mx-1" aria-hidden="true"></i>{% trans 'My playlists' %}</a>
+                <a class="nav-item nav-link" href="{% url 'playlist:list' %}"><i class="bi bi-list-ul pod-nav-link-icon mx-1" aria-hidden="true" aria-hidden="true"></i>{% trans 'My playlists' %}</a>
               {% endif %}
               {% if USE_PLAYLIST and USE_FAVORITES %}
                 {% get_favorite_playlist user as playlist %}
