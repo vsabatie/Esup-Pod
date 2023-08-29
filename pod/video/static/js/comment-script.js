@@ -321,8 +321,8 @@ class Comment extends HTMLElement {
           title="${gettext("Add a public comment")}"
           placeholder="${gettext("Add a public comment")}"></textarea>
         <button class="btn btn-link btn-lg send_reply disabled" role="button" title="${gettext(
-          "Send",
-        )}">
+        "Send",
+      )}">
           <i aria-hidden="true" class="bi bi-send-fill"></i>
         </button>
       `;
@@ -834,7 +834,7 @@ function isInViewport(el) {
     rect.top >= 0 &&
     rect.left >= 0 &&
     rect.bottom <=
-      (window.innerHeight || document.documentElement.clientHeight) &&
+    (window.innerHeight || document.documentElement.clientHeight) &&
     rect.right <= (window.innerWidth || document.documentElement.clientWidth)
   );
 }
@@ -908,12 +908,10 @@ function setBorderLeftColor(comment, parent_element) {
     let index = Number.parseInt(parent_element.dataset.level) + 1;
     if (index >= COLORS.length) {
       comment.dataset.level = COLORS.length - 1;
-      comment.querySelector(".comment_content").style.borderLeft = `4px solid ${
-        COLORS[COLORS.length - 1]
-      }`;
-      comment.querySelector(".comments_icon").style.color = `${
-        COLORS[COLORS.length - 1]
-      }`;
+      comment.querySelector(".comment_content").style.borderLeft = `4px solid ${COLORS[COLORS.length - 1]
+        }`;
+      comment.querySelector(".comments_icon").style.color = `${COLORS[COLORS.length - 1]
+        }`;
     } else {
       comment.dataset.level = index;
       comment.querySelector(".comment_content").style.borderLeft =
@@ -922,12 +920,10 @@ function setBorderLeftColor(comment, parent_element) {
     }
   } catch (e) {
     comment.dataset.level = COLORS.length - 1;
-    comment.querySelector(".comment_content").style.borderLeft = `4px solid ${
-      COLORS[COLORS.length - 1]
-    }`;
-    comment.querySelector(".comments_icon").style.color = `${
-      COLORS[COLORS.length - 1]
-    }`;
+    comment.querySelector(".comment_content").style.borderLeft = `4px solid ${COLORS[COLORS.length - 1]
+      }`;
+    comment.querySelector(".comments_icon").style.color = `${COLORS[COLORS.length - 1]
+      }`;
   }
 }
 

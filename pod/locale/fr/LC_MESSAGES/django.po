@@ -101,6 +101,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -117,8 +118,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-18 09:32+0000\n"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-23 12:22+0000\n"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -5387,10 +5397,13 @@ msgstr "Enregistrement"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 #: pod/meeting/forms.py
 msgid "Recurring options"
 msgstr "Options de récurrence"
@@ -5424,7 +5437,17 @@ msgstr ""
 "En cas de récurrence hebdomadaire, le jour de la date de début doit être "
 "sélectionné."
 
+<<<<<<< HEAD
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
+=======
+=======
+#: pod/meeting/forms.py
+msgid "Recurring options"
+msgstr "Options de récurrence"
+
+#: pod/meeting/forms.py pod/video/forms.py
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 #: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
 msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
@@ -5971,6 +5994,10 @@ msgstr "Impossible de trouver des informations sur la réunion"
 #: pod/meeting/templates/meeting/my_meetings.html
 msgid "End the meeting"
 msgstr "Terminer la réunion"
+
+#: pod/meeting/templates/meeting/recurring_options_modal_form.html
+msgid "Frequency"
+msgstr "Fréquence"
 
 #: pod/meeting/templates/meeting/recurring_options_modal_form.html
 msgid "Repeat every"
@@ -8824,17 +8851,24 @@ msgid ""
 "selected. Check options to adjust results."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 msgstr ""
 "Les vidéos à gauche sont automatiquement triées en fonction des filtres "
 "sélectionnés. Vérifiez les options pour ajuster les résultats."
 =======
 msgstr "Les vidéos à gauche sont automatiquement triées en fonction des filtres sélectionnés. Vérifiez les options pour ajuster les résultats."
+<<<<<<< HEAD
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 =======
 msgstr ""
 "Les vidéos à gauche sont automatiquement triées en fonction des filtres "
 "sélectionnés. Vérifiez les options pour ajuster les résultats."
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 
 #: pod/video/templates/videos/filter_aside.html
 msgid "Filter by user"
@@ -9905,9 +9939,14 @@ msgstr "xAPI Esup-Pod"
 =======
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Toggle navigation"
 #~ msgstr "Basculer le menu"
 =======
+=======
+#~ msgid "End:"
+#~ msgstr "Fin :"
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
 #~ msgid "%(counter)s Channel"
 #~ msgid_plural "%(counter)s Channels"
 #~ msgstr[0] "%(counter)s Chaîne"
