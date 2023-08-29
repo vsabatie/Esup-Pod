@@ -86,6 +86,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -315,6 +316,8 @@ msgstr ""
 >>>>>>> e899c51c ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 63798aef ([DONE] Fix : accessibility issues (#913))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -430,8 +433,12 @@ msgstr ""
 >>>>>>> 0ac6757d ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 140fa9e2 ([DONE] Fix : accessibility issues (#913))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
+=======
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 =======
@@ -457,6 +464,7 @@ msgstr ""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 <<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
@@ -464,6 +472,8 @@ msgstr ""
 =======
 =======
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 140fa9e2 ([DONE] Fix : accessibility issues (#913))
 =======
 "POT-Creation-Date: 2023-08-23 12:22+0000\n"
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
@@ -663,8 +673,19 @@ msgstr ""
 =======
 =======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-23 12:22+0000\n"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
+>>>>>>> 140fa9e2 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> 63798aef ([DONE] Fix : accessibility issues (#913))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
