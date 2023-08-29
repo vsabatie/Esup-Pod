@@ -1710,6 +1710,7 @@ msgstr "Sous-titres et légendes"
 
 #: pod/completion/templates/video_completion.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
@@ -1718,6 +1719,10 @@ msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "pour créer les fichiers de sous-titres ou de légendes"
 >>>>>>> 21046607 ([DONE] live Extron SMP (#873))
+=======
+msgid "To create your subtitles and/or caption(s) files"
+msgstr "Pour créer les fichiers de sous-titres ou de légendes"
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/completion/templates/video_completion.html
 msgid "Add a new subtitle or caption file"
@@ -2774,6 +2779,7 @@ msgid ""
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -2781,6 +2787,9 @@ msgstr ""
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 
@@ -2796,8 +2805,13 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
+<<<<<<< HEAD
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
+"<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
