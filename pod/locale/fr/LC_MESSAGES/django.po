@@ -32,6 +32,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -160,6 +161,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-18 09:32+0000\n"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+"POT-Creation-Date: 2023-08-23 12:22+0000\n"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -5641,6 +5645,7 @@ msgstr "Enregistrement"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 =======
@@ -5657,6 +5662,13 @@ msgstr "Options de récurrence"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+#: pod/meeting/forms.py
+msgid "Recurring options"
+msgstr "Options de récurrence"
+
+#: pod/meeting/forms.py pod/video/forms.py
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 #: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
 msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
@@ -9435,6 +9447,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 =======
@@ -9462,6 +9475,9 @@ msgstr ""
 "sélectionnés. Vérifiez les options pour ajuster les résultats."
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgstr "Les vidéos à gauche sont automatiquement triées en fonction des filtres sélectionnés. Vérifiez les options pour ajuster les résultats."
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 
 #: pod/video/templates/videos/filter_aside.html
 msgid "Filter by user"
@@ -10548,6 +10564,8 @@ msgstr "xAPI Esup-Pod"
 #~ msgid "No channels found"
 #~ msgstr "Aucune chaîne trouvée"
 
+#~ msgid "End:"
+#~ msgstr "Fin :"
 #~ msgid "%(counter)s Channel"
 #~ msgid_plural "%(counter)s Channels"
 #~ msgstr[0] "%(counter)s Chaîne"
