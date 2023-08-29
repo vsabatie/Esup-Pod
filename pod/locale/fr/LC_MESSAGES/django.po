@@ -2222,6 +2222,9 @@ msgstr "Sous-titres et légendes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 msgid "To create your subtitles and/or caption(s) files"
 msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 =======
@@ -2248,7 +2251,14 @@ msgstr "Pour créer les fichiers de sous-titres ou de légendes"
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> c7c7882c ([DONE] live Extron SMP (#873))
+<<<<<<< HEAD
 >>>>>>> c8fb6985 ([DONE] live Extron SMP (#873))
+=======
+=======
+msgid "To create your subtitles and/or caption(s) files"
+msgstr "Pour créer les fichiers de sous-titres ou de légendes"
+>>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/completion/templates/video_completion.html
 msgid "Add a new subtitle or caption file"
@@ -3445,6 +3455,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3534,6 +3545,8 @@ msgstr ""
 =======
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -3545,6 +3558,9 @@ msgstr ""
 =======
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a href="
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+>>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -3577,10 +3593,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 9490b823 (Encoding ok)
+=======
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -3598,12 +3617,16 @@ msgstr ""
 =======
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 =======
+=======
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
 "<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
@@ -3619,6 +3642,8 @@ msgstr ""
 =======
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
