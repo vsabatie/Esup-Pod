@@ -60,6 +60,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -239,6 +240,8 @@ msgstr ""
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -251,6 +254,8 @@ msgstr ""
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -273,8 +278,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-18 09:32+0000\n"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-23 12:22+0000\n"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -5611,11 +5625,20 @@ msgstr ""
 msgid "Record session"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
 =======
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+=======
+=======
+msgstr ""
+
+#: pod/meeting/forms.py
+msgid "Recurring options"
+>>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+>>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 msgstr ""
 
 <<<<<<< HEAD
@@ -6183,6 +6206,10 @@ msgstr ""
 
 #: pod/meeting/templates/meeting/my_meetings.html
 msgid "End the meeting"
+msgstr ""
+
+#: pod/meeting/templates/meeting/recurring_options_modal_form.html
+msgid "Frequency"
 msgstr ""
 
 #: pod/meeting/templates/meeting/recurring_options_modal_form.html
