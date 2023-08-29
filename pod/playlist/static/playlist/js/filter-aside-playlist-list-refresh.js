@@ -18,6 +18,7 @@ function getUrlForRefresh() {
     return newUrl;
 }
 
+
 /**
  * Updates playlist list.
  */

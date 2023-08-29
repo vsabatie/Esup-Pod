@@ -626,6 +626,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -651,10 +652,25 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-23 12:22+0000\n"
 >>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> f46de967 ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> 140fa9e2 ([DONE] Fix : accessibility issues (#913))
+<<<<<<< HEAD
 >>>>>>> 63798aef ([DONE] Fix : accessibility issues (#913))
+=======
+=======
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-29 14:17+0000\n"
+>>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -721,7 +737,6 @@ msgid "starts at the same time."
 msgstr ""
 
 #: pod/chapter/static/js/videojs-chapters.js
-#: pod/playlist/static/playlist/js/playlist-player.js
 msgid "Chapters"
 msgstr ""
 
@@ -1187,6 +1202,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -1209,6 +1225,8 @@ msgstr ""
 =======
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
 =======
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
+=======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
@@ -1224,11 +1242,23 @@ msgstr ""
 =======
 =======
 =======
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+=======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 #: pod/live/static/js/filter_aside_event_list.js
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
@@ -1244,6 +1274,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
@@ -1259,6 +1290,8 @@ msgstr ""
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
@@ -1291,6 +1324,8 @@ msgstr ""
 =======
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
 =======
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+=======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -1304,8 +1339,20 @@ msgstr ""
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 #: pod/main/static/js/filter-aside-element-list-refresh.js
 msgid "Descending sort"
 msgstr ""
@@ -1582,11 +1629,14 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
@@ -1610,10 +1660,17 @@ msgstr ""
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 =======
 =======
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+=======
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
 =======
+<<<<<<< HEAD
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/static/playlist/js/filter-aside-playlist-list-refresh.js
 #: pod/video/static/js/filter_aside_video_list_refresh.js
 msgid "An Error occurred while processing."
@@ -1673,9 +1730,20 @@ msgstr ""
 =======
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> bbf098e7 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 0d30e247 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> bbecf54e ([DONE] Update : Playlist (corrections) (#923))
+>>>>>>> 7821addf ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/static/playlist/js/playlist-reorganize.js
 msgid "Save your reorganization"
 msgstr ""
@@ -1768,6 +1836,10 @@ msgstr ""
 msgid "Loading…"
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+msgstr ""
+
+#: pod/playlist/static/playlist/js/video-favorites-remove-card.js
+msgid "Network response was not ok."
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
