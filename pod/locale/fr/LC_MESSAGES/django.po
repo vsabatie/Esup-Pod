@@ -8,6 +8,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -18,6 +19,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-18 09:32+0000\n"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+"POT-Creation-Date: 2023-08-23 12:22+0000\n"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -4972,12 +4976,19 @@ msgid "Record session"
 msgstr "Enregistrement"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 #: pod/meeting/forms.py
 msgid "Recurring options"
 msgstr "Options de récurrence"
 
+<<<<<<< HEAD
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+#: pod/meeting/forms.py pod/video/forms.py
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 #: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
 msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
@@ -7861,9 +7872,13 @@ msgstr "Soumettre les changements"
 msgid ""
 "The videos on the left are automatically sorted according to the filters "
 "selected. Check options to adjust results."
+<<<<<<< HEAD
 msgstr ""
 "Les vidéos à gauche sont automatiquement triées en fonction des filtres "
 "sélectionnés. Vérifiez les options pour ajuster les résultats."
+=======
+msgstr "Les vidéos à gauche sont automatiquement triées en fonction des filtres sélectionnés. Vérifiez les options pour ajuster les résultats."
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 
 #: pod/video/templates/videos/filter_aside.html
 msgid "Filter by user"
@@ -8788,11 +8803,16 @@ msgid "Esup-Pod xAPI"
 msgstr "xAPI Esup-Pod"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "End:"
 #~ msgstr "Fin :"
 
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+#~ msgid "End:"
+#~ msgstr "Fin :"
+>>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
 #~ msgid "%(counter)s Channel"
 #~ msgid_plural "%(counter)s Channels"
 #~ msgstr[0] "%(counter)s Chaîne"
