@@ -63,6 +63,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -262,6 +263,8 @@ msgstr ""
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 =======
 >>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -341,6 +344,8 @@ msgstr ""
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 =======
 >>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -399,8 +404,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:18+0000\n"
 >>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+<<<<<<< HEAD
 >>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+<<<<<<< HEAD
 >>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-30 14:09+0000\n"
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1843,8 +1857,11 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 msgid "Seek back 10 seconds in the video"
 msgstr ""
 
@@ -1867,7 +1884,17 @@ msgid "Seek forward 10 seconds in the video"
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+<<<<<<< HEAD
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+=======
+msgid "Seek back 10 seconds in the video"
+msgstr ""
+
+#: pod/video/static/js/video-show.js
+msgid "Seek forward 10 seconds in the video"
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 msgstr ""
 
 #: pod/video/static/js/video-show.js

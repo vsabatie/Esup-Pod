@@ -70,6 +70,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -269,6 +270,8 @@ msgstr ""
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 =======
 >>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -348,6 +351,8 @@ msgstr ""
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 =======
 >>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -406,8 +411,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:18+0000\n"
 >>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+<<<<<<< HEAD
 >>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+<<<<<<< HEAD
 >>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-30 14:09+0000\n"
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -4043,6 +4057,7 @@ msgstr ""
 #: pod/live/templates/live/direct.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
@@ -4050,6 +4065,12 @@ msgstr ""
 =======
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+=======
+#: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+=======
+#: pod/live/templates/live/event-script.html
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr ""
@@ -5407,12 +5428,14 @@ msgstr ""
 =======
 =======
 #: pod/main/templates/base.html
+<<<<<<< HEAD
 msgid "Home"
 msgstr ""
 
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/base.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 msgid "Home"
 msgstr ""
@@ -5421,6 +5444,10 @@ msgstr ""
 #: pod/main/templates/base.html
 =======
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+=======
+=======
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 msgid ""
 "We use third party cookies to personalize content, manage session and "
 "analyze site traffic."
@@ -10574,14 +10601,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 msgid "View the video"
 msgstr ""
 
 #: pod/video/templates/videos/video_edit.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -10594,6 +10627,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+>>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 #: pod/video/templates/videos/video_page_content.html
 msgid "The video is currently waiting for encoding."
 msgstr ""
