@@ -63,6 +63,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -243,6 +244,8 @@ msgstr ""
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+>>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -320,6 +323,8 @@ msgstr ""
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+>>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -369,8 +374,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 07:35+0000\n"
 >>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+<<<<<<< HEAD
 >>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+<<<<<<< HEAD
 >>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:18+0000\n"
+>>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+>>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+>>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -10146,8 +10160,6 @@ msgid "Favorites"
 msgstr "Favoris"
 
 #: pod/playlist/tests/test_forms.py
-#, fuzzy
-#| msgid "Title field is required"
 msgid "This field is required."
 msgstr "Champ de titre est requis"
 
