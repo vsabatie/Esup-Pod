@@ -27,6 +27,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -94,6 +95,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+>>>>>>> 4ef26a00 (ajout)
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1436,10 +1440,16 @@ msgstr ""
 
 #: pod/completion/models.py pod/completion/templates/overlay/list_overlay.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
+#: pod/playlist/templates/playlist/playlist_element_list.html
+>>>>>>> 4ef26a00 (ajout)
 msgid "Position"
 msgstr ""
 
@@ -2068,6 +2078,11 @@ msgid "None"
 msgstr ""
 
 #: pod/dressing/templates/my_dressings.html pod/live/templates/live/direct.html
+<<<<<<< HEAD
+=======
+#: pod/playlist/templates/playlist.html
+#: pod/playlist/templates/playlist/playlist_list.html
+>>>>>>> 4ef26a00 (ajout)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
@@ -2747,7 +2762,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
@@ -6165,6 +6180,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -6179,6 +6195,10 @@ msgid ""
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 4ef26a00 (ajout)
 msgstr ""
 
 #: pod/playlist/templates/playlist/playlists.html
@@ -7331,12 +7351,15 @@ msgid ""
 msgstr ""
 
 #: pod/video/models.py
+<<<<<<< HEAD
 msgid ""
 "If checked, the channel appear in a list of available channels on the "
 "platform."
 msgstr ""
 
 #: pod/video/models.py
+=======
+>>>>>>> 4ef26a00 (ajout)
 msgid "Additionals channels tab"
 msgstr ""
 

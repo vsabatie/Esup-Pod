@@ -26,6 +26,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -90,6 +91,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+>>>>>>> 4ef26a00 (ajout)
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
