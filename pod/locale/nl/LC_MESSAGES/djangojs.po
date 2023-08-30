@@ -10,6 +10,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -26,6 +27,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+"POT-Creation-Date: 2023-08-30 07:35+0000\n"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -756,6 +760,18 @@ msgstr ""
 
 #: pod/video/static/js/validate-date_delete-field.js
 msgid "The deletion date can’t be earlier than today."
+msgstr ""
+
+#: pod/video/static/js/video-show.js
+msgid "Seek back 10 seconds"
+msgstr ""
+
+#: pod/video/static/js/video-show.js
+msgid "Seek forward 10 seconds"
+msgstr ""
+
+#: pod/video/static/js/video-show.js
+msgid "Quality"
 msgstr ""
 
 #: pod/video/static/js/video_category.js

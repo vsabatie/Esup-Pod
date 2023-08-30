@@ -10,6 +10,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -26,6 +27,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+"POT-Creation-Date: 2023-08-30 07:35+0000\n"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -2806,12 +2810,17 @@ msgid ""
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
 "<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
+"Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
@@ -5826,8 +5835,13 @@ msgstr "Vous ne pouvez créer une liste de lecture nommée \"Favoris\""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 msgstr ""
+<<<<<<< HEAD
 "Vous ne pouvez pas créer une liste de lecture nommée \"{FAVORITE_PLAYLIST_NAME}\""
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+"Vous ne pouvez pas créer une liste de lecture nommée "
+"\"{FAVORITE_PLAYLIST_NAME}\""
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 
 #: pod/playlist/forms.py
 msgid "Remove playlist cannot be undone"
