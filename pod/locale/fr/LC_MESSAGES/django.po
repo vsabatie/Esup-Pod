@@ -35,6 +35,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -172,6 +173,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 07:35+0000\n"
 >>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+"POT-Creation-Date: 2023-08-30 12:18+0000\n"
+>>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -7913,8 +7917,6 @@ msgid "Favorites"
 msgstr "Favoris"
 
 #: pod/playlist/tests/test_forms.py
-#, fuzzy
-#| msgid "Title field is required"
 msgid "This field is required."
 msgstr "Champ de titre est requis"
 
