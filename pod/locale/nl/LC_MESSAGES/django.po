@@ -85,6 +85,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -314,6 +315,8 @@ msgstr ""
 >>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
+=======
+>>>>>>> fbaa3e0b (ajout)
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -423,6 +426,8 @@ msgstr ""
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+=======
+>>>>>>> 88aac632 (ajout)
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -616,8 +621,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+<<<<<<< HEAD
 >>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+<<<<<<< HEAD
 >>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+>>>>>>> 4ef26a00 (ajout)
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2162,6 +2176,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -2176,6 +2191,8 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> fbaa3e0b (ajout)
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -2241,12 +2258,25 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 =======
+=======
+>>>>>>> 88aac632 (ajout)
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
+#: pod/playlist/templates/playlist/playlist_element_list.html
+>>>>>>> 4ef26a00 (ajout)
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 msgid "Position"
 msgstr ""
 
@@ -2911,10 +2941,14 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fbaa3e0b (ajout)
 =======
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 =======
 >>>>>>> 9490b823 (Encoding ok)
 =======
@@ -2923,6 +2957,8 @@ msgstr ""
 >>>>>>> 23b50507 (ajout)
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> fbaa3e0b (ajout)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
@@ -3700,6 +3736,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3727,6 +3764,9 @@ msgid ""
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+>>>>>>> 88aac632 (ajout)
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
@@ -8695,6 +8735,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8754,6 +8795,8 @@ msgid "Protected playlist form"
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> fbaa3e0b (ajout)
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8779,6 +8822,8 @@ msgid "Protected playlist form"
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 88aac632 (ajout)
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -8793,6 +8838,10 @@ msgid "Protected playlist form"
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 4ef26a00 (ajout)
 msgstr ""
 
 #: pod/playlist/templates/playlist/playlists.html
@@ -10165,11 +10214,14 @@ msgstr ""
 #: pod/video/models.py
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 msgstr ""
 
 #: pod/video/models.py
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> fbaa3e0b (ajout)
 msgid ""
 "If checked, the channel appear in a list of available channels on the "
 "platform."
@@ -10178,8 +10230,11 @@ msgstr ""
 #: pod/video/models.py
 =======
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 =======
 >>>>>>> 23b50507 (ajout)
+=======
+>>>>>>> fbaa3e0b (ajout)
 msgid "Additionals channels tab"
 msgstr ""
 

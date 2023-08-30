@@ -78,6 +78,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -288,6 +289,8 @@ msgstr ""
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+>>>>>>> fbaa3e0b (ajout)
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -395,6 +398,8 @@ msgstr ""
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+>>>>>>> 88aac632 (ajout)
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -566,6 +571,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
+>>>>>>> 4ef26a00 (ajout)
 "PO-Revision-Date: \n"
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2239,6 +2247,7 @@ msgstr "Contenu"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -2253,6 +2262,8 @@ msgstr "Contenu"
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> fbaa3e0b (ajout)
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -2314,12 +2325,25 @@ msgstr "Contenu"
 >>>>>>> 09b732ff (Encoding ok)
 =======
 =======
+=======
+>>>>>>> 88aac632 (ajout)
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
+#: pod/playlist/templates/playlist/playlist_element_list.html
+>>>>>>> 4ef26a00 (ajout)
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 msgid "Position"
 msgstr "Position"
 
@@ -2779,6 +2803,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
 "vtt »."
 =======
@@ -2801,6 +2826,10 @@ msgstr ""
 "Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
 "vtt »."
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+=======
+"Les fichiers de sous-titres et/ou de légendes doivent être au format \"."
+"vtt\"."
+>>>>>>> 88aac632 (ajout)
 
 #: pod/completion/templates/video_completion.html
 msgid "You can use"
@@ -3116,10 +3145,14 @@ msgstr "Aucun"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fbaa3e0b (ajout)
 =======
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
 >>>>>>> 4ef26a00 (ajout)
+<<<<<<< HEAD
 =======
 >>>>>>> 9490b823 (Encoding ok)
 =======
@@ -3128,6 +3161,8 @@ msgstr "Aucun"
 >>>>>>> 23b50507 (ajout)
 =======
 >>>>>>> 09b732ff (Encoding ok)
+=======
+>>>>>>> fbaa3e0b (ajout)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr "Éditer"
@@ -3346,11 +3381,14 @@ msgid ""
 "same to fill in the field untitled “End“."
 msgstr ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
 "\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 =======
+=======
+>>>>>>> fbaa3e0b (ajout)
 <<<<<<< HEAD
 "Les champs « Début » et « Fin » doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur « Récupérer "
@@ -3434,7 +3472,16 @@ msgstr ""
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
 "\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+"Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
+"Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
+"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -4035,6 +4082,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4146,6 +4194,8 @@ msgstr ""
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> fbaa3e0b (ajout)
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4184,6 +4234,8 @@ msgstr ""
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 88aac632 (ajout)
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4262,8 +4314,18 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 4ef26a00 (ajout)
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -4274,6 +4336,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4326,6 +4389,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 88aac632 (ajout)
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8340,16 +8407,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente <b>"
-"%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente "
+"<b>%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8375,8 +8442,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -10352,8 +10419,11 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> fbaa3e0b (ajout)
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 =======
@@ -10455,8 +10525,18 @@ msgid ""
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
+>>>>>>> 4ef26a00 (ajout)
+>>>>>>> 88aac632 (ajout)
+>>>>>>> fbaa3e0b (ajout)
 msgstr ""
 "Vous n’avez pas encore créé de liste de lecture, veuillez cliquer sur le "
 "bouton « Ajouter une nouvelle liste de lecture » pour en ajouter une."
@@ -11688,8 +11768,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11768,6 +11848,7 @@ msgid ""
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "<p>Bonjour,<br> un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur « %(recorder)s ».<br>Pour "
 "l’ajouter, cliquez sur le lien ci-dessous.</p><p><a href=\"%(link_url)s\">"
@@ -11792,10 +11873,15 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"Bonjour, <p>un nouvel enregistrement a été ajouté sur la plateforme "
+"%(title_site)s à partir de l’enregistreur \"%(recorder)s\".<br>Pour "
+>>>>>>> 88aac632 (ajout)
 "l’ajouter, cliquez sur le lien ci dessous.</p><a "
 "href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
 "faut le copier-coller dans la barre d’adresse de votre navigateur.</"
 "i><p><p>Cordialement</p>"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11843,6 +11929,8 @@ msgstr ""
 "%(link_url)s</a><br><em>Si le lien n’est pas actif, il faut le copier-coller "
 "dans la barre d’adresse de votre navigateur.</em></p><p>Cordialement.</p>"
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 88aac632 (ajout)
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -12190,8 +12278,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
-"%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
+"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -13103,8 +13191,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
-"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
+"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
