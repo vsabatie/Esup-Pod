@@ -67,6 +67,7 @@ class Dressing(models.Model):
         verbose_name=_("position"),
         max_length=200,
         choices=POSITIONS,
+        default=TOP_RIGHT,
         blank=True,
         null=True,
     )

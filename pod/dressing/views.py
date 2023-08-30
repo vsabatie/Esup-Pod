@@ -21,10 +21,17 @@ def video_dressing(request, slug):
         return redirect(reverse("maintenance"))
     video = get_object_or_404(Video, slug=slug, sites=get_current_site(request))
 
+    user = request.user
+    users_groups = user.owner.accessgroup_set.all()
+    dressings = Dressing.objects.filter(
+        Q(owners=user) |
+        Q(users=user) |
+        Q(allow_to_groups__in=users_groups)).distinct()
+
     return render(
         request,
         "video_dressing.html",
-        {"video": video}
+        {"video": video, "dressings": dressings}
     )
 
 
@@ -36,12 +43,13 @@ def dressing_edit(request, dressing_id):
         instance=dressing_edit,
         is_staff=request.user.is_staff,
         is_superuser=request.user.is_superuser,
+        user=request.user,
     )
 
     if request.method == 'POST':
         form_dressing = DressingForm(request.POST, instance=dressing_edit)
         if form_dressing.is_valid():
-            messages.add_message(request, messages.INFO, _("Valide"))
+            messages.add_message(request, messages.INFO, _("Valid"))
             form_dressing.save()
             return redirect(reverse("dressing:my_dressings"))
 
@@ -59,7 +67,7 @@ def dressing_create(request):
             form_dressing.save()
             return redirect('dressing:my_dressings')
     else:
-        form_dressing = DressingForm()
+        form_dressing = DressingForm(user=request.user)
 
     return render(
         request,

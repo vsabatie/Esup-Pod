@@ -11,6 +11,8 @@
 
 {% include 'videos/video-header.html' %}
 
+<link rel="stylesheet" href="{% static 'css/video_dressing.css' %}?ver={{VERSION}}">
+
 {% endblock page_extra_head %}
 
 {% block breadcrumbs %}
@@ -39,9 +41,76 @@
   {% include 'videos/video-element.html' %}
 </span>
 
+<table>
+  <thead>
+    <tr>
+      <th>{% trans 'Select' %}</th>
+      <th>{% trans 'Title' %}</th>
+      <th>{% trans 'Watermark' %}</th>
+      <th>{% trans 'Position' %}</th>
+      <th>{% trans 'Opacity' %}</th>
+      <th>{% trans 'Opening credits' %}</th>
+      <th>{% trans 'Ending credits' %}</th>
+    </tr>
+  </thead>
+  <tbody>
+      {% for dressing in dressings %}
+      <tr>
+        <td>
+          <input type="radio" name="selected_dressing" value="{{ dressing.pk }}">
+        </td>
+        <td>{{ dressing.title }}</td>
+        <td>
+          {% if dressing.watermark %}
+          <img id="watermark" src="{{ dressing.watermark.file.url }}" alt="Watermark">
+          {% else %}
+            {% trans 'None' %}
+          {% endif %}
+        </td>
+        <td>
+          {% if dressing.watermark %}
+          {{ dressing.get_position_display }}
+          {% else %}
+          <div class="text-center">
+            <i class="bi bi-x-lg"></i>
+          </div>
+          {% endif %}
+        </td>
+        <td>
+          {% if dressing.watermark %}
+          {{ dressing.opacity }}
+          {% else %}
+          <div class="text-center">
+            <i class="bi bi-x-lg"></i>
+          </div>
+          {% endif %}
+        </td>
+        <td>
+          {% if dressing.opening_credits %}
+          <a href="../../{{ dressing.opening_credits|slugify }}" title="{% trans 'View the video'%}">{{ dressing.opening_credits }}</a>
+          {% else %}
+            {% trans 'None' %}
+          {% endif %}
+        </td>
+        <td>
+          {% if dressing.ending_credits %}
+            <a href="../../{{ dressing.ending_credits|slugify }}" title="{% trans 'View the video'%}">{{ dressing.ending_credits }}</a>
+          {% else %}
+            {% trans 'None' %}
+          {% endif %}
+        </td>
+      </tr>
+      {% empty %}
+      <tr>
+        <td colspan="11">{% trans 'No dressings found.' %}</td>
+      </tr>
+      {% endfor %}
+  </tbody>
+</table>
 
-
-
+<div class="text-center">
+  <button type="submit" class="btn btn-primary" title="{% trans 'Apply' %}">{% trans "Apply" %}</button>
+</div>
 
 {% endblock page_content %}
 

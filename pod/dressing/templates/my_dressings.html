@@ -22,16 +22,16 @@
 <table>
     <thead>
         <tr>
-            <th>Title</th>
-            <th>Owners</th>
-            <th>Users</th>
-            <th>Allow to Groups</th>
-            <th>Watermark</th>
-            <th>Position</th>
-            <th>Opacity</th>
-            <th>Opening Credits</th>
-            <th>Ending Credits</th>
-            <th>Actions</th>
+            <th>{% trans 'Title' %}</th>
+            <th>{% trans 'Owners' %}</th>
+            <th>{% trans 'Users' %}</th>
+            <th>{% trans 'Allow to Groups' %}</th>
+            <th>{% trans 'Watermark' %}</th>
+            <th>{% trans 'Position' %}</th>
+            <th>{% trans 'Opacity' %}</th>
+            <th>{% trans 'Opening credits' %}</th>
+            <th>{% trans 'Ending credits' %}</th>
+            <th>{% trans 'Actions' %}</th>
         </tr>
     </thead>
     <tbody>
@@ -48,7 +48,7 @@
                     {% endif %}
                     {% if not forloop.last %}, {% endif %}
                     {% empty %}
-                        No owners
+                        {% trans 'No owners' %}
                     {% endfor %}
                 </td>
                 <td>
@@ -61,21 +61,21 @@
                     {% endif %}
                     {% if not forloop.last %}, {% endif %}
                     {% empty %}
-                        No users
+                        {% trans 'No users' %}
                     {% endfor %}
                 </td>
                 <td>
                     {% for group in dressing.allow_to_groups.all %}
                         {{ group }}{% if not forloop.last %}, {% endif %}
                     {% empty %}
-                        No groups
+                        {% trans 'No groups' %}
                     {% endfor %}
                 </td>
                 <td>
                     {% if dressing.watermark %}
                         <img id="watermark" src="{{ dressing.watermark.file.url }}" alt="Watermark">
                     {% else %}
-                        No watermark
+                        {% trans 'None' %}
                     {% endif %}
                 </td>
                 <td>
@@ -96,26 +96,38 @@
                     </div>
                     {% endif %}
                 </td>
-                <td>{{ dressing.opening_credits }}</td>
-                <td>{{ dressing.ending_credits }}</td>
+                <td>
+                    {% if dressing.opening_credits %}
+                        <a href="../../video/{{ dressing.opening_credits|slugify }}" title="{% trans 'View the video'%}">{{ dressing.opening_credits }}</a>
+                    {% else %}
+                      {% trans 'None' %}
+                    {% endif %}
+                  </td>
+                  <td>
+                    {% if dressing.ending_credits %}
+                        <a href="../../video/{{ dressing.ending_credits|slugify }}" title="{% trans 'View the video'%}">{{ dressing.ending_credits }}</a>
+                    {% else %}
+                      {% trans 'None' %}
+                    {% endif %}
+                  </td>
                 <td>
                     <div class="d-flex justify-content-between">
-                        <a href="{% url 'dressing:dressing_edit' dressing_id=dressing.pk %}" class="btn btn-primary" ><i class="bi bi-pencil-square" aria-hidden="true"></i></a>
+                        <a href="{% url 'dressing:dressing_edit' dressing_id=dressing.pk %}" class="btn btn-primary" title="{% trans 'Edit'%}"><i class="bi bi-pencil-square" aria-hidden="true"></i></a>
                         <form action="{% url 'dressing:dressing_delete' dressing_id=dressing.pk %}" method="POST">
                             {% csrf_token %}
-                            <button type="submit" class="btn btn-danger"><i class="bi bi-trash" aria-hidden="true"></i></button>
+                            <button type="submit" class="btn btn-danger" title="{% trans 'Delete'%}"><i class="bi bi-trash" aria-hidden="true"></i></button>
                         </form>
                     </div>
                 </td>
             </tr>
         {% empty %}
             <tr>
-                <td colspan="11">No dressings found.</td>
+                <td colspan="11">{% trans 'No dressings found.' %}</td>
             </tr>
         {% endfor %}
     </tbody>
 </table>
-<a href="{% url 'dressing:dressing_create' %}" class="btn btn-primary">Ajouter un nouvel objet</a>
+<a href="{% url 'dressing:dressing_create' %}" class="btn btn-primary">{% trans 'Add new object' %}</a>
 {% endblock page_content %}
 
 {% block collapse_page_aside %}

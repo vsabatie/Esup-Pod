@@ -12,7 +12,10 @@
 {% endblock %}
 
 {% block page_title %}
-{% if form.instance.title %}{% trans "Editing the dressing" %} "{{form.instance.title}}"{% endif %}
+{% if form.instance.title %}{% trans "Editing the dressing" %} "{{form.instance.title}}"
+{% else %}
+  {% trans "Create a new dressing" %}
+{% endif %}
 {% endblock %}
 
 {% block page_content %}

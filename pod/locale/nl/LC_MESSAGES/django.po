@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2023-06-27 09:34+0200\n"
+"POT-Creation-Date: 2023-07-13 16:48+0200\n"
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -28,7 +28,8 @@ msgstr ""
 msgid "Authentication"
 msgstr ""
 
-#: pod/authentication/forms.py pod/main/templates/navbar.html
+#: pod/authentication/forms.py pod/dressing/models.py
+#: pod/dressing/templates/my_dressings.html pod/main/templates/navbar.html
 #: pod/main/templates/navbar_collapse.html pod/podfile/models.py
 #: pod/video/forms.py pod/video/models.py
 #: pod/video/templates/videos/filter_aside.html
@@ -108,8 +109,9 @@ msgstr ""
 msgid "Owner"
 msgstr ""
 
-#: pod/authentication/models.py pod/video/admin.py pod/video/forms.py
-#: pod/video/models.py
+#: pod/authentication/models.py pod/dressing/models.py
+#: pod/dressing/templates/my_dressings.html pod/video/admin.py
+#: pod/video/forms.py pod/video/models.py
 msgid "Owners"
 msgstr ""
 
@@ -199,6 +201,7 @@ msgstr ""
 #: pod/bbb/templates/bbb/live_publish_meeting.html
 #: pod/bbb/templates/bbb/publish_meeting.html pod/bbb/views.py
 #: pod/completion/templates/video_caption_maker.html
+#: pod/dressing/templates/dressing_edit.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/import_video/templates/import_video/add_or_edit.html
 #: pod/import_video/views.py pod/live/templates/live/event-form.html
@@ -227,6 +230,7 @@ msgstr ""
 #: pod/bbb/templates/bbb/live_publish_meeting.html
 #: pod/bbb/templates/bbb/publish_meeting.html
 #: pod/completion/templates/video_caption_maker.html
+#: pod/dressing/templates/dressing_edit.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/import_video/templates/import_video/add_or_edit.html
 #: pod/live/templates/live/event-form.html
@@ -831,6 +835,7 @@ msgstr ""
 #: pod/completion/templates/overlay/form_overlay.html
 #: pod/completion/templates/track/form_track.html
 #: pod/completion/templates/video_caption_maker.html
+#: pod/dressing/templates/dressing_edit.html
 #: pod/enrichment/templates/enrichment/form_enrichment.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/import_video/templates/import_video/add_or_edit.html
@@ -874,7 +879,9 @@ msgid "List of chapters"
 msgstr ""
 
 #: pod/chapter/templates/chapter/list_chapter.html pod/completion/models.py
-#: pod/completion/templates/overlay/list_overlay.html
+#: pod/completion/templates/overlay/list_overlay.html pod/dressing/models.py
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
 #: pod/enrichment/templates/enrichment/list_enrichment.html pod/live/models.py
 #: pod/main/models.py pod/main/views.py pod/playlist/models.py
 #: pod/playlist/templates/playlist/playlist_element_list.html
@@ -888,6 +895,7 @@ msgstr "Titel"
 #: pod/completion/templates/document/list_document.html
 #: pod/completion/templates/overlay/list_overlay.html
 #: pod/completion/templates/track/list_track.html
+#: pod/dressing/templates/my_dressings.html
 #: pod/enrichment/templates/enrichment/list_enrichment.html
 #: pod/playlist/templates/playlist/playlist_element_list.html
 #: pod/video/templates/channel/list_theme.html
@@ -917,6 +925,7 @@ msgstr ""
 #: pod/completion/templates/contributor/list_contributor.html
 #: pod/completion/templates/document/list_document.html
 #: pod/completion/templates/overlay/list_overlay.html
+#: pod/dressing/templates/my_dressings.html
 #: pod/enrichment/templates/enrichment/list_enrichment.html
 #: pod/live/templates/live/event_delete.html
 #: pod/meeting/templates/meeting/delete.html
@@ -935,7 +944,7 @@ msgstr ""
 #: pod/chapter/templates/video_chapter.html
 #: pod/completion/templates/video_caption_maker.html
 #: pod/completion/templates/video_completion.html
-#: pod/cut/templates/video_cut.html
+#: pod/cut/templates/video_cut.html pod/dressing/templates/video_dressing.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/main/templates/navbar.html pod/video/templates/videos/add_video.html
 #: pod/video/templates/videos/my_videos.html
@@ -946,6 +955,8 @@ msgid "My videos"
 msgstr ""
 
 #: pod/chapter/templates/video_chapter.html pod/cut/templates/video_cut.html
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
 #: pod/video/templates/videos/video_collaborate.html
 #: pod/video/templates/videos/video_delete.html
 #: pod/video/templates/videos/video_edit.html
@@ -964,7 +975,7 @@ msgstr ""
 
 #: pod/chapter/templates/video_chapter.html
 #: pod/completion/templates/video_completion.html
-#: pod/cut/templates/video_cut.html
+#: pod/cut/templates/video_cut.html pod/dressing/templates/video_dressing.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/video/templates/videos/video.html
 #: pod/video/templates/videos/video_edit.html
@@ -1272,7 +1283,8 @@ msgid "Content"
 msgstr ""
 
 #: pod/completion/models.py pod/completion/templates/overlay/list_overlay.html
-#: pod/playlist/models.py
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
 #: pod/playlist/templates/playlist/playlist_element_list.html
 msgid "Position"
 msgstr ""
@@ -1715,7 +1727,7 @@ msgstr ""
 msgid "Cut the video"
 msgstr ""
 
-#: pod/cut/templates/video_cut.html
+#: pod/cut/templates/video_cut.html pod/dressing/templates/video_dressing.html
 #: pod/enrichment/templates/enrichment/group_enrichment.html
 #: pod/video/templates/videos/video.html
 #: pod/video/templates/videos/video_edit.html
@@ -1778,6 +1790,144 @@ msgstr ""
 msgid "The cut was made."
 msgstr ""
 
+#: pod/dressing/models.py
+msgid "Top right"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "Top left"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "Bottom right"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "Bottom left"
+msgstr ""
+
+#: pod/dressing/models.py pod/video/models.py
+msgid ""
+"Please choose a title as short and accurate as possible, reflecting the main "
+"subject / context of the content.(max length: 100 characters)"
+msgstr ""
+
+#: pod/dressing/models.py pod/enrichment/forms.py pod/enrichment/models.py
+#: pod/live/models.py pod/meeting/models.py pod/podfile/models.py
+#: pod/recorder/models.py pod/video/models.py
+msgid "Groups"
+msgstr ""
+
+#: pod/dressing/models.py pod/video/models.py
+msgid "Select one or more groups who can upload video to this channel."
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "watermark"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "position"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "opacity"
+msgstr ""
+
+#: pod/dressing/models.py pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+msgid "Opening credits"
+msgstr ""
+
+#: pod/dressing/models.py pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+msgid "Ending credits"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "Video dressing"
+msgstr ""
+
+#: pod/dressing/models.py
+msgid "Video dressings"
+msgstr ""
+
+#: pod/dressing/templates/dressing_edit.html
+msgid "Editing the dressing"
+msgstr ""
+
+#: pod/dressing/templates/dressing_edit.html
+msgid "Create a new dressing"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html pod/main/templates/navbar.html
+msgid "My dressings"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+msgid "Allow to Groups"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+msgid "Watermark"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+msgid "Opacity"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+msgid "No owners"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+msgid "No users"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+msgid "No groups"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/video/views.py
+msgid "None"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html pod/live/templates/live/direct.html
+#: pod/playlist/templates/playlist.html
+#: pod/playlist/templates/playlist/playlist_list.html
+#: pod/video/templates/videos/video_edit.html
+msgid "Edit"
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+msgid "No dressings found."
+msgstr ""
+
+#: pod/dressing/templates/my_dressings.html
+msgid "Add new object"
+msgstr ""
+
+#: pod/dressing/templates/video_dressing.html
+#: pod/video/templates/videos/link_video.html
+msgid "Dress the video"
+msgstr ""
+
+#: pod/dressing/templates/video_dressing.html
+msgid "Select"
+msgstr ""
+
+#: pod/dressing/templates/video_dressing.html
+msgid "Apply"
+msgstr ""
+
+#: pod/dressing/views.py
+msgid "Valid"
+msgstr ""
+
 #: pod/enrichment/apps.py pod/enrichment/models.py
 msgid "Enrichments"
 msgstr ""
@@ -1797,12 +1947,6 @@ msgstr ""
 #: pod/enrichment/apps.py
 #: pod/enrichment/templates/enrichment/list_enrichment.html
 msgid "Edit the enrichment"
-msgstr ""
-
-#: pod/enrichment/forms.py pod/enrichment/models.py pod/live/models.py
-#: pod/meeting/models.py pod/podfile/models.py pod/recorder/models.py
-#: pod/video/models.py
-msgid "Groups"
 msgstr ""
 
 #: pod/enrichment/models.py
@@ -2484,8 +2628,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
-"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
 #: pod/import_video/views.py
@@ -2955,12 +3099,6 @@ msgstr ""
 
 #: pod/live/templates/live/direct.html
 msgid "Manage broadcaster"
-msgstr ""
-
-#: pod/live/templates/live/direct.html pod/playlist/templates/playlist.html
-#: pod/playlist/templates/playlist/playlist_list.html
-#: pod/video/templates/videos/video_edit.html
-msgid "Edit"
 msgstr ""
 
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
@@ -5194,8 +5332,8 @@ msgstr ""
 
 #: pod/playlist/templates/my_playlists.html
 msgid ""
-"You have not created any playlists yet, please use the \"Add a new playlist"
-"\" button to add one."
+"You have not created any playlists yet, please use the \"Add a new "
+"playlist\" button to add one."
 msgstr ""
 
 #: pod/playlist/templates/my_playlists.html
@@ -5784,8 +5922,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
@@ -6261,12 +6399,6 @@ msgstr ""
 
 #: pod/video/models.py
 msgid ""
-"Please choose a title as short and accurate as possible, reflecting the main "
-"subject / context of the content.(max length: 100 characters)"
-msgstr ""
-
-#: pod/video/models.py
-msgid ""
 "The background color for your channel. You can use the format #. i.e.: "
 "#ff0000 for red"
 msgstr ""
@@ -6279,10 +6411,6 @@ msgstr ""
 msgid ""
 "If checked, the channel appear in a list of available channels on the "
 "platform."
-msgstr ""
-
-#: pod/video/models.py
-msgid "Select one or more groups who can upload video to this channel."
 msgstr ""
 
 #: pod/video/models.py
@@ -7343,10 +7471,6 @@ msgstr ""
 
 #: pod/video/views.py
 msgid "The comment has been deleted."
-msgstr ""
-
-#: pod/video/views.py
-msgid "None"
 msgstr ""
 
 #: pod/video/views.py
