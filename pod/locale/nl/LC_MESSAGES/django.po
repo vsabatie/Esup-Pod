@@ -1761,6 +1761,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -1769,6 +1770,8 @@ msgstr ""
 >>>>>>> 23b50507 (ajout)
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 386cba9c (ajout)
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -1804,13 +1807,26 @@ msgstr ""
 >>>>>>> 23b50507 (ajout)
 =======
 =======
+=======
+>>>>>>> 856119ca (ajout)
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
 #: pod/playlist/templates/playlist/playlist_element_list.html
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
+#: pod/playlist/templates/playlist/playlist_element_list.html
+>>>>>>> a51acb32 (ajout)
+>>>>>>> 856119ca (ajout)
+>>>>>>> 386cba9c (ajout)
 msgid "Position"
 msgstr ""
 
@@ -3220,6 +3236,7 @@ msgstr ""
 msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3229,6 +3246,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 856119ca (ajout)
 msgstr ""
 
 #: pod/import_video/views.py
@@ -8402,8 +8423,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
