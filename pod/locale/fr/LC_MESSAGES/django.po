@@ -36,6 +36,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -176,6 +177,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:18+0000\n"
 >>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+"POT-Creation-Date: 2023-08-30 14:09+0000\n"
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -3832,7 +3836,11 @@ msgid "Home"
 msgstr "Accueil"
 
 #: pod/live/templates/live/direct.html
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+=======
+#: pod/live/templates/live/event-script.html
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr "Nouvelle fenêtre"
@@ -5235,11 +5243,14 @@ msgstr "Fil d’Ariane"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/base.html
+<<<<<<< HEAD
 msgid "Home"
 msgstr "Accueil"
 
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 #: pod/main/templates/base.html
+=======
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 msgid ""
 "We use third party cookies to personalize content, manage session and "
 "analyze site traffic."
@@ -7328,6 +7339,7 @@ msgstr "Vidéos de la playlist"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #, fuzzy
 #| msgid "Reorganize your favorite videos"
 =======
@@ -7339,6 +7351,8 @@ msgid "Reorganize your favorite videos"
 =======
 #, fuzzy
 #| msgid "Reorganize your favorite videos"
+=======
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 msgid "Reorganize your playlist videos"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
@@ -9354,6 +9368,7 @@ msgstr[1] "%(counter)s thèmes trouvés dans cette chaine"
 #: pod/video/templates/channel/channel.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #, python-format
 =======
 #, fuzzy, python-format
@@ -9365,6 +9380,9 @@ msgstr[1] "%(counter)s thèmes trouvés dans cette chaine"
 #| msgid "%(counter)s video found"
 #| msgid_plural "%(counter)s videos found"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+#, python-format
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 msgid "%(counter)s video"
 msgid_plural "%(counter)s videos"
 msgstr[0] "%(counter)s vidéo trouvée"
@@ -10026,14 +10044,20 @@ msgstr "Ajouter une nouvelle vidéo"
 #: pod/video/templates/videos/video_edit.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 msgid "View the video"
 msgstr "Voir la vidéo"
 
 #: pod/video/templates/videos/video_edit.html
+<<<<<<< HEAD
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 #: pod/video/templates/videos/video_page_content.html
 msgid "The video is currently waiting for encoding."
 msgstr "La vidéo est actuellement en attente d’encodage."
@@ -10764,6 +10788,21 @@ msgstr "xAPI Esup-Pod"
 
 #~ msgid "No channels found"
 #~ msgstr "Aucune chaîne trouvée"
+
+#~ msgid "Edit the overlay"
+#~ msgstr "Éditer la superposition"
+
+#~ msgid "Delete the overlay"
+#~ msgstr "Supprimer la superposition"
+
+#~ msgid "Rename folder"
+#~ msgstr "Renommer le dossier"
+
+#~ msgid "Delete folder"
+#~ msgstr "Supprimer le dossier"
+
+#~ msgid "Share this folder"
+#~ msgstr "Partager ce dossier"
 
 #~ msgid "End:"
 #~ msgstr "Fin :"
