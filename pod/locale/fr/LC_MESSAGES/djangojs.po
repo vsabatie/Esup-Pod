@@ -38,6 +38,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -156,6 +157,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+"POT-Creation-Date: 2023-08-30 07:35+0000\n"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
