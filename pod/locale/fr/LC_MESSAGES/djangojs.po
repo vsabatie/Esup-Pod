@@ -66,6 +66,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -255,6 +256,8 @@ msgstr ""
 >>>>>>> a43af8bf ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -330,6 +333,8 @@ msgstr ""
 >>>>>>> 9e3de4db ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -370,8 +375,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-30 07:35+0000\n"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"

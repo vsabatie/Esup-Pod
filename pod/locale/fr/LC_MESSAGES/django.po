@@ -62,6 +62,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -240,6 +241,8 @@ msgstr ""
 >>>>>>> a43af8bf ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -315,6 +318,8 @@ msgstr ""
 >>>>>>> 9e3de4db ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -355,8 +360,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-30 07:35+0000\n"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -3878,6 +3892,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
@@ -3888,6 +3903,8 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -3941,14 +3958,26 @@ msgstr ""
 >>>>>>> 09b732ff (Encoding ok)
 =======
 =======
+=======
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
 "<a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+<<<<<<< HEAD
 >>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+<<<<<<< HEAD
 >>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+=======
+=======
+"Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
+"Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
@@ -8099,10 +8128,21 @@ msgstr "Vous ne pouvez créer une liste de lecture nommée \"Favoris\""
 =======
 =======
 msgstr ""
+<<<<<<< HEAD
 "Vous ne pouvez pas créer une liste de lecture nommée \"{FAVORITE_PLAYLIST_NAME}\""
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+"Vous ne pouvez pas créer une liste de lecture nommée "
+"\"{FAVORITE_PLAYLIST_NAME}\""
+>>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 01f4a3f9 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+>>>>>>> 4cbcff80 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
 
 #: pod/playlist/forms.py
 msgid "Remove playlist cannot be undone"
