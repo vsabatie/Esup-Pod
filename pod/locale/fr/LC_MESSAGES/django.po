@@ -12,6 +12,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -34,6 +35,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:18+0000\n"
 >>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+"POT-Creation-Date: 2023-08-30 14:09+0000\n"
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -997,8 +1001,9 @@ msgid "Actions"
 msgstr "Actions"
 
 #: pod/chapter/templates/chapter/list_chapter.html
-msgid "Edit the chapter"
-msgstr "Éditer le chapitre"
+#, python-format
+msgid "Modify the chapter “%(chapter_title)s”"
+msgstr "Modifier le chapitre « %(chapter_title)s »"
 
 #: pod/chapter/templates/chapter/list_chapter.html
 #: pod/completion/templates/contributor/list_contributor.html
@@ -1012,8 +1017,9 @@ msgid "Modify"
 msgstr "Modifier"
 
 #: pod/chapter/templates/chapter/list_chapter.html
-msgid "Delete the chapter"
-msgstr "Supprimer le chapitre"
+#, python-format
+msgid "Delete the chapter “%(chapter_title)s”"
+msgstr "Supprimer le chapitre « %(chapter_title)s »"
 
 #: pod/chapter/templates/chapter/list_chapter.html
 #: pod/completion/templates/contributor/list_contributor.html
@@ -1053,9 +1059,9 @@ msgstr "Mes vidéos"
 #: pod/dressing/templates/video_dressing.html
 #: pod/video/templates/videos/video_collaborate.html
 #: pod/video/templates/videos/video_delete.html
-#: pod/video/templates/videos/video_edit.html
-msgid "View the video"
-msgstr "Voir la vidéo"
+#, python-format
+msgid "Back to the video “%(video_title)s”"
+msgstr "Retourner à la vidéo « %(video_title)s »"
 
 #: pod/chapter/templates/video_chapter.html pod/cut/templates/video_cut.html
 #: pod/video/templates/videos/video_collaborate.html
@@ -1486,24 +1492,28 @@ msgid "Role"
 msgstr "Rôle"
 
 #: pod/completion/templates/contributor/list_contributor.html
-msgid "Edit the contributor"
-msgstr "Éditer le contributeur"
+#, python-format
+msgid "Modify the contributor “%(contributor_name)s”"
+msgstr "Modifier le contributeur « %(contributor_name)s »"
 
 #: pod/completion/templates/contributor/list_contributor.html
-msgid "Delete the contributor"
-msgstr "Supprimer le contributeur"
+#, python-format
+msgid "Delete the contributor “%(contributor_name)s”"
+msgstr "Supprimer le contributeur « %(contributor_name)s »"
 
 #: pod/completion/templates/document/list_document.html
 msgid "List of additional resources"
 msgstr "Liste des documents complémentaires"
 
 #: pod/completion/templates/document/list_document.html
-msgid "Edit the additional resource"
-msgstr "Éditer le document complémentaire"
+#, python-format
+msgid "Modify the additional resource “%(document_name)s”"
+msgstr "Modifier le document complémentaire « %(document_name)s »"
 
 #: pod/completion/templates/document/list_document.html
-msgid "Delete the additional resource"
-msgstr "Supprimer le document complémentaire"
+#, python-format
+msgid "Delete the additional resource “%(document_name)s”"
+msgstr "Supprimer le document complémentaire « %(document_name)s »"
 
 #: pod/completion/templates/overlay/list_overlay.html
 msgid "List of overlays"
@@ -1523,12 +1533,14 @@ msgid "End"
 msgstr "Fin"
 
 #: pod/completion/templates/overlay/list_overlay.html
-msgid "Edit the overlay"
-msgstr "Éditer la superposition"
+#, python-format
+msgid "Modify the overlay “%(overlay_title)s”"
+msgstr "Modifier la superposition « %(overlay_title)s »"
 
 #: pod/completion/templates/overlay/list_overlay.html
-msgid "Delete the overlay"
-msgstr "Supprimer la superposition"
+#, python-format
+msgid "Delete the overlay “%(overlay_title)s”"
+msgstr "Supprimer la superposition « %(overlay_title)s »"
 
 #: pod/completion/templates/track/list_track.html
 msgid "List of subtitle or caption files"
@@ -1539,20 +1551,23 @@ msgid "Video track file"
 msgstr "Fichier de piste vidéo"
 
 #: pod/completion/templates/track/list_track.html
-msgid "Replace the subtitle or caption files"
-msgstr "Remplacer les fichiers de sous-titres ou de légendes"
+#, python-format
+msgid "Replace the subtitle or caption file “%(track_name)s”"
+msgstr "Remplacer le fichier de sous-titres ou de légendes « %(track_name)s »"
 
 #: pod/completion/templates/track/list_track.html
 msgid "Replace"
 msgstr "Remplacer"
 
 #: pod/completion/templates/track/list_track.html
-msgid "Edit the subtitle or caption files"
-msgstr "Éditer les fichiers de sous-titres ou de légendes"
+#, python-format
+msgid "Modify the subtitle or caption file “%(track_name)s”"
+msgstr "Modifier le fichier de sous-titres ou de légendes « %(track_name)s »"
 
 #: pod/completion/templates/track/list_track.html
-msgid "Remove the subtitle or caption files"
-msgstr "Supprimer les fichiers de sous-titres ou de légendes"
+#, python-format
+msgid "Remove the subtitle or caption file “%(track_name)s”"
+msgstr "Retirer le fichier de sous-titres ou de légendes « %(track_name)s »"
 
 #: pod/completion/templates/track/list_track.html
 msgid "Remove"
@@ -2116,7 +2131,6 @@ msgid "enrichment"
 msgstr "enrichissement"
 
 #: pod/enrichment/apps.py
-#: pod/enrichment/templates/enrichment/list_enrichment.html
 msgid "Edit the enrichment"
 msgstr "Éditer l’enrichissement"
 
@@ -2317,8 +2331,14 @@ msgid "List of the enrichments"
 msgstr "Liste des enrichissements"
 
 #: pod/enrichment/templates/enrichment/list_enrichment.html
-msgid "Delete the enrichment"
-msgstr "Supprimer l’enrichissement"
+#, python-format
+msgid "Modify the enrichment “%(enrich_title)s”"
+msgstr "Modifier l’enrichissement « %(enrich_title)s »"
+
+#: pod/enrichment/templates/enrichment/list_enrichment.html
+#, python-format
+msgid "Delete the enrichment “%(enrich_title)s”"
+msgstr "Supprimer l’enrichissement « %(enrich_title)s »"
 
 #: pod/enrichment/templates/enrichment/video_enrichment-iframe.html
 #: pod/enrichment/templates/enrichment/video_enrichment.html
@@ -3376,6 +3396,22 @@ msgstr ""
 "Merci d’avoir regardé ce streaming en direct avec nous. La page se "
 "rechargera automatiquement dans quelques secondes pour afficher la vidéo "
 "d’attente."
+
+#: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html pod/main/context_processors.py
+#: pod/main/templates/base.html pod/main/templates/navbar.html
+#: pod/main/views.py pod/playlist/views.py pod/video/feeds.py
+#: pod/video/management/commands/check_obsolete_videos.py pod/video/models.py
+#: pod/video/templates/videos/video-script.html pod/video/utils.py
+#: pod/video/views.py pod/video_encode_transcript/utils.py
+msgid "Home"
+msgstr "Accueil"
+
+#: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html
+#: pod/video/templates/videos/video-script.html
+msgid "New window"
+msgstr "Nouvelle fenêtre"
 
 #: pod/live/templates/live/direct.html
 #: pod/live/templates/live/event-script.html
@@ -4696,10 +4732,6 @@ msgid "Breadcrumb"
 msgstr "Fil d’Ariane"
 
 #: pod/main/templates/base.html
-msgid "Home"
-msgstr "Accueil"
-
-#: pod/main/templates/base.html
 msgid ""
 "We use third party cookies to personalize content, manage session and "
 "analyze site traffic."
@@ -4747,6 +4779,14 @@ msgstr "Projet Pod"
 #: pod/main/templates/footer.html pod/video/feeds.py
 msgid "video platform of"
 msgstr "plateforme vidéos de"
+
+#: pod/main/templates/footer.html
+msgid "View changes of version"
+msgstr "Voir les changements de la version"
+
+#: pod/main/templates/footer.html
+msgid "on"
+msgstr "sur"
 
 #: pod/main/templates/footer.html
 msgid "Release"
@@ -6163,8 +6203,11 @@ msgstr "Vidéos de la playlist"
 #: pod/playlist/templates/playlist/playlist.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #, fuzzy
 #| msgid "Reorganize your favorite videos"
+=======
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 msgid "Reorganize your playlist videos"
 =======
 msgid "Reorganize your favorite videos"
@@ -6599,16 +6642,19 @@ msgid "Toggle file actions menu"
 msgstr "Afficher/masquer les actions de fichier"
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Rename folder"
-msgstr "Renommer le dossier"
+#, python-format
+msgid "Rename folder “%(folder_name)s”"
+msgstr "Renommer le dossier « %(folder_name)s »"
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Delete folder"
-msgstr "Supprimer le dossier"
+#, python-format
+msgid "Delete folder “%(folder_name)s”"
+msgstr "Supprimer le dossier « %(folder_name)s »"
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Share this folder"
-msgstr "Partager ce dossier"
+#, python-format
+msgid "Share folder “%(folder_name)s” with another user"
+msgstr "Partager le dossier « %(folder_name)s » avec un autre utilisateur"
 
 #: pod/podfile/templates/podfile/list_folder_files.html
 msgid "Upload Files"
@@ -7772,9 +7818,7 @@ msgstr[0] "%(counter)s thème trouvé dans cette chaine"
 msgstr[1] "%(counter)s thèmes trouvés dans cette chaine"
 
 #: pod/video/templates/channel/channel.html
-#, fuzzy, python-format
-#| msgid "%(counter)s video found"
-#| msgid_plural "%(counter)s videos found"
+#, python-format
 msgid "%(counter)s video"
 msgid_plural "%(counter)s videos"
 msgstr[0] "%(counter)s vidéo trouvée"
@@ -8374,6 +8418,10 @@ msgid "Add a new video"
 msgstr "Ajouter une nouvelle vidéo"
 
 #: pod/video/templates/videos/video_edit.html
+msgid "View the video"
+msgstr "Voir la vidéo"
+
+#: pod/video/templates/videos/video_edit.html
 #: pod/video/templates/videos/video_page_content.html
 msgid "The video is currently waiting for encoding."
 msgstr "La vidéo est actuellement en attente d’encodage."
@@ -8970,6 +9018,24 @@ msgstr "xAPI Esup-Pod"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+#~ msgid "Edit the overlay"
+#~ msgstr "Éditer la superposition"
+
+#~ msgid "Delete the overlay"
+#~ msgstr "Supprimer la superposition"
+
+#~ msgid "Rename folder"
+#~ msgstr "Renommer le dossier"
+
+#~ msgid "Delete folder"
+#~ msgstr "Supprimer le dossier"
+
+#~ msgid "Share this folder"
+#~ msgstr "Partager ce dossier"
+
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 #~ msgid "End:"
 #~ msgstr "Fin :"
 

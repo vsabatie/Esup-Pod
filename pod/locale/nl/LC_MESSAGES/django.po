@@ -12,6 +12,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -34,6 +35,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 12:18+0000\n"
 >>>>>>> f882f288 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
+=======
+"POT-Creation-Date: 2023-08-30 14:09+0000\n"
+>>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -940,7 +944,8 @@ msgid "Actions"
 msgstr ""
 
 #: pod/chapter/templates/chapter/list_chapter.html
-msgid "Edit the chapter"
+#, python-format
+msgid "Modify the chapter “%(chapter_title)s”"
 msgstr ""
 
 #: pod/chapter/templates/chapter/list_chapter.html
@@ -955,7 +960,8 @@ msgid "Modify"
 msgstr ""
 
 #: pod/chapter/templates/chapter/list_chapter.html
-msgid "Delete the chapter"
+#, python-format
+msgid "Delete the chapter “%(chapter_title)s”"
 msgstr ""
 
 #: pod/chapter/templates/chapter/list_chapter.html
@@ -996,8 +1002,8 @@ msgstr ""
 #: pod/dressing/templates/video_dressing.html
 #: pod/video/templates/videos/video_collaborate.html
 #: pod/video/templates/videos/video_delete.html
-#: pod/video/templates/videos/video_edit.html
-msgid "View the video"
+#, python-format
+msgid "Back to the video “%(video_title)s”"
 msgstr ""
 
 #: pod/chapter/templates/video_chapter.html pod/cut/templates/video_cut.html
@@ -1417,11 +1423,13 @@ msgid "Role"
 msgstr ""
 
 #: pod/completion/templates/contributor/list_contributor.html
-msgid "Edit the contributor"
+#, python-format
+msgid "Modify the contributor “%(contributor_name)s”"
 msgstr ""
 
 #: pod/completion/templates/contributor/list_contributor.html
-msgid "Delete the contributor"
+#, python-format
+msgid "Delete the contributor “%(contributor_name)s”"
 msgstr ""
 
 #: pod/completion/templates/document/list_document.html
@@ -1429,11 +1437,13 @@ msgid "List of additional resources"
 msgstr ""
 
 #: pod/completion/templates/document/list_document.html
-msgid "Edit the additional resource"
+#, python-format
+msgid "Modify the additional resource “%(document_name)s”"
 msgstr ""
 
 #: pod/completion/templates/document/list_document.html
-msgid "Delete the additional resource"
+#, python-format
+msgid "Delete the additional resource “%(document_name)s”"
 msgstr ""
 
 #: pod/completion/templates/overlay/list_overlay.html
@@ -1454,11 +1464,13 @@ msgid "End"
 msgstr ""
 
 #: pod/completion/templates/overlay/list_overlay.html
-msgid "Edit the overlay"
+#, python-format
+msgid "Modify the overlay “%(overlay_title)s”"
 msgstr ""
 
 #: pod/completion/templates/overlay/list_overlay.html
-msgid "Delete the overlay"
+#, python-format
+msgid "Delete the overlay “%(overlay_title)s”"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
@@ -1470,7 +1482,8 @@ msgid "Video track file"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
-msgid "Replace the subtitle or caption files"
+#, python-format
+msgid "Replace the subtitle or caption file “%(track_name)s”"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
@@ -1478,11 +1491,13 @@ msgid "Replace"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
-msgid "Edit the subtitle or caption files"
+#, python-format
+msgid "Modify the subtitle or caption file “%(track_name)s”"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
-msgid "Remove the subtitle or caption files"
+#, python-format
+msgid "Remove the subtitle or caption file “%(track_name)s”"
 msgstr ""
 
 #: pod/completion/templates/track/list_track.html
@@ -2002,7 +2017,6 @@ msgid "enrichment"
 msgstr ""
 
 #: pod/enrichment/apps.py
-#: pod/enrichment/templates/enrichment/list_enrichment.html
 msgid "Edit the enrichment"
 msgstr ""
 
@@ -2193,7 +2207,13 @@ msgid "List of the enrichments"
 msgstr ""
 
 #: pod/enrichment/templates/enrichment/list_enrichment.html
-msgid "Delete the enrichment"
+#, python-format
+msgid "Modify the enrichment “%(enrich_title)s”"
+msgstr ""
+
+#: pod/enrichment/templates/enrichment/list_enrichment.html
+#, python-format
+msgid "Delete the enrichment “%(enrich_title)s”"
 msgstr ""
 
 #: pod/enrichment/templates/enrichment/video_enrichment-iframe.html
@@ -3133,6 +3153,22 @@ msgstr ""
 msgid ""
 "Thank you for watching this streaming live with us. The page will reload "
 "automatically within a few seconds to display the video on hold."
+msgstr ""
+
+#: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html pod/main/context_processors.py
+#: pod/main/templates/base.html pod/main/templates/navbar.html
+#: pod/main/views.py pod/playlist/views.py pod/video/feeds.py
+#: pod/video/management/commands/check_obsolete_videos.py pod/video/models.py
+#: pod/video/templates/videos/video-script.html pod/video/utils.py
+#: pod/video/views.py pod/video_encode_transcript/utils.py
+msgid "Home"
+msgstr ""
+
+#: pod/live/templates/live/direct.html
+#: pod/live/templates/live/event-script.html
+#: pod/video/templates/videos/video-script.html
+msgid "New window"
 msgstr ""
 
 #: pod/live/templates/live/direct.html
@@ -4425,10 +4461,6 @@ msgid "Breadcrumb"
 msgstr ""
 
 #: pod/main/templates/base.html
-msgid "Home"
-msgstr ""
-
-#: pod/main/templates/base.html
 msgid ""
 "We use third party cookies to personalize content, manage session and "
 "analyze site traffic."
@@ -4470,6 +4502,14 @@ msgstr ""
 
 #: pod/main/templates/footer.html pod/video/feeds.py
 msgid "video platform of"
+msgstr ""
+
+#: pod/main/templates/footer.html
+msgid "View changes of version"
+msgstr ""
+
+#: pod/main/templates/footer.html
+msgid "on"
 msgstr ""
 
 #: pod/main/templates/footer.html
@@ -6172,15 +6212,18 @@ msgid "Toggle file actions menu"
 msgstr ""
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Rename folder"
+#, python-format
+msgid "Rename folder “%(folder_name)s”"
 msgstr ""
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Delete folder"
+#, python-format
+msgid "Delete folder “%(folder_name)s”"
 msgstr ""
 
 #: pod/podfile/templates/podfile/list_folder_files.html
-msgid "Share this folder"
+#, python-format
+msgid "Share folder “%(folder_name)s” with another user"
 msgstr ""
 
 #: pod/podfile/templates/podfile/list_folder_files.html
@@ -7789,6 +7832,10 @@ msgstr ""
 
 #: pod/video/templates/videos/video_edit.html
 msgid "Add a new video"
+msgstr ""
+
+#: pod/video/templates/videos/video_edit.html
+msgid "View the video"
 msgstr ""
 
 #: pod/video/templates/videos/video_edit.html
