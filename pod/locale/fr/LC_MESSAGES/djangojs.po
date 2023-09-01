@@ -69,6 +69,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -264,6 +265,8 @@ msgstr ""
 >>>>>>> 300c9da2 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 =======
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
+=======
+>>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -345,6 +348,8 @@ msgstr ""
 >>>>>>> 0d1b9674 ([DONE] Fix: Accessibility for the relevance of button titles (11.09) (#928))
 =======
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+=======
+>>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -412,8 +417,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 14:09+0000\n"
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+<<<<<<< HEAD
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+<<<<<<< HEAD
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-08-31 12:25+0000\n"
+>>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+>>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+>>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2228,6 +2242,7 @@ msgstr "Titre court"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Add a caption/subtitle after this one"
 #~ msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 
@@ -2248,10 +2263,18 @@ msgstr "Titre court"
 #~ msgid_plural "videos"
 #~ msgstr[0] "vidéo"
 #~ msgstr[1] "vidéos"
+=======
+msgid "Add a public comment"
+msgstr "Ajouter un commentaire public"
+
+msgid "Reply"
+msgstr "Répondre"
+>>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 
 #~ msgid "Channels"
 #~ msgstr "Chaînes"
 
+<<<<<<< HEAD
 #~ msgid "Channel"
 #~ msgstr "Chaîne"
 
@@ -2294,6 +2317,8 @@ msgstr "Titre court"
 #~ msgid "Add a public comment"
 #~ msgstr "Ajouter un commentaire public"
 
+=======
+>>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 #~ msgid "Send"
 #~ msgstr "Envoyer"
 
