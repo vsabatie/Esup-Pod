@@ -43,6 +43,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -176,6 +177,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2510,6 +2514,7 @@ msgstr ""
 #: pod/enrichment/templates/enrichment/video_enrichment.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 #: pod/video/templates/videos/video_opengraph.html
@@ -2521,6 +2526,13 @@ msgid "Added by:"
 #: pod/video/templates/videos/video_opengraph.html
 msgid "Added by"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+#: pod/live/templates/live/event-info.html
+#: pod/video/templates/videos/video-info.html
+#: pod/video/templates/videos/video_opengraph.html
+#: pod/video/templates/videos/video_page_content.html
+msgid "Added by:"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgstr ""
 
 #: pod/enrichment/templates/enrichment/video_enrichment.html
@@ -3514,10 +3526,14 @@ msgstr ""
 
 #: pod/live/templates/live/direct.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+=======
+#: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr ""
@@ -3612,6 +3628,7 @@ msgstr ""
 #: pod/video/templates/videos/video-info.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -3622,6 +3639,8 @@ msgstr ""
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Type:"
 msgstr ""
 
@@ -4984,6 +5003,9 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Search for a media on"
 msgstr ""
 
@@ -4993,6 +5015,7 @@ msgstr ""
 
 #: pod/main/templates/navbar.html
 msgid "Start media search on"
+<<<<<<< HEAD
 =======
 msgid "Promoted playlists"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
@@ -5009,6 +5032,11 @@ msgstr ""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgstr ""
+
+#: pod/main/templates/navbar.html
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Some features are unavailable"
 msgstr ""
 
@@ -5079,10 +5107,13 @@ msgid "Toggle user menu"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 msgid "Close user menu"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Add your picture"
 msgstr ""
 
@@ -5170,6 +5201,7 @@ msgid "Number of playlists:"
 msgstr ""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
@@ -5185,10 +5217,13 @@ msgstr ""
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar.html
 msgid "Open login page"
 msgstr ""
 
+<<<<<<< HEAD
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Channel list"
@@ -5222,6 +5257,8 @@ msgid "Number of playlists:"
 msgstr ""
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""

@@ -42,6 +42,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -172,6 +173,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"

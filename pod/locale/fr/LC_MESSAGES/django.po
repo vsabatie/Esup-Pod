@@ -38,6 +38,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -184,6 +185,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -2649,6 +2653,7 @@ msgstr "Enrichi"
 #: pod/enrichment/templates/enrichment/video_enrichment.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 #: pod/video/templates/videos/video_opengraph.html
@@ -2662,6 +2667,14 @@ msgstr "Ajouté par :"
 msgid "Added by"
 msgstr "Ajouté par"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+#: pod/live/templates/live/event-info.html
+#: pod/video/templates/videos/video-info.html
+#: pod/video/templates/videos/video_opengraph.html
+#: pod/video/templates/videos/video_page_content.html
+msgid "Added by:"
+msgstr "Ajouté par :"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 
 #: pod/enrichment/templates/enrichment/video_enrichment.html
 msgid "Informations"
@@ -3841,10 +3854,14 @@ msgstr "Accueil"
 
 #: pod/live/templates/live/direct.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+=======
+#: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr "Nouvelle fenêtre"
@@ -3943,6 +3960,7 @@ msgstr "Lieu :"
 #: pod/video/templates/videos/video-info.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -3953,6 +3971,8 @@ msgstr "Ajouté par :"
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Type:"
 msgstr "Type :"
 
@@ -5402,6 +5422,9 @@ msgstr "Chaînes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Search for a media on"
 msgstr "Rechercher un média sur"
 
@@ -5411,6 +5434,7 @@ msgstr "Rechercher un média"
 
 #: pod/main/templates/navbar.html
 msgid "Start media search on"
+<<<<<<< HEAD
 msgstr "Lancer la recherche d’un média sur"
 =======
 msgid "Promoted playlists"
@@ -5428,6 +5452,11 @@ msgstr "Listes de lecture promues"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgstr "Lancer la recherche d'un média sur"
+
+#: pod/main/templates/navbar.html
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 msgid "Some features are unavailable"
 msgstr "Certaines fonctionnalités sont indisponibles"
 
@@ -5496,10 +5525,13 @@ msgstr "Mode dyslexie"
 #: pod/main/templates/navbar.html
 msgid "Toggle user menu"
 msgstr "Basculer le menu utilisateur"
+<<<<<<< HEAD
 
 #: pod/main/templates/navbar.html
 msgid "Close user menu"
 msgstr "Fermer le menu utilisateur"
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 
 #: pod/main/templates/navbar.html
 msgid "Add your picture"
@@ -5603,12 +5635,16 @@ msgstr "Nombre de vidéos :"
 msgid "Number of playlists:"
 msgstr "Nombre de listes de lecture :"
 
+<<<<<<< HEAD
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar.html
 msgid "Open login page"
 msgstr "Ouvrir la page de connexion"
 
+<<<<<<< HEAD
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Channel list"
@@ -5644,6 +5680,8 @@ msgid "Number of playlists:"
 msgstr "Nombre de listes de lecture :"
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -10792,6 +10830,15 @@ msgstr "xAPI Esup-Pod"
 
 #~ msgid "No channels found"
 #~ msgstr "Aucune chaîne trouvée"
+
+#~ msgid "Added by"
+#~ msgstr "Ajouté par"
+
+#~ msgid "Toggle your action menu"
+#~ msgstr "Basculer votre menu d'actions"
+
+#~ msgid "Go to top"
+#~ msgstr "Haut de page"
 
 #~ msgid "Edit the overlay"
 #~ msgstr "Éditer la superposition"
