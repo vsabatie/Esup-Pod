@@ -66,6 +66,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -252,6 +253,8 @@ msgstr ""
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -335,6 +338,8 @@ msgstr ""
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -411,8 +416,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -3224,8 +3238,11 @@ msgstr "Enrichi"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 #: pod/video/templates/videos/video_opengraph.html
@@ -3243,6 +3260,9 @@ msgid "Added by"
 msgstr "Ajouté par"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
@@ -3250,9 +3270,13 @@ msgstr "Ajouté par"
 #: pod/video/templates/videos/video_page_content.html
 msgid "Added by:"
 msgstr "Ajouté par :"
+<<<<<<< HEAD
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 
 #: pod/enrichment/templates/enrichment/video_enrichment.html
 msgid "Informations"
@@ -4657,6 +4681,7 @@ msgstr "Accueil"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
@@ -4665,11 +4690,19 @@ msgstr "Accueil"
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+<<<<<<< HEAD
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
+=======
+=======
+#: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr "Nouvelle fenêtre"
@@ -4770,6 +4803,9 @@ msgstr "Lieu :"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -4784,10 +4820,15 @@ msgstr "Ajouté par :"
 #: pod/video/templates/videos/video-info.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Type:"
 msgstr "Type :"
 
@@ -6388,6 +6429,7 @@ msgstr "Chaînes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
@@ -6398,6 +6440,10 @@ msgstr "Chaînes"
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Search for a media on"
 msgstr "Rechercher un média sur"
 
@@ -6409,6 +6455,9 @@ msgstr "Rechercher un média"
 msgid "Start media search on"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgstr "Lancer la recherche d’un média sur"
 =======
 msgid "Promoted playlists"
@@ -6448,7 +6497,15 @@ msgstr "Lancer la recherche d’un média sur"
 =======
 =======
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgstr "Lancer la recherche d'un média sur"
+
+#: pod/main/templates/navbar.html
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Some features are unavailable"
 msgstr "Certaines fonctionnalités sont indisponibles"
 
@@ -6518,16 +6575,21 @@ msgstr "Mode dyslexie"
 msgid "Toggle user menu"
 msgstr "Basculer le menu utilisateur"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #: pod/main/templates/navbar.html
 msgid "Close user menu"
 msgstr "Fermer le menu utilisateur"
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 
 #: pod/main/templates/navbar.html
 msgid "Close user menu"
 msgstr "Fermer le menu utilisateur"
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 
 #: pod/main/templates/navbar.html
 msgid "Add your picture"
@@ -6742,8 +6804,11 @@ msgid "Number of playlists:"
 msgstr "Nombre de listes de lecture :"
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
@@ -6762,7 +6827,16 @@ msgid "Number of playlists:"
 msgstr "Nombre de listes de lecture :"
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+=======
+=======
+#: pod/main/templates/navbar.html
+msgid "Open login page"
+msgstr "Ouvrir la page de connexion"
+
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -13477,6 +13551,7 @@ msgstr "xAPI Esup-Pod"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Toggle navigation"
 #~ msgstr "Basculer le menu"
 =======
@@ -13487,6 +13562,19 @@ msgstr "xAPI Esup-Pod"
 >>>>>>> 9e3de4db ([DONE] Fix : accessibility issues (#913))
 =======
 =======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+=======
+=======
+#~ msgid "Added by"
+#~ msgstr "Ajouté par"
+
+#~ msgid "Toggle your action menu"
+#~ msgstr "Basculer votre menu d'actions"
+
+#~ msgid "Go to top"
+#~ msgstr "Haut de page"
+
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 #~ msgid "Edit the overlay"
 #~ msgstr "Éditer la superposition"
 

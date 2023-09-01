@@ -110,7 +110,7 @@
         {% endif %}
         {% if USE_PLAYLIST %}
           <li class="nav-item" id="nav-promoted-playlists">
-            <a class="nav-link" href="{% url 'playlist:list' %}?visibility=promoted"><i class="bi bi-list-stars pod-nav-link-icon" aria-hidden="true"></i> {% trans "Promoted playlists"%}</a>
+            <a class="nav-link" href="{% url 'playlist:list' %}?visibility=promoted"><i class="bi bi-list-stars pod-nav-link-icon" aria-hidden="true"></i> {% trans 'Promoted playlists' %}</a>
           </li>
         {% endif %}
         {% if "live" in THIRD_PARTY_APPS %}
@@ -158,7 +158,7 @@
         {% if HIDE_CHANNEL_TAB == False %}
           <li class="nav-item" id="nav-channels">
             <button class="nav-link" data-bs-toggle="modal" data-bs-target=".chaines-modal">
-              <i class="bi bi-play-btn pod-nav-link-icon" aria-hidden="true"></i> {% trans "Channels" %}</button>
+              <i class="bi bi-play-btn pod-nav-link-icon" aria-hidden="true"></i> {% trans 'Channels' %}</button>
           </li>
           <li>
             <span class="progress">

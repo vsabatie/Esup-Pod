@@ -72,6 +72,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -275,6 +276,8 @@ msgstr ""
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -358,6 +361,8 @@ msgstr ""
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -434,8 +439,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2960,8 +2974,11 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
 #: pod/video/templates/videos/video_opengraph.html
@@ -2980,12 +2997,16 @@ msgid "Added by"
 #: pod/video/templates/videos/video_opengraph.html
 #: pod/video/templates/videos/video_page_content.html
 msgid "Added by:"
+<<<<<<< HEAD
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 #: pod/video/templates/videos/video_opengraph.html
 msgid "Added by"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgstr ""
 
 #: pod/enrichment/templates/enrichment/video_enrichment.html
@@ -4072,6 +4093,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
@@ -4080,11 +4102,19 @@ msgstr ""
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/live/templates/live/event-script.html pod/main/templates/footer.html
 =======
 #: pod/live/templates/live/event-script.html
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
+<<<<<<< HEAD
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
+=======
+=======
+#: pod/live/templates/live/event-script.html pod/main/templates/footer.html
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/video/templates/videos/video-script.html
 msgid "New window"
 msgstr ""
@@ -4181,6 +4211,9 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
@@ -4195,10 +4228,15 @@ msgstr ""
 #: pod/video/templates/videos/video-info.html
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Type:"
 msgstr ""
 
@@ -5616,6 +5654,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
@@ -5626,6 +5665,10 @@ msgstr ""
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Search for a media on"
 msgstr ""
 
@@ -5637,8 +5680,11 @@ msgstr ""
 msgid "Start media search on"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 msgid "Promoted playlists"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
@@ -5674,7 +5720,15 @@ msgstr ""
 =======
 =======
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgstr ""
+
+#: pod/main/templates/navbar.html
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Some features are unavailable"
 msgstr ""
 
@@ -5747,17 +5801,25 @@ msgstr ""
 #: pod/main/templates/navbar.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Close user menu"
 msgstr ""
 
 #: pod/main/templates/navbar.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 msgid "Add your picture"
 msgstr ""
 
@@ -5890,6 +5952,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
@@ -5909,6 +5972,8 @@ msgstr ""
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar.html
 msgid "Open login page"
 msgstr ""
@@ -5969,6 +6034,8 @@ msgstr ""
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 =======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+=======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
@@ -5985,7 +6052,16 @@ msgid "Number of playlists:"
 msgstr ""
 
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+=======
+=======
+#: pod/main/templates/navbar.html
+msgid "Open login page"
+msgstr ""
+
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""

@@ -70,6 +70,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -267,6 +268,8 @@ msgstr ""
 >>>>>>> 6a595840 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -350,6 +353,8 @@ msgstr ""
 >>>>>>> 3a03ce32 ([DONE] Fix links for accessibility (#924))
 =======
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -426,8 +431,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-31 12:25+0000\n"
 >>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+<<<<<<< HEAD
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-01 09:54+0000\n"
+>>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+>>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
