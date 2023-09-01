@@ -13,6 +13,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -38,6 +39,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-08-30 14:09+0000\n"
 >>>>>>> fa5cf0a5 ([DONE] Fix links for accessibility (#924))
+=======
+"POT-Creation-Date: 2023-08-31 12:25+0000\n"
+>>>>>>> 00c225f5 ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
