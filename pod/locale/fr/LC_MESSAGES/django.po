@@ -15,6 +15,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -46,6 +47,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-01 09:54+0000\n"
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+=======
+"POT-Creation-Date: 2023-09-04 09:43+0000\n"
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -54,7 +58,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
-"X-Generator: Poedit 3.3\n"
+"X-Generator: Poedit 3.3.2\n"
 
 #: pod/authentication/admin.py pod/main/forms.py
 msgid "Email"
@@ -1357,8 +1361,8 @@ msgid "Please specify a track file."
 msgstr "Veuillez joindre un fichier de sous-titres."
 
 #: pod/completion/models.py pod/enrichment/models.py
-msgid "Only \".vtt\" format is allowed."
-msgstr "Seulement le format \".vtt\" est autorisé."
+msgid "Only “.vtt” format is allowed."
+msgstr "Seul le format « .vtt » est autorisé."
 
 #: pod/completion/models.py
 msgid ""
@@ -1590,7 +1594,7 @@ msgstr "menu"
 msgid "Video Caption Maker"
 msgstr "Outil de création de fichier de sous-titres/légende"
 
-#: pod/completion/templates/video_caption_maker.html pod/video/forms.py
+#: pod/completion/templates/video_caption_maker.html
 #: pod/video/templates/videos/add_video.html
 msgid "File"
 msgstr "Fichier"
@@ -1810,25 +1814,26 @@ msgstr ""
 
 #: pod/completion/templates/video_completion.html
 msgid ""
-"You can add several subtitle or caption files to a signle video (for "
+"You can add several subtitle or caption files to a single video (for "
 "example, in order to subtitle or caption this video in several languages"
 msgstr ""
-"Vous pouvez ajouter plusieurs sous-titres ou légendes pour une même vidéo "
-"(par exemple, dans le but de traduire une vidéo en plusieurs langues)"
+"Vous pouvez ajouter plusieurs fichiers de sous-titres ou de légendes pour "
+"une même vidéo (par exemple, dans le but de traduire une vidéo en plusieurs "
+"langues)"
 
 #: pod/completion/templates/video_completion.html
-msgid "Subtitles and/or caption(s) files must be in \".vtt\" format."
+msgid "Subtitle and/or caption file(s) must be in “.vtt” format."
 msgstr ""
-"Les fichiers de sous-titres et/ou de légendes doivent être au format \".vtt"
-"\"."
+"Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
+"vtt »."
 
 #: pod/completion/templates/video_completion.html
 msgid "You can use"
 msgstr "Vous pouvez utiliser"
 
 #: pod/completion/templates/video_completion.html
-msgid "to create your subtitles and/or caption(s) files."
-msgstr "pour créer les fichiers de sous-titres ou de légendes."
+msgid "to create your subtitle(s) and/or caption(s) file(s)."
+msgstr "pour créer vos fichier(s) de sous-titre(s) ou de légende(s)."
 
 #: pod/completion/templates/video_completion.html
 msgid ""
@@ -2311,8 +2316,8 @@ msgid ""
 msgstr ""
 "Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
-"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
-"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
+"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -2819,6 +2824,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -2831,6 +2837,10 @@ msgstr ""
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -2841,8 +2851,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
-"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3015,8 +3025,9 @@ msgstr "Un évenement est déjà planifié à cette date"
 msgid "Password"
 msgstr "Mot de passe"
 
-#: pod/live/forms.py pod/live/templates/live/event_edit.html
-msgid "Display advanced options"
+#: pod/live/forms.py pod/live/templates/live/event_edit.html pod/main/admin.py
+#: pod/meeting/forms.py pod/video/forms.py
+msgid "Advanced options"
 msgstr "Options avancées"
 
 #: pod/live/forms.py pod/live/models.py
@@ -3557,22 +3568,18 @@ msgstr "Partager sur"
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
 #: pod/video/templates/videos/video-info.html
-#, fuzzy
-#| msgid "Share on"
 msgid "Share on Facebook"
-msgstr "Partager sur"
+msgstr "Partager sur Facebook"
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
 #: pod/video/templates/videos/video-info.html
 msgid "Share on X (Twitter)"
-msgstr ""
+msgstr "Partager sur X (Twitter)"
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
 #: pod/video/templates/videos/video-info.html
-#, fuzzy
-#| msgid "Share the link"
 msgid "Share on LinkedIn"
-msgstr "Partager le lien"
+msgstr "Partager sur LinkedIn"
 
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
@@ -3964,10 +3971,6 @@ msgstr "Activité non trouvée"
 #: pod/lti/views.py
 msgid "The video id is not valid."
 msgstr "L’identifiant de la vidéo n’est pas valide."
-
-#: pod/main/admin.py pod/meeting/forms.py
-msgid "Advanced options"
-msgstr "Options avancées"
 
 #: pod/main/apps.py
 msgid "Main configurations"
@@ -5750,16 +5753,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente <b>"
-"%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente "
+"<b>%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -5785,8 +5788,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -5910,8 +5913,7 @@ msgid "Please choose if this playlist is an autoplay playlist or not."
 msgstr "Veuillez choisir si cette playlist est en lecture automatique ou non."
 
 #: pod/playlist/forms.py
-#, fuzzy, python-brace-format
-#| msgid "You cannot create a playlist named \"{FAVORITE_PLAYLIST_NAME}\""
+#, python-brace-format
 msgid "You cannot create a playlist named \"{FAVORITE_PLAYLIST_NAME}\""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6385,10 +6387,6 @@ msgid "No playlists found"
 msgstr "Aucune liste de lecture trouvée"
 
 #: pod/playlist/templates/playlist/playlists.html
-#, fuzzy
-#| msgid ""
-#| "You have not created any playlists yet, please use the \"Add a new "
-#| "playlist\" button to add one."
 msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -6431,7 +6429,7 @@ msgstr "Favoris"
 
 #: pod/playlist/tests/test_forms.py
 msgid "This field is required."
-msgstr "Champ de titre est requis"
+msgstr "Ce champ est requis."
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7058,8 +7056,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -7138,9 +7136,10 @@ msgid ""
 msgstr ""
 "Bonjour, <p>un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur \"%(recorder)s\".<br>Pour "
-"l’ajouter, cliquez sur le lien ci dessous.</p><a href=\"%(link_url)s\">"
-"%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
-"dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
+"l’ajouter, cliquez sur le lien ci dessous.</p><a "
+"href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
+"faut le copier-coller dans la barre d’adresse de votre navigateur.</"
+"i><p><p>Cordialement</p>"
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -7397,6 +7396,22 @@ msgid "Users can only add videos to this channel"
 msgstr "Les utilisateurs peuvent uniquement ajouter des vidéos à cette chaîne"
 
 #: pod/video/forms.py
+msgid "Source file"
+msgstr "Fichier source"
+
+#: pod/video/forms.py
+msgid "General settings"
+msgstr "Paramètres généraux"
+
+#: pod/video/forms.py
+msgid "Channel options"
+msgstr "Options de chaîne"
+
+#: pod/video/forms.py
+msgid "Restrictions"
+msgstr "Restrictions"
+
+#: pod/video/forms.py
 #, python-format
 msgid "The date must be before or equal to %(date)s."
 msgstr "La date doit être antérieure ou égale au %(date)s."
@@ -7472,8 +7487,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
-"%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
+"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -8221,8 +8236,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
-"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
+"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -8419,6 +8434,10 @@ msgid ""
 msgstr ""
 "Utilisez ces liens dans une conférence BigBlueButton ou une activité vidéo "
 "interactive H5P :"
+
+#: pod/video/templates/videos/video-info.html
+msgid "QR code"
+msgstr "QR code"
 
 #: pod/video/templates/videos/video_collaborate.html
 msgid "Collaborate"
@@ -8620,6 +8639,10 @@ msgstr "Modifier la période de visualisation"
 #: pod/video/templates/videos/videos.html
 msgid "Show view statistics for all videos"
 msgstr "Afficher les statistiques de visualisation de toutes les vidéos"
+
+#: pod/video/templates/videos/widgets/customclearablefileinput.html
+msgid ": "
+msgstr " : "
 
 #: pod/video/templatetags/video_tags.py
 #, python-format
@@ -9064,8 +9087,15 @@ msgstr "xAPI Esup-Pod"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
+=======
+#, fuzzy
+#~ msgid "Media file"
+#~ msgstr "Fichier "
+
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 #~ msgid "Added by"
 #~ msgstr "Ajouté par"
 
