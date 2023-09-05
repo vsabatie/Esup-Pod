@@ -67,6 +67,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -255,6 +256,8 @@ msgstr ""
 >>>>>>> 76710c3d ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 =======
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -340,6 +343,8 @@ msgstr ""
 >>>>>>> e7afb44e ([DONE] Fix: Accessibility for the label for form fields (11.01) (#930))
 =======
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -425,8 +430,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-01 09:54+0000\n"
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+<<<<<<< HEAD
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+<<<<<<< HEAD
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-04 09:43+0000\n"
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -470,6 +484,7 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
@@ -477,6 +492,12 @@ msgstr ""
 =======
 "X-Generator: Poedit 3.4\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+"X-Generator: Poedit 3.4\n"
+=======
+"X-Generator: Poedit 3.3.2\n"
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/authentication/admin.py pod/main/forms.py
 msgid "Email"
@@ -2601,6 +2622,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
 "vtt »."
 =======
@@ -2619,6 +2641,10 @@ msgstr ""
 "Les fichiers de sous-titres et/ou de légendes doivent être au format \".vtt"
 "\"."
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"Les fichiers de sous-titres et/ou de légendes doivent être au format « ."
+"vtt »."
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/completion/templates/video_completion.html
 msgid "You can use"
@@ -3168,6 +3194,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 8eeb87fe (ajout)
@@ -3192,7 +3219,14 @@ msgstr ""
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
 "\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
+"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -3771,6 +3805,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3870,6 +3905,8 @@ msgstr ""
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 1a6e4c6c ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -3896,6 +3933,8 @@ msgstr ""
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 8627d601 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3914,8 +3953,18 @@ msgstr ""
 >>>>>>> 5730f6d6 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -3926,6 +3975,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3948,6 +3998,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4874,6 +4928,9 @@ msgstr "Partager sur"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 msgid "Share on Facebook"
 msgstr "Partager sur Facebook"
 =======
@@ -4892,6 +4949,7 @@ msgstr "Partager sur"
 <<<<<<< HEAD
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
+<<<<<<< HEAD
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 =======
 msgid "Share on Facebook"
@@ -4900,6 +4958,11 @@ msgstr "Partager sur Facebook"
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgid "Share on Facebook"
+msgstr "Partager sur Facebook"
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
 #: pod/video/templates/videos/video-info.html
@@ -4908,8 +4971,11 @@ msgid "Share on X (Twitter)"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 msgstr "Partager sur X (Twitter)"
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
@@ -4939,15 +5005,23 @@ msgstr "Partager sur LinkedIn"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
 msgstr ""
+=======
+msgstr "Partager sur X (Twitter)"
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/live/templates/live/event-info.html pod/main/templates/aside.html
 #: pod/video/templates/videos/video-info.html
-#, fuzzy
-#| msgid "Share the link"
 msgid "Share on LinkedIn"
+<<<<<<< HEAD
 msgstr "Partager le lien"
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+msgstr "Partager sur LinkedIn"
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/live/templates/live/event-info.html
 #: pod/video/templates/videos/video-info.html
@@ -7768,16 +7842,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente <b>"
-"%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente "
+"<b>%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -7803,8 +7877,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8148,10 +8222,15 @@ msgstr "Veuillez choisir si cette playlist est en lecture automatique ou non."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 #, python-brace-format
 msgid "You cannot create a playlist named \"{FAVORITE_PLAYLIST_NAME}\""
 <<<<<<< HEAD
@@ -9688,6 +9767,7 @@ msgstr "Aucune liste de lecture trouvée"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -9699,6 +9779,8 @@ msgstr "Aucune liste de lecture trouvée"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9774,6 +9856,8 @@ msgid ""
 #| msgid ""
 #| "You have not created any playlists yet, please use the \"Add a new "
 #| "playlist\" button to add one."
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10283,7 +10367,7 @@ msgstr "Favoris"
 
 #: pod/playlist/tests/test_forms.py
 msgid "This field is required."
-msgstr "Champ de titre est requis"
+msgstr "Ce champ est requis."
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -10972,8 +11056,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11062,12 +11146,16 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 856119ca (ajout)
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 "l’ajouter, cliquez sur le lien ci dessous.</p><a "
 "href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
 "faut le copier-coller dans la barre d’adresse de votre navigateur.</"
 "i><p><p>Cordialement</p>"
+<<<<<<< HEAD
 <<<<<<< HEAD
 >>>>>>> 8eeb87fe (ajout)
 =======
@@ -11082,6 +11170,8 @@ msgstr ""
 "%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
 "dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -11429,8 +11519,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
-"%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
+"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -12330,8 +12420,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
-"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
+"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -12551,14 +12641,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 #: pod/video/templates/videos/video-info.html
 msgid "QR code"
 msgstr "QR code"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -12571,6 +12667,12 @@ msgstr "QR code"
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+>>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 #: pod/video/templates/videos/video_collaborate.html
 msgid "Collaborate"
 msgstr "Collaborer"
@@ -13552,6 +13654,7 @@ msgstr "xAPI Esup-Pod"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Toggle navigation"
 #~ msgstr "Basculer le menu"
 =======
@@ -13564,7 +13667,15 @@ msgstr "xAPI Esup-Pod"
 =======
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 =======
+>>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 =======
+=======
+=======
+#, fuzzy
+#~ msgid "Media file"
+#~ msgstr "Fichier "
+
+>>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 #~ msgid "Added by"
 #~ msgstr "Ajouté par"
 
