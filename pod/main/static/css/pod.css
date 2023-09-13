@@ -1648,7 +1648,8 @@ body[data-admin-utc-offset]
   margin-right: 2.7rem;
 }
 
-div.disabled, a.player-element.disabled {
+div.disabled,
+a.player-element.disabled {
   background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.2) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.2) 75%, transparent 75%, transparent);
   background-size: 4px 4px;
   background-repeat: repeat;

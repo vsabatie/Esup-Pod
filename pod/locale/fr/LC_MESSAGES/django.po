@@ -68,6 +68,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -258,6 +259,8 @@ msgstr ""
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> 225adb2a ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -345,6 +348,8 @@ msgstr ""
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> f45acaee ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -439,8 +444,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-04 09:43+0000\n"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+<<<<<<< HEAD
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+<<<<<<< HEAD
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-12 15:15+0000\n"
+>>>>>>> b04f50a6 ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
+>>>>>>> f45acaee ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
+>>>>>>> 225adb2a ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -1420,7 +1434,6 @@ msgstr "Le fichier doit être au format VTT."
 
 #: pod/chapter/models.py pod/completion/models.py pod/enrichment/models.py
 #: pod/playlist/templates/playlist/playlist_card.html pod/video/models.py
-#: pod/video_encode_transcript/utils.py
 msgid "video"
 msgstr "vidéo"
 
@@ -2753,10 +2766,15 @@ msgstr "Durée totale de la vidéo"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b04f50a6 ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> f45acaee ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
+>>>>>>> 225adb2a ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 msgid "Get the end time from the video player"
 msgstr "Définir le temps de fin à partir du lecteur vidéo"
 
@@ -2765,6 +2783,7 @@ msgid "Reset to previous start and end times"
 msgstr "Réinitialiser les temps de début et de fin à leurs valeurs précédentes"
 
 #: pod/cut/templates/video_cut.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -2777,6 +2796,12 @@ msgstr "Réinitialiser les temps de début et de fin à leurs valeurs précéden
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> f45acaee ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
+>>>>>>> 225adb2a ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 #: pod/playlist/templates/playlist/filter_aside.html
 #: pod/video/templates/videos/filter_aside.html
 msgid "Reset"
@@ -13655,6 +13680,7 @@ msgstr "xAPI Esup-Pod"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #~ msgid "Toggle navigation"
 #~ msgstr "Basculer le menu"
 =======
@@ -13669,8 +13695,18 @@ msgstr "xAPI Esup-Pod"
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 =======
+>>>>>>> f45acaee ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 =======
 =======
+=======
+=======
+#~ msgid "Get the video player time"
+#~ msgstr "Obtenir le temps du lecteur"
+
+#~ msgid "content"
+#~ msgstr "contenu"
+
+>>>>>>> b04f50a6 ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
 #, fuzzy
 #~ msgid "Media file"
 #~ msgstr "Fichier "
