@@ -1666,7 +1666,8 @@ div.disabled, a.player-element.disabled {
   margin-right: 2.7rem;
 }
 
-div.disabled, a.player-element.disabled {
+div.disabled,
+a.player-element.disabled {
   background-image: linear-gradient(45deg, rgba(0, 0, 0, 0.2) 25%, transparent 25%, transparent 50%, rgba(0, 0, 0, 0.2) 50%, rgba(0, 0, 0, 0.2) 75%, transparent 75%, transparent);
   background-size: 4px 4px;
   background-repeat: repeat;
@@ -1678,4 +1679,44 @@ div.disabled, a.player-element.disabled {
 
 .progress .progress-bar {
   width: 100%;
+}
+
+/*.podfile-icon-selector::file-selector-button {
+  margin-right: 20px;
+  border: none;
+  background: #084cdf;
+  padding: 10px 20px;
+  border-radius: 10px;
+  color: #fff;
+  cursor: pointer;
+  transition: background .2s ease-in-out;
+}*/
+
+.podfile-icon-selector {
+  /*display: inline-block;*/
+  width: 1.6em;
+  padding: 1.7em 1em 0 1em;
+  margin-top: .1em;
+  height: 1.6em;
+  overflow: hidden;
+  box-sizing: border-box;
+  background: url('/static/bootstrap-icons/icons/cloud-arrow-up.svg') center center no-repeat transparent;
+  border-radius: 5px;
+  background-size: 1.6em 1.6em;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link.podfile-icon-selector {
+  padding: 1.7em 1em 0 1em;
+}
+
+.bg-primary .podfile-icon-selector {
+  filter: invert(1);
+}
+
+.bg-primary .podfile-icon-selector:focus-visible {
+  box-shadow: 0 0 0 .25rem rgba(0, 0, 0, .5);
+}
+
+.podfile-icon-selector:hover {
+  opacity: .66;
 }
