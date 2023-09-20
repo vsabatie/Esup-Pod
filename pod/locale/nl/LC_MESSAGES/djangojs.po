@@ -67,6 +67,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -274,6 +275,8 @@ msgstr ""
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -361,6 +364,8 @@ msgstr ""
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -455,8 +460,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-01 13:56+0000\n"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+<<<<<<< HEAD
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+<<<<<<< HEAD
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-19 12:22+0000\n"
+>>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
+>>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
+>>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -615,6 +629,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "A caption cannot has more than 80 characters."
 msgstr ""
 
@@ -657,6 +672,8 @@ msgid "Caption / Subtitle"
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 msgid "Caption"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
@@ -1388,11 +1405,6 @@ msgid "Network response was not ok."
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
-#: pod/video/static/js/change_video_owner.js
-msgid "Loading…"
-msgstr ""
-
-#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr ""
 
@@ -1418,6 +1430,10 @@ msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Server error"
+msgstr ""
+
+#: pod/podfile/static/podfile/js/filewidget.js
+msgid "Add"
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
@@ -1554,6 +1570,7 @@ msgstr ""
 #: pod/video/static/js/ajax-display-channels.js
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 msgid "Channels"
@@ -1565,6 +1582,8 @@ msgstr ""
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
 msgid "Channel"
 msgstr ""
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
@@ -1613,6 +1632,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/video/static/js/ajax-display-channels.js
 msgid "video"
 msgstr ""
@@ -1625,6 +1645,8 @@ msgstr ""
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 #: pod/video/static/js/change_video_owner.js
 <<<<<<< HEAD
 msgid "No element found"
@@ -1762,6 +1784,8 @@ msgid "Loading…"
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+=======
+>>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 #: pod/video/static/js/ajax-display-channels.js
 msgid "video"
 msgstr ""
@@ -1801,6 +1825,14 @@ msgstr ""
 #: pod/video/static/js/change_video_owner.js
 msgid "No element found"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+=======
+#: pod/video/static/js/change_video_owner.js
+msgid "No element found"
+msgstr ""
+
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+>>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
@@ -1823,38 +1855,19 @@ msgid "Answers"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Cancel"
+msgid "Delete"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] ""
-msgstr[1] ""
+msgid "Cancel"
+msgstr ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Reply to comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Reply"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
 msgid "Remove this comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Add a public comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Send"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
@@ -1868,6 +1881,13 @@ msgstr ""
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr ""
+
+#: pod/video/static/js/comment-script.js
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] ""
+msgstr[1] ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -1889,47 +1909,38 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr ""
 
@@ -2035,18 +2046,6 @@ msgstr ""
 
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Delete the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Success!"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Error…"
 msgstr ""
 
 #: pod/video/static/js/video_category.js
