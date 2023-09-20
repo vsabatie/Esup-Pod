@@ -17,6 +17,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -54,6 +55,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-12 15:15+0000\n"
 >>>>>>> b04f50a6 ([DONE] RGAA 10.07 (Fix focus visibility) (#940))
+=======
+"POT-Creation-Date: 2023-09-19 12:22+0000\n"
+>>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -2690,8 +2694,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
-"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
 #: pod/import_video/views.py
@@ -4842,6 +4846,7 @@ msgid "Recurring options"
 msgstr ""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/meeting/forms.py
 msgid "Recurring options"
 msgstr ""
@@ -4852,8 +4857,19 @@ msgstr ""
 msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
 
+=======
+>>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
 #: pod/meeting/forms.py pod/meeting/models.py
 msgid "Start date must be less than recurring until date"
+msgstr ""
+
+#: pod/meeting/forms.py pod/meeting/templates/meeting/add_or_edit.html
+msgid ""
+"In case of weekly recurring, the day of the start date must be selected."
+msgstr ""
+
+#: pod/meeting/forms.py pod/playlist/forms.py pod/video/forms.py
+msgid "Owner of the video cannot be an additional owner too"
 msgstr ""
 
 #: pod/meeting/forms.py
@@ -4894,6 +4910,15 @@ msgstr ""
 
 #: pod/meeting/models.py
 msgid "Yearly"
+msgstr ""
+
+#: pod/meeting/models.py
+msgid "Choose repeat frequency"
+msgstr ""
+
+#: pod/meeting/models.py
+#: pod/meeting/templates/meeting/recurring_options_modal_form.html
+msgid "Frequency"
 msgstr ""
 
 #: pod/meeting/models.py
@@ -5333,10 +5358,6 @@ msgstr ""
 
 #: pod/meeting/templates/meeting/my_meetings.html
 msgid "End the meeting"
-msgstr ""
-
-#: pod/meeting/templates/meeting/recurring_options_modal_form.html
-msgid "Frequency"
 msgstr ""
 
 #: pod/meeting/templates/meeting/recurring_options_modal_form.html
@@ -6616,8 +6637,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
