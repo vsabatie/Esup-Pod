@@ -17,6 +17,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -54,8 +55,11 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-19 12:22+0000\n"
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
+=======
+"POT-Creation-Date: 2023-09-21 12:16+0000\n"
+>>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
 "PO-Revision-Date: \n"
-"Last-Translator: obado <bado@unice.fr>\n"
+"Last-Translator: AymericJak <aymeric.jakobowski@univ-lille.fr>\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -517,8 +521,8 @@ msgid "Add your picture"
 msgstr "Ajouter votre image"
 
 #: pod/main/static/js/main.js
-msgid "text copied"
-msgstr "texte copié"
+msgid "Text copied"
+msgstr "Texte copié"
 
 #: pod/main/static/js/main.js
 msgid "Errors appear in the form, please correct them"

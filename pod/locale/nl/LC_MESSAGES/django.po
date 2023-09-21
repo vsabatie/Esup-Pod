@@ -18,6 +18,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -58,6 +59,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-19 12:22+0000\n"
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
+=======
+"POT-Creation-Date: 2023-09-21 12:16+0000\n"
+>>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1222,6 +1226,7 @@ msgstr ""
 #: pod/recorder/models.py pod/video/models.py
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video_encode_transcript/models.py
 =======
@@ -1231,6 +1236,11 @@ msgstr ""
 #: pod/video/templates/videos/video_breadcrumbs.html
 #: pod/video_encode_transcript/models.py
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+#: pod/video/templates/channel/channel.html
+#: pod/video/templates/videos/video_breadcrumbs.html
+#: pod/video/templates/videos/videos.html pod/video_encode_transcript/models.py
+>>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
 msgid "Video"
 msgstr ""
 
@@ -7201,6 +7211,10 @@ msgid "Date of event"
 msgstr ""
 
 #: pod/video/models.py
+msgid "The password is / will be encrypted."
+msgstr ""
+
+#: pod/video/models.py
 msgid "Overview"
 msgstr ""
 
@@ -7354,12 +7368,17 @@ msgstr ""
 
 #: pod/video/templates/channel/channel.html
 #: pod/video/templates/videos/videos.html
-msgid "subscribe to the video feed"
+msgid "Subscribe to the video feed"
 msgstr ""
 
 #: pod/video/templates/channel/channel.html
 #: pod/video/templates/videos/videos.html
-msgid "subscribe to the audio feed"
+msgid "Subscribe to the audio feed"
+msgstr ""
+
+#: pod/video/templates/channel/channel.html
+#: pod/video/templates/videos/videos.html
+msgid "Audio"
 msgstr ""
 
 #: pod/video/templates/channel/channel.html
