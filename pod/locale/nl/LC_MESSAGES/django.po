@@ -77,6 +77,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -290,6 +291,8 @@ msgstr ""
 >>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 670e60ff ([DONE] Fix some bugs for 3.4.0 (#947))
+=======
+>>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -383,6 +386,8 @@ msgstr ""
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 8f679ad9 ([DONE] Fix some bugs for 3.4.0 (#947))
+=======
+>>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -504,8 +509,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 12:16+0000\n"
 >>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
+<<<<<<< HEAD
 >>>>>>> 8f679ad9 ([DONE] Fix some bugs for 3.4.0 (#947))
+<<<<<<< HEAD
 >>>>>>> 670e60ff ([DONE] Fix some bugs for 3.4.0 (#947))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-21 14:05+0000\n"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+>>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+>>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3568,6 +3582,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3593,6 +3608,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -6155,6 +6174,10 @@ msgstr ""
 
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+#: pod/main/templates/navbar_collapse.html
+msgid "Channel list"
+msgstr ""
+
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -9396,8 +9419,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
