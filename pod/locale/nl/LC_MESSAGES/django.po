@@ -48,6 +48,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -196,6 +197,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 12:16+0000\n"
 >>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
+=======
+"POT-Creation-Date: 2023-09-21 14:05+0000\n"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3008,8 +3012,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
-"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
 #: pod/import_video/views.py
@@ -5286,6 +5290,10 @@ msgstr ""
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+#: pod/main/templates/navbar_collapse.html
+msgid "Channel list"
+msgstr ""
+
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr ""
@@ -7735,8 +7743,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
