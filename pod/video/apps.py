@@ -85,6 +85,19 @@ def update_video_passwords(sender, **kwargs):
     print("update_video_passwords --> OK")
 
 
+def update_video_passwords(sender, **kwargs):
+    """Encrypt all video passwords."""
+    from pod.video.models import Video
+    from django.contrib.auth.hashers import make_password
+    from django.db.models import Q
+    # Filter insecure protected videos
+    videos_to_update = Video.objects.filter(
+        Q(password__isnull=False) & ~Q(password__startswith=('pbkdf2', 'sha256$')))
+    for video in videos_to_update:
+        video.password = make_password(video.password, hasher='pbkdf2_sha256')
+        video.save()
+
+
 class VideoConfig(AppConfig):
     name = "pod.video"
     default_auto_field = "django.db.models.BigAutoField"
