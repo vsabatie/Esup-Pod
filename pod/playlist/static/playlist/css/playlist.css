@@ -177,6 +177,10 @@ a.player-element:hover {
   border: var(--bs-border-width) solid var(--color-alto) !important;
 }
 
+a.player-element:not(.disabled).selected:hover {
+    background-color: #BEBEBE;
+}
+
 a.player-element.selected {
   background-color: #d1d1d1;
 }
