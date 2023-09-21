@@ -19,6 +19,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -62,8 +63,11 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 12:16+0000\n"
 >>>>>>> 1a2953ef ([DONE] Fix some bugs for 3.4.0 (#947))
+=======
+"POT-Creation-Date: 2023-09-21 14:05+0000\n"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 "PO-Revision-Date: \n"
-"Last-Translator: AymericJak <aymeric.jakobowski@univ-lille.fr>\n"
+"Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -1112,21 +1116,21 @@ msgstr "Aide"
 
 #: pod/chapter/templates/video_chapter.html
 msgid ""
-"\"Add a new chapter\" allows you to add a new chapter, \"modify\" allows you "
-"to modify it and \"delete\" allows you to remove the chapter."
+"“Add a new chapter” allows you to add a chapter to the video, “modify” "
+"allows you to edit it and “delete” allows you to remove the chapter."
 msgstr ""
-"\"Ajouter un nouveau chapitre\" permet d’ajouter un nouveau chapitre, "
-"\"modifier\" permet de le modifier et \"supprimer\" permet de supprimer ce "
+"« Ajouter un nouveau chapitre » permet d’ajouter un chapitre à la vidéo, "
+"« modifier » permet de l’éditer et « supprimer » permet de retirer ce "
 "chapitre."
 
 #: pod/chapter/templates/video_chapter.html
 msgid ""
-"Start playback of the video, pause the video and click on \"Get time from "
-"the player\" to fill in the field untitled \"Start time\"."
+"Start playback of the video, pause the video and click on “Get time from the "
+"player” to fill in the field untitled “Start time”."
 msgstr ""
-"Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
-"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
-"\"Début du chapitre\"."
+"Lancez la lecture de la vidéo, mettez sur pause et cliquez sur « Récupérer "
+"le temps depuis le lecteur » pour renseigner automatiquement le champ "
+"« Début du chapitre »."
 
 #: pod/chapter/templates/video_chapter.html
 msgid "The chapters cannot start at the same time."
@@ -2360,8 +2364,8 @@ msgid ""
 msgstr ""
 "Les champs \"Début\" et \"Fin\" doivent contenir des valeurs en secondes. "
 "Lancez la lecture de la vidéo, mettez sur pause et cliquez sur \"Récupérer "
-"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
-"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
+"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -2701,7 +2705,7 @@ msgstr ""
 
 #: pod/import_video/templates/import_video/list.html
 msgid "You need to create an external video before you can import it."
-msgstr "Vous devez créer une vidéo externe avant de pouvoir l'importer."
+msgstr "Vous devez créer une vidéo externe avant de pouvoir l’importer."
 
 #: pod/import_video/templates/import_video/list.html
 #: pod/meeting/templates/meeting/internal_recordings.html
@@ -2862,9 +2866,10 @@ msgstr "Impossible de créer l’enregistrement externe"
 #: pod/import_video/views.py pod/meeting/views.py
 #, python-format
 msgid ""
-"This video was uploaded to Pod; its origin is %(type)s : <a href=\"%(url)s\" "
+"This video was uploaded to Pod; its origin is %(type)s: <a href=\"%(url)s\" "
 "target=\"_blank\">%(url)s</a>"
 msgstr ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2890,6 +2895,10 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -2900,12 +2909,13 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a href="
-"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
+<<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est Youtube : "
@@ -2915,6 +2925,9 @@ msgstr ""
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 9930aa20 ([DONE] Fix : Accessibility for the media compatibility with the assistive tools (04.13) (#919))
+=======
+"Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 
 #: pod/import_video/views.py
 msgid "YouTube error"
@@ -2967,7 +2980,7 @@ msgid ""
 "The address entered does not appear to be a valid PeerTube address or the "
 "PeerTube server is not responding as expected."
 msgstr ""
-"L'adresse saisie ne semble pas être une adresse PeerTube valide ou le le "
+"L’adresse saisie ne semble pas être une adresse PeerTube valide ou le le "
 "serveur PeerTube ne répond pas comme prévu."
 
 #: pod/import_video/views.py
@@ -2978,7 +2991,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is PeerTube : <a "
+"This video '%(name)s' was uploaded to Pod; its origin is PeerTube: <a "
 "href='%(url)s' target='blank'>%(url)s</a>."
 msgstr ""
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
@@ -3550,7 +3563,7 @@ msgstr "L’évènement s’est terminé à :"
 
 #: pod/live/templates/live/event-iframe.html pod/live/templates/live/event.html
 msgid "The event is scheduled from:"
-msgstr "L’événement est programmé du :"
+msgstr "L’événement est programmé du :"
 
 #: pod/live/templates/live/event-iframe.html pod/live/templates/live/event.html
 msgid "to"
@@ -3652,11 +3665,11 @@ msgstr "Attention, utilise une API Google"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording not done: "
-msgstr "Impossible de commencer l'enregistrement : "
+msgstr "Impossible de commencer l’enregistrement : "
 
 #: pod/live/templates/live/event-script.html
 msgid "Error calling"
-msgstr "Erreur à l'appel de"
+msgstr "Erreur à l’appel de"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording stopped"
@@ -3664,15 +3677,15 @@ msgstr "Enregistrement arrêté"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording not stopped: "
-msgstr "Impossible d'arrêter l'enregistrement : "
+msgstr "Impossible d’arrêter l’enregistrement : "
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording split done"
-msgstr "Découpe de l'enregistrement effectué"
+msgstr "Découpe de l’enregistrement effectué"
 
 #: pod/live/templates/live/event-script.html
 msgid "Recording not split: "
-msgstr "Impossible de découper l'enregistrement : "
+msgstr "Impossible de découper l’enregistrement : "
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream started (please wait a moment)"
@@ -3680,7 +3693,7 @@ msgstr "Flux vidéo ouvert (patienter pour le rafraichissement)"
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream can not be started"
-msgstr "Impossible d'ouvrir le flux vidéo"
+msgstr "Impossible d’ouvrir le flux vidéo"
 
 #: pod/live/templates/live/event-script.html
 msgid "Video stream stopped (please wait a moment)"
@@ -3704,7 +3717,7 @@ msgstr "Mes évènements"
 
 #: pod/live/templates/live/event.html
 msgid "Report the event"
-msgstr "Signaler l'évènement"
+msgstr "Signaler l’évènement"
 
 #: pod/live/templates/live/event.html
 msgid "Start stream"
@@ -4907,7 +4920,7 @@ msgstr "Rechercher un média"
 
 #: pod/main/templates/navbar.html
 msgid "Start media search on"
-msgstr "Lancer la recherche d'un média sur"
+msgstr "Lancer la recherche d’un média sur"
 
 #: pod/main/templates/navbar.html
 msgid "Some features are unavailable"
@@ -5024,11 +5037,11 @@ msgstr "Vos statistiques"
 <<<<<<< HEAD
 <<<<<<< HEAD
 msgid "Number of videos:"
-msgstr "Nombre de vidéos :"
+msgstr "Nombre de vidéos :"
 
 #: pod/main/templates/navbar.html
 msgid "Number of playlists:"
-msgstr "Nombre de listes de lecture :"
+msgstr "Nombre de listes de lecture :"
 
 <<<<<<< HEAD
 =======
@@ -5052,6 +5065,10 @@ msgid "Open login page"
 msgstr "Ouvrir la page de connexion"
 
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+#: pod/main/templates/navbar_collapse.html
+msgid "Channel list"
+msgstr "Liste des chaînes"
+
 #: pod/main/templates/navbar_collapse.html
 msgid "Types of videos"
 msgstr "Types de vidéos"
@@ -5269,7 +5286,7 @@ msgstr "Récurrence personnalisée"
 #: pod/meeting/models.py
 msgid "Specify the recurrence of the meeting: daily, weekly, monthly or yearly"
 msgstr ""
-"Précisez la récurrence de la réunion : quotidienne, hebdomadaire, mensuelle "
+"Précisez la récurrence de la réunion : quotidienne, hebdomadaire, mensuelle "
 "ou annuelle"
 
 #: pod/meeting/models.py
@@ -5799,16 +5816,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente <b>"
-"%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente "
+"<b>%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
-"        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
+"        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -5834,8 +5851,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -5912,7 +5929,7 @@ msgstr "Veuillez choisir une description. Celle-ci est vide par défaut."
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 msgid "Right of access"
-msgstr "Droit d'accès"
+msgstr "Droit d’accès"
 
 #: pod/playlist/forms.py pod/playlist/models.py
 msgid ""
@@ -5922,7 +5939,7 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"            Veuillez choisir un droit d'accès entre 'public', 'protégée par "
+"            Veuillez choisir un droit d’accès entre 'public', 'protégée par "
 "un mot de passe', 'privée'.\n"
 "            "
 
@@ -6217,12 +6234,16 @@ msgstr "à"
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 msgid "Right of access:"
-msgstr "Droit d'accès :"
+msgstr "Droit d’accès :"
 
 #: pod/playlist/templates/playlist/playlist-informations-card.html
 msgid "Playlist owner:"
+<<<<<<< HEAD
 msgstr "Propriétaire de la liste de lecture :"
 <<<<<<< HEAD
+=======
+msgstr "Propriétaire de la liste de lecture :"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 
 #: pod/playlist/templates/playlist/playlist-informations-card.html
 msgid "Access to playlist owner profile"
@@ -6360,7 +6381,7 @@ msgstr "Supprimer la liste de lecture"
 
 #: pod/playlist/templates/playlist/playlist_player.html
 msgid "Playlist:"
-msgstr "Liste de lecture :"
+msgstr "Liste de lecture :"
 
 #: pod/playlist/templates/playlist/playlist_player.html
 msgid "View the playlist"
@@ -6606,7 +6627,7 @@ msgstr "JSON au mauvais format"
 
 #: pod/playlist/views.py
 msgid "This video isn't present in this playlist."
-msgstr "Cette vidéo n'est pas présente dans cette playlist."
+msgstr "Cette vidéo n’est pas présente dans cette playlist."
 
 #: pod/podfile/apps.py
 msgid "Pod files"
@@ -6711,7 +6732,7 @@ msgstr "Partager avec quelqu’un"
 
 #: pod/podfile/templates/podfile/home_content.html
 msgid "Already shared with:"
-msgstr "Déjà partagé avec :"
+msgstr "Déjà partagé avec :"
 
 #: pod/podfile/templates/podfile/home_content.html
 msgid "Username"
@@ -7041,7 +7062,7 @@ msgstr "Taille du fichier"
 #: pod/recorder/models.py pod/video/models.py
 #: pod/video/templates/videos/video_sort_select.html
 msgid "Date added"
-msgstr "Date d'ajout"
+msgstr "Date d’ajout"
 
 #: pod/recorder/models.py
 msgid "Require manual claim?"
@@ -7102,8 +7123,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -7182,9 +7203,10 @@ msgid ""
 msgstr ""
 "Bonjour, <p>un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur \"%(recorder)s\".<br>Pour "
-"l’ajouter, cliquez sur le lien ci dessous.</p><a href=\"%(link_url)s\">"
-"%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
-"dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
+"l’ajouter, cliquez sur le lien ci dessous.</p><a "
+"href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
+"faut le copier-coller dans la barre d’adresse de votre navigateur.</"
+"i><p><p>Cordialement</p>"
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -7532,8 +7554,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
-"%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
+"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -8290,8 +8312,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
-"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
+"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -8351,7 +8373,7 @@ msgstr "Afficher les details des statistiques de visualisation"
 
 #: pod/video/templates/videos/video-info.html
 msgid "Addition in a playlist"
-msgstr "Nombre d'ajouts dans une liste de lecture"
+msgstr "Nombre d’ajouts dans une liste de lecture"
 
 #: pod/video/templates/videos/video-info.html
 msgid "Number of favorites"
@@ -8895,12 +8917,12 @@ msgstr "Statistiques de visualisation des vidéos du thème %s"
 #: pod/video/views.py
 #, python-format
 msgid "You do not have access rights to this video: %s "
-msgstr "Vous n’avez pas les droits d’accès à cette vidéo : %s "
+msgstr "Vous n’avez pas les droits d’accès à cette vidéo : %s "
 
 #: pod/video/views.py
 #, python-format
 msgid "The following video does not exist: %s"
-msgstr "La video suivante n’existe pas : %s"
+msgstr "La video suivante n’existe pas : %s"
 
 #: pod/video/views.py
 msgid "Media upload"
@@ -9105,6 +9127,7 @@ msgstr "Vous la/le retrouverez ici :"
 msgid "the:"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "le :"
 =======
 msgstr "le:"
@@ -9112,6 +9135,9 @@ msgstr "le:"
 =======
 msgstr "le :"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+msgstr "le :"
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 
 #: pod/video_search/apps.py
 msgid "Video search"
@@ -9140,6 +9166,7 @@ msgstr "Résultats de la recherche"
 #: pod/xapi/apps.py
 msgid "Esup-Pod xAPI"
 msgstr "xAPI Esup-Pod"
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -9227,3 +9254,5 @@ msgstr "xAPI Esup-Pod"
 
 #~ msgid "published"
 #~ msgstr "publié"
+=======
+>>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
