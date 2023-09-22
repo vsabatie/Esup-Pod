@@ -96,6 +96,7 @@ def update_video_passwords(sender, **kwargs):
     for video in videos_to_update:
         video.password = make_password(video.password, hasher='pbkdf2_sha256')
         video.save()
+    print("update_video_passwords --> OK")
 
 
 class VideoConfig(AppConfig):
