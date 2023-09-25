@@ -78,6 +78,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -293,6 +294,8 @@ msgstr ""
 >>>>>>> 670e60ff ([DONE] Fix some bugs for 3.4.0 (#947))
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -388,6 +391,8 @@ msgstr ""
 >>>>>>> 8f679ad9 ([DONE] Fix some bugs for 3.4.0 (#947))
 =======
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -518,8 +523,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 14:05+0000\n"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-22 16:41+0200\n"
+>>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3467,6 +3481,7 @@ msgstr ""
 #: pod/import_video/utils.py
 msgid "Impossible to create the Pod video"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/import_video/utils.py
@@ -3503,6 +3518,8 @@ msgstr ""
 msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
 =======
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 
 #: pod/import_video/utils.py
@@ -3516,6 +3533,8 @@ msgstr ""
 #: pod/import_video/utils.py
 #, python-format
 msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
+=======
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 
 #: pod/import_video/utils.py
@@ -3583,6 +3602,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3612,6 +3632,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -9419,8 +9443,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
@@ -11487,6 +11511,7 @@ msgstr ""
 #: pod/video_encode_transcript/utils.py
 msgid "the:"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/video_encode_transcript/utils.py
@@ -11497,6 +11522,8 @@ msgstr ""
 msgid "Transcripting"
 =======
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 
 #: pod/video_encode_transcript/utils.py
@@ -11505,6 +11532,8 @@ msgstr ""
 
 #: pod/video_encode_transcript/utils.py
 msgid "Transcripting"
+=======
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 
 #: pod/video_search/apps.py

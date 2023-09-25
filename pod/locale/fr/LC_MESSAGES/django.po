@@ -72,6 +72,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -270,6 +271,8 @@ msgstr ""
 >>>>>>> 670e60ff ([DONE] Fix some bugs for 3.4.0 (#947))
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -365,6 +368,8 @@ msgstr ""
 >>>>>>> 8f679ad9 ([DONE] Fix some bugs for 3.4.0 (#947))
 =======
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -518,6 +523,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 14:05+0000\n"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+"POT-Creation-Date: 2023-09-22 16:41+0200\n"
+>>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -3270,6 +3278,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 8eeb87fe (ajout)
@@ -3315,7 +3324,14 @@ msgstr ""
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
+"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -3789,6 +3805,7 @@ msgstr ""
 msgid "Error number: %s"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Numéro d’erreur : %s"
 =======
 msgstr "Numéro d'erreur : %s"
@@ -3796,6 +3813,12 @@ msgstr "Numéro d'erreur : %s"
 =======
 msgstr "Numéro d’erreur : %s"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+msgstr "Numéro d’erreur : %s"
+=======
+msgstr "Numéro d'erreur : %s"
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 
 #: pod/import_video/utils.py
 msgid "The video file for this recording was not found in the HTML file."
@@ -3865,6 +3888,7 @@ msgid ""
 "This video was uploaded to Pod; its origin is %(type)s: <a href=\"%(url)s\" "
 "target=\"_blank\">%(url)s</a>"
 msgstr ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4002,6 +4026,8 @@ msgstr ""
 >>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4034,6 +4060,8 @@ msgstr ""
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4082,8 +4110,18 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -4094,6 +4132,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4131,6 +4170,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -7688,6 +7731,7 @@ msgstr "Impossible d’obtenir les enregistrements de la réunion !"
 msgid "Unable to get recording!"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Impossible d’obtenir l’enregistrement !"
 =======
 msgstr "Impossible d'obtenir l'enregistrement !"
@@ -7695,6 +7739,12 @@ msgstr "Impossible d'obtenir l'enregistrement !"
 =======
 msgstr "Impossible d’obtenir l’enregistrement !"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+msgstr "Impossible d’obtenir l’enregistrement !"
+=======
+msgstr "Impossible d'obtenir l'enregistrement !"
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 
 #: pod/meeting/models.py
 msgid "Unable to delete recording!"
@@ -7771,6 +7821,7 @@ msgid ""
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 =======
 "Lorsqu'un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
@@ -7778,6 +7829,12 @@ msgstr ""
 =======
 "Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
+=======
+"Lorsqu'un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "courriel pour vous en informer."
 
 #: pod/meeting/templates/meeting/internal_recordings.html
@@ -7963,6 +8020,7 @@ msgid "A new Big Blue Button recording for '%(name)s' meeting is available"
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
 =======
 "Un nouvel enregistrement de la réunion Big Blue Button '%(name)s' est "
@@ -7970,6 +8028,12 @@ msgstr ""
 =======
 "Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
+=======
+"Un nouvel enregistrement de la réunion Big Blue Button '%(name)s' est "
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+>>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "disponible"
 
 #: pod/meeting/utils.py
@@ -8064,16 +8128,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente "
-"<b>%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente <b>"
+"%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8099,8 +8163,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -11323,8 +11387,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11416,6 +11480,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 856119ca (ajout)
 =======
@@ -11451,6 +11516,11 @@ msgstr ""
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+"l’ajouter, cliquez sur le lien ci dessous.</p><a href=\"%(link_url)s\">"
+"%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
+"dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
+>>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -11798,8 +11868,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
-"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
+"%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -12703,8 +12773,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
-"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
+"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
