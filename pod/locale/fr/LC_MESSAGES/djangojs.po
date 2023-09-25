@@ -47,6 +47,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -192,6 +193,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-21 14:05+0000\n"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+"POT-Creation-Date: 2023-09-22 16:41+0200\n"
+>>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
