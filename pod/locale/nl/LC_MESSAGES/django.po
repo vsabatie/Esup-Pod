@@ -21,6 +21,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -70,6 +71,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-22 16:41+0200\n"
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+"POT-Creation-Date: 2023-09-27 12:16+0000\n"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -163,6 +167,14 @@ msgstr ""
 
 #: pod/authentication/models.py
 msgid "Picture"
+msgstr ""
+
+#: pod/authentication/models.py
+msgid "Accept notifications"
+msgstr ""
+
+#: pod/authentication/models.py
+msgid "Receive push notifications on your devices."
 msgstr ""
 
 #: pod/authentication/models.py pod/live/models.py pod/meeting/models.py
@@ -847,6 +859,7 @@ msgstr ""
 
 #: pod/chapter/models.py pod/completion/models.py pod/enrichment/models.py
 #: pod/playlist/templates/playlist/playlist_card.html pod/video/models.py
+#: pod/video_encode_transcript/utils.py
 msgid "video"
 msgstr ""
 
@@ -2713,8 +2726,8 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
-"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
-"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 msgstr ""
 
 #: pod/import_video/views.py
@@ -4732,6 +4745,14 @@ msgstr ""
 msgid "Claim a record"
 msgstr ""
 
+#: pod/main/templates/navbar.html pod/progressive_web_app/templates/debug.html
+msgid "Notifications settings"
+msgstr ""
+
+#: pod/main/templates/navbar.html
+msgid "Install"
+msgstr ""
+
 #: pod/main/templates/navbar.html
 msgid "Log out"
 msgstr "Uitloggen"
@@ -6431,6 +6452,20 @@ msgstr ""
 msgid "You cannot edit this file."
 msgstr ""
 
+#: pod/progressive_web_app/templates/notification_toast.html
+msgid "Get application notifications"
+msgstr ""
+
+#: pod/progressive_web_app/templates/notification_toast.html
+msgid ""
+"Get notified for specific events (when one of your video encoding is "
+"completed)."
+msgstr ""
+
+#: pod/progressive_web_app/templates/notification_toast.html
+msgid "Allow"
+msgstr ""
+
 #: pod/recorder/admin.py
 msgid "Delete selected Recording file treatments + source files"
 msgstr ""
@@ -6692,8 +6727,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
@@ -6776,6 +6811,14 @@ msgstr ""
 
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
+msgstr ""
+
+#: pod/settings.py
+msgid ""
+"Pod is aimed at users of our institutions, by allowing the publication of "
+"videos in the fields of research (promotion of platforms, etc.), training "
+"(tutorials, distance training, student reports, etc.), institutional life "
+"(video of events), offering several days of content."
 msgstr ""
 
 #: pod/urls.py
@@ -7253,10 +7296,6 @@ msgstr ""
 
 #: pod/video/models.py pod/video/templates/videos/video_sort_select.html
 msgid "Date of event"
-msgstr ""
-
-#: pod/video/models.py
-msgid "The password is / will be encrypted."
 msgstr ""
 
 #: pod/video/models.py
@@ -8544,6 +8583,18 @@ msgstr ""
 
 #: pod/video_encode_transcript/utils.py
 msgid "the:"
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "content"
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "Transcripting"
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "automatically transcript"
 msgstr ""
 
 #: pod/video_search/apps.py
