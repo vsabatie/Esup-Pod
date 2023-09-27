@@ -72,6 +72,9 @@ INSTALLED_APPS = [
     "pod.progressive_web_app",
     "pod.dressing",
     "pod.custom",
+    "pwa",
+    "pod.progressive_web_app",
+    "webpush",
 ]
 
 ##

@@ -48,6 +48,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -196,6 +197,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-22 16:41+0200\n"
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+"POT-Creation-Date: 2023-09-27 12:16+0000\n"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1009,16 +1013,26 @@ msgstr "Ce dossier est vide"
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid "An error happened during notification subscription"
 msgstr "Une erreur s’est produite lors de l’abonnement aux notifications"
+=======
+#: pod/progressive_web_app/static/js/notification-toast.js
+msgid "An error happened during notification subscription"
+msgstr "Erreur durant la désinscription..."
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid ""
 "Don't forget to allow notifications from this website in your browser's "
 "settings!"
 msgstr ""
+<<<<<<< HEAD
 "N’oubliez pas d’autoriser les notifications provenant de ce site web dans "
+=======
+"N'oubliez pas d'autoriser les notifications provenant de ce site web dans "
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "votre navigateur !"
 
 #: pod/progressive_web_app/static/js/notification-toast.js
@@ -1040,7 +1054,11 @@ msgstr "Les notifications sont actuellement désactivées."
 
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid "Notifications are currently enabled."
+<<<<<<< HEAD
 msgstr "Les notifications sont actuellement activées."
+=======
+msgstr "Les notifications sont actuellement activées"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid "Disable notifications"
@@ -1058,6 +1076,7 @@ msgstr "Souscription aux notifications réussie."
 msgid "Error while subscribing to push notifications."
 msgstr "Une erreur est survenue lors de la souscription aux notifications."
 
+<<<<<<< HEAD
 #: pod/video/static/js/ajax-display-channels.js
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1101,6 +1120,8 @@ msgstr "Chaînes"
 
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 #: pod/video/static/js/ajax-display-channels.js
 msgid "%(count)s channel"
 msgid_plural "%(count)s channels"
@@ -1511,7 +1532,11 @@ msgstr "Sélectionnez le type général de vidéo."
 
 #: pod/video/static/js/video_edit.js
 msgid "Get notified when the video encoding is finished."
+<<<<<<< HEAD
 msgstr "Recevez une notification lorsque l’encodage de la vidéo est terminé."
+=======
+msgstr "Recevez une notification lorsque l'encodage de la vidéo est terminé."
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/video/static/js/video_stats_view.js
 msgid "Title"
@@ -1570,6 +1595,9 @@ msgid "Slug"
 msgstr "Titre court"
 <<<<<<< HEAD
 =======
+
+#~ msgid "Error"
+#~ msgstr "Erreur"
 
 #~ msgid "video"
 #~ msgid_plural "videos"
