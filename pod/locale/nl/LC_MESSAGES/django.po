@@ -79,6 +79,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -296,6 +297,8 @@ msgstr ""
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -393,6 +396,8 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -532,8 +537,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-22 16:41+0200\n"
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-27 12:16+0000\n"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1407,6 +1421,7 @@ msgstr ""
 
 #: pod/chapter/models.py pod/completion/models.py pod/enrichment/models.py
 #: pod/playlist/templates/playlist/playlist_card.html pod/video/models.py
+#: pod/video_encode_transcript/utils.py
 msgid "video"
 msgstr ""
 
@@ -3603,6 +3618,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3636,6 +3652,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -9162,17 +9182,25 @@ msgstr ""
 #: pod/progressive_web_app/templates/notification_toast.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 msgid "Close notification panel"
 msgstr ""
 
 #: pod/progressive_web_app/templates/notification_toast.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+=======
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 msgid ""
 "Get notified for specific events (when one of your video encoding is "
 "completed)."
@@ -9443,8 +9471,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
@@ -9527,6 +9555,14 @@ msgstr ""
 
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
+msgstr ""
+
+#: pod/settings.py
+msgid ""
+"Pod is aimed at users of our institutions, by allowing the publication of "
+"videos in the fields of research (promotion of platforms, etc.), training "
+"(tutorials, distance training, student reports, etc.), institutional life "
+"(video of events), offering several days of content."
 msgstr ""
 
 #: pod/urls.py
@@ -10027,10 +10063,6 @@ msgstr ""
 
 #: pod/video/models.py pod/video/templates/videos/video_sort_select.html
 msgid "Date of event"
-msgstr ""
-
-#: pod/video/models.py
-msgid "The password is / will be encrypted."
 msgstr ""
 
 #: pod/video/models.py
@@ -11534,6 +11566,18 @@ msgstr ""
 msgid "Transcripting"
 =======
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "content"
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "Transcripting"
+msgstr ""
+
+#: pod/video_encode_transcript/utils.py
+msgid "automatically transcript"
 msgstr ""
 
 #: pod/video_search/apps.py

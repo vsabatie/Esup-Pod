@@ -73,6 +73,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -273,6 +274,8 @@ msgstr ""
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -370,6 +373,8 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -526,6 +531,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-22 16:41+0200\n"
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+"POT-Creation-Date: 2023-09-27 12:16+0000\n"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -646,6 +654,7 @@ msgstr "Accepter les notifications"
 msgid "Receive push notifications on your devices."
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Recevez des notifications push sur vos appareils."
 =======
 msgstr "Recevez des notifications push sur vos appareils"
@@ -653,6 +662,12 @@ msgstr "Recevez des notifications push sur vos appareils"
 =======
 msgstr "Recevez des notifications push sur vos appareils."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+msgstr "Recevez des notifications push sur vos appareils."
+=======
+msgstr "Recevez des notifications push sur vos appareils"
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/authentication/models.py pod/live/models.py pod/meeting/models.py
 #: pod/podfile/models.py pod/video/admin.py pod/video/models.py
@@ -1474,6 +1489,7 @@ msgstr "Le fichier doit être au format VTT."
 
 #: pod/chapter/models.py pod/completion/models.py pod/enrichment/models.py
 #: pod/playlist/templates/playlist/playlist_card.html pod/video/models.py
+#: pod/video_encode_transcript/utils.py
 msgid "video"
 msgstr "vidéo"
 
@@ -3279,6 +3295,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 8eeb87fe (ajout)
@@ -3331,7 +3348,14 @@ msgstr ""
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
 "\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ "
+"\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -3921,6 +3945,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4028,6 +4053,8 @@ msgstr ""
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4062,6 +4089,8 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4120,8 +4149,18 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 21497cba ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -4132,6 +4171,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4174,6 +4214,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8128,16 +8172,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente <b>"
-"%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente "
+"<b>%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8163,8 +8207,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
-"%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : "
+"<b>%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -11041,11 +11085,15 @@ msgstr "Vous ne pouvez pas éditer ce fichier."
 msgid "Get application notifications"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 msgstr "Recevez les notifications de l’application"
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid "Close notification panel"
 msgstr "Fermer le panneau de notification"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 msgstr "Recevez les notifications de l'application"
@@ -11055,6 +11103,11 @@ msgstr "Recevez les notifications de l’application"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+=======
+=======
+msgstr "Recevez les notifications de l'application"
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid ""
@@ -11064,6 +11117,7 @@ msgstr ""
 "Recevez des notifications pour des événements spécifiques (lorsque "
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "l’encodage d’une de vos vidéos est terminé)."
 =======
 "l'encodage d'une de vos vidéos est terminé)"
@@ -11071,6 +11125,12 @@ msgstr ""
 =======
 "l’encodage d’une de vos vidéos est terminé)."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"l’encodage d’une de vos vidéos est terminé)."
+=======
+"l'encodage d'une de vos vidéos est terminé)"
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid "Allow"
@@ -11387,8 +11447,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11481,16 +11541,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 856119ca (ajout)
 =======
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 "l’ajouter, cliquez sur le lien ci dessous.</p><a "
 "href=\"%(link_url)s\">%(link_url)s</a><br><i>Si le lien n’est pas actif, il "
 "faut le copier-coller dans la barre d’adresse de votre navigateur.</"
 "i><p><p>Cordialement</p>"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11521,6 +11585,8 @@ msgstr ""
 "%(link_url)s</a><br><i>Si le lien n’est pas actif, il faut le copier-coller "
 "dans la barre d’adresse de votre navigateur.</i><p><p>Cordialement</p>"
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -11533,6 +11599,17 @@ msgstr "L’enregistrement a été supprimé."
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
 msgstr "Enregistreur studio non trouvé."
+
+#: pod/settings.py
+msgid ""
+"Pod is aimed at users of our institutions, by allowing the publication of "
+"videos in the fields of research (promotion of platforms, etc.), training "
+"(tutorials, distance training, student reports, etc.), institutional life "
+"(video of events), offering several days of content."
+msgstr ""
+"Pod a pour but de faciliter la mise à disposition de vidéo et de ce "
+"fait, d’encourager l’utilisation de celles-ci dans le cadre de "
+"l’enseignement et la recherche."
 
 #: pod/urls.py
 msgid "Pod Administration"
@@ -11868,8 +11945,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
-"%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
+"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -12077,10 +12154,6 @@ msgstr ""
 #: pod/video/models.py pod/video/templates/videos/video_sort_select.html
 msgid "Date of event"
 msgstr "Date de l’évènement"
-
-#: pod/video/models.py
-msgid "The password is / will be encrypted."
-msgstr "Le mot de passe est / sera encrypté."
 
 #: pod/video/models.py
 msgid "Overview"
@@ -12773,8 +12846,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
-"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
+"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
@@ -13837,6 +13910,7 @@ msgstr "le :"
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 
 #: pod/video_encode_transcript/utils.py
+<<<<<<< HEAD
 msgid "content"
 msgstr "contenu"
 
@@ -13844,6 +13918,25 @@ msgstr "contenu"
 msgid "Transcripting"
 msgstr "Transcrire"
 
+=======
+#, fuzzy
+#| msgid "Content"
+msgid "content"
+msgstr "Contenu"
+
+#: pod/video_encode_transcript/utils.py
+#, fuzzy
+#| msgid "Transcript"
+msgid "Transcripting"
+msgstr "Transcrire"
+
+#: pod/video_encode_transcript/utils.py
+#, fuzzy
+#| msgid "automatically transcripted"
+msgid "automatically transcript"
+msgstr "automatiquement transcrit"
+
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 #: pod/video_search/apps.py
 msgid "Video search"
 msgstr "Recherche de vidéo"
@@ -13871,6 +13964,7 @@ msgstr "Résultats de la recherche"
 #: pod/xapi/apps.py
 msgid "Esup-Pod xAPI"
 msgstr "xAPI Esup-Pod"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14018,6 +14112,8 @@ msgstr "xAPI Esup-Pod"
 =======
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -14185,5 +14281,19 @@ msgstr "xAPI Esup-Pod"
 #~ msgstr "publié"
 =======
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+=======
+
+#~ msgid "Deny on all devices"
+#~ msgstr "Refuser sur tous les appareils"
+
+#~ msgid "The password is / will be encrypted."
+#~ msgstr "Le mot de passe est / sera encrypté."
+>>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+>>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
