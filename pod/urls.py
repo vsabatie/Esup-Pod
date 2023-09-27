@@ -101,7 +101,9 @@ if USE_OIDC:
 
 # PWA
 urlpatterns += [
-    path("pwa/", include("pod.progressive_web_app.urls", namespace="progressive_web_app")),
+    path(
+        "pwa/", include("pod.progressive_web_app.urls", namespace="progressive_web_app")
+    ),
 ]
 
 # BBB: TODO REPLACE BBB BY MEETING
