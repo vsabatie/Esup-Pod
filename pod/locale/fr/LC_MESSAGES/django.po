@@ -74,6 +74,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -276,6 +277,8 @@ msgstr ""
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -375,6 +378,8 @@ msgstr ""
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -534,6 +539,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 12:16+0000\n"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"POT-Creation-Date: 2023-09-28 09:06+0000\n"
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -655,6 +663,7 @@ msgid "Receive push notifications on your devices."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Recevez des notifications push sur vos appareils."
 =======
 msgstr "Recevez des notifications push sur vos appareils"
@@ -663,11 +672,19 @@ msgstr "Recevez des notifications push sur vos appareils"
 msgstr "Recevez des notifications push sur vos appareils."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Recevez des notifications push sur vos appareils."
 =======
 msgstr "Recevez des notifications push sur vos appareils"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+msgstr "Recevez des notifications push sur vos appareils."
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/authentication/models.py pod/live/models.py pod/meeting/models.py
 #: pod/podfile/models.py pod/video/admin.py pod/video/models.py
@@ -3830,6 +3847,7 @@ msgid "Error number: %s"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Numéro d’erreur : %s"
 =======
 msgstr "Numéro d'erreur : %s"
@@ -3838,11 +3856,19 @@ msgstr "Numéro d'erreur : %s"
 msgstr "Numéro d’erreur : %s"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Numéro d’erreur : %s"
 =======
 msgstr "Numéro d'erreur : %s"
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+msgstr "Numéro d’erreur : %s"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/import_video/utils.py
 msgid "The video file for this recording was not found in the HTML file."
@@ -5676,15 +5702,21 @@ msgstr "Types"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Fold/Unfold “Types” filters"
 msgstr "Plier/déplier les filtres par « Types »"
 
 #: pod/live/templates/live/filter_aside.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -5697,6 +5729,12 @@ msgstr "Plier/déplier les filtres par « Types »"
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/change_video_owner.html
 #: pod/video/templates/videos/filter_aside.html
 #: pod/video_search/templates/search/search.html
@@ -6742,6 +6780,7 @@ msgstr "Menu principal"
 msgid "Close main menu"
 msgstr "Ferme le menu principal"
 <<<<<<< HEAD
+<<<<<<< HEAD
 
 #: pod/main/templates/navbar.html
 msgid "Promoted playlists"
@@ -6752,10 +6791,14 @@ msgid "Promoted playlists"
 msgstr "Listes de lecture promues"
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/main/templates/navbar.html
 msgid "Promoted playlists"
 msgstr "Listes de lecture promues"
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/main/templates/navbar.html
 msgid "Promoted playlists"
@@ -6943,6 +6986,10 @@ msgid "Close user menu"
 msgstr "Fermer le menu utilisateur"
 =======
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+
+#: pod/main/templates/navbar.html
+msgid "Close user menu"
+msgstr "Fermer le menu utilisateur"
 
 #: pod/main/templates/navbar.html
 msgid "Add your picture"
@@ -7776,6 +7823,7 @@ msgid "Unable to get recording!"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Impossible d’obtenir l’enregistrement !"
 =======
 msgstr "Impossible d'obtenir l'enregistrement !"
@@ -7784,11 +7832,19 @@ msgstr "Impossible d'obtenir l'enregistrement !"
 msgstr "Impossible d’obtenir l’enregistrement !"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Impossible d’obtenir l’enregistrement !"
 =======
 msgstr "Impossible d'obtenir l'enregistrement !"
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+msgstr "Impossible d’obtenir l’enregistrement !"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/meeting/models.py
 msgid "Unable to delete recording!"
@@ -7866,6 +7922,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 =======
 "Lorsqu'un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
@@ -7874,11 +7931,19 @@ msgstr ""
 "Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 =======
 "Lorsqu'un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+"Lorsqu’un nouvel enregistrement est disponible à ce niveau, vous recevrez un "
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "courriel pour vous en informer."
 
 #: pod/meeting/templates/meeting/internal_recordings.html
@@ -8065,6 +8130,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
 =======
 "Un nouvel enregistrement de la réunion Big Blue Button '%(name)s' est "
@@ -8073,11 +8139,19 @@ msgstr ""
 "Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
 =======
 "Un nouvel enregistrement de la réunion Big Blue Button '%(name)s' est "
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+<<<<<<< HEAD
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
+=======
+=======
+"Un nouvel enregistrement de la réunion Big Blue Button « %(name)s » est "
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "disponible"
 
 #: pod/meeting/utils.py
@@ -8495,10 +8569,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "            Veuillez choisir un droit d’accès entre « public », « protégée "
 "par un mot de passe », « privée ».\n"
 =======
@@ -8516,6 +8593,7 @@ msgstr ""
 "un mot de passe', 'privée'.\n"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
+<<<<<<< HEAD
 "            Veuillez choisir un droit d'accès entre 'public', 'protégée par "
 "un mot de passe', 'privée'.\n"
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
@@ -8527,6 +8605,11 @@ msgstr ""
 "un mot de passe', 'privée'.\n"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+"            Veuillez choisir un droit d’accès entre « public », « protégée "
+"par un mot de passe », « privée ».\n"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "            "
 
 #: pod/playlist/forms.py pod/playlist/models.py
@@ -9188,10 +9271,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Reset the filters"
 msgstr "Retirer les filtres"
@@ -9211,6 +9297,11 @@ msgstr ""
 msgid "Reset the filter"
 msgstr "Retirer ce filtre"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+#: pod/video/templates/videos/filter_aside.html
+msgid "Reset the filters"
+msgstr "Retirer les filtres"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/playlist/templates/playlist/filter_aside.html
 <<<<<<< HEAD
@@ -9866,6 +9957,16 @@ msgstr "Image de la playlist"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Edit the playlist “%(playlist.name)s”"
+msgstr "Modifier la liste de lecture « %(playlist.name)s »"
+
+#: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Remove the playlist “%(playlist.name)s”"
+msgstr "Supprimer la liste de lecture « %(playlist.name)s »"
+
+#: pod/playlist/templates/playlist/playlist_link.html
 msgid "Remove the playlist"
 msgstr "Supprimer la liste de lecture"
 
@@ -10270,14 +10371,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/playlist/templates/playlist/playlists.html
 msgid "Add a new playlist"
 msgstr "Ajouter une nouvelle liste de lecture"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 #: pod/playlist/templates/playlist/protected-playlist-form.html
 msgid "Protected playlist form"
@@ -10527,6 +10634,8 @@ msgstr "Cette vidéo n’est pas présente dans cette playlist."
 =======
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/playlist/templates/playlist/protected-playlist-form.html
 msgid "Protected playlist form"
 msgstr "Formulaire de liste de lecture protégée"
@@ -10713,6 +10822,8 @@ msgstr "JSON au mauvais format"
 msgid "This video isn't present in this playlist."
 msgstr "Cette vidéo n’est pas présente dans cette playlist."
 =======
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/playlist/templates/playlist/protected-playlist-form.html
 msgid "Protected playlist form"
 msgstr "Formulaire de liste de lecture protégée"
@@ -11086,8 +11197,11 @@ msgid "Get application notifications"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Recevez les notifications de l’application"
 
 #: pod/progressive_web_app/templates/notification_toast.html
@@ -11107,7 +11221,13 @@ msgstr "Recevez les notifications de l’application"
 =======
 msgstr "Recevez les notifications de l'application"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+msgstr "Recevez les notifications de l’application"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid ""
@@ -11115,6 +11235,7 @@ msgid ""
 "completed)."
 msgstr ""
 "Recevez des notifications pour des événements spécifiques (lorsque "
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -11126,11 +11247,19 @@ msgstr ""
 "l’encodage d’une de vos vidéos est terminé)."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "l’encodage d’une de vos vidéos est terminé)."
 =======
 "l'encodage d'une de vos vidéos est terminé)"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+"l’encodage d’une de vos vidéos est terminé)."
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid "Allow"
@@ -11526,6 +11655,7 @@ msgid ""
 "just copy-paste it in your browser.</em></p><p>Regards.</p>"
 msgstr ""
 <<<<<<< HEAD
+<<<<<<< HEAD
 "<p>Bonjour,<br> un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur « %(recorder)s ».<br>Pour "
 "l’ajouter, cliquez sur le lien ci-dessous.</p><p><a href=\"%(link_url)s\">"
@@ -11587,6 +11717,14 @@ msgstr ""
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"<p>Bonjour,<br> un nouvel enregistrement a été ajouté sur la plateforme "
+"%(title_site)s à partir de l’enregistreur « %(recorder)s ».<br>Pour "
+"l’ajouter, cliquez sur le lien ci-dessous.</p><p><a "
+"href=\"%(link_url)s\">%(link_url)s</a><br><em>Si le lien n’est pas actif, il "
+"faut le copier-coller dans la barre d’adresse de votre navigateur.</em></"
+"p><p>Cordialement.</p>"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -11599,17 +11737,6 @@ msgstr "L’enregistrement a été supprimé."
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
 msgstr "Enregistreur studio non trouvé."
-
-#: pod/settings.py
-msgid ""
-"Pod is aimed at users of our institutions, by allowing the publication of "
-"videos in the fields of research (promotion of platforms, etc.), training "
-"(tutorials, distance training, student reports, etc.), institutional life "
-"(video of events), offering several days of content."
-msgstr ""
-"Pod a pour but de faciliter la mise à disposition de vidéo et de ce "
-"fait, d’encourager l’utilisation de celles-ci dans le cadre de "
-"l’enseignement et la recherche."
 
 #: pod/urls.py
 msgid "Pod Administration"
@@ -13911,6 +14038,7 @@ msgstr "le :"
 
 #: pod/video_encode_transcript/utils.py
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "content"
 msgstr "contenu"
 
@@ -13921,15 +14049,16 @@ msgstr "Transcrire"
 =======
 #, fuzzy
 #| msgid "Content"
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgid "content"
-msgstr "Contenu"
+msgstr "contenu"
 
 #: pod/video_encode_transcript/utils.py
-#, fuzzy
-#| msgid "Transcript"
 msgid "Transcripting"
 msgstr "Transcrire"
 
+<<<<<<< HEAD
 #: pod/video_encode_transcript/utils.py
 #, fuzzy
 #| msgid "automatically transcripted"
@@ -13937,6 +14066,8 @@ msgid "automatically transcript"
 msgstr "automatiquement transcrit"
 
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video_search/apps.py
 msgid "Video search"
 msgstr "Recherche de vidéo"
@@ -14289,8 +14420,8 @@ msgstr "xAPI Esup-Pod"
 =======
 =======
 
-#~ msgid "Deny on all devices"
-#~ msgstr "Refuser sur tous les appareils"
+#~ msgid "Toggle navigation"
+#~ msgstr "Basculer le menu"
 
 #~ msgid "The password is / will be encrypted."
 #~ msgstr "Le mot de passe est / sera encrypté."

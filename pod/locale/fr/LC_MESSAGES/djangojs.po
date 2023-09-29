@@ -77,6 +77,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -288,6 +289,8 @@ msgstr ""
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -385,6 +388,8 @@ msgstr ""
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -524,8 +529,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 12:16+0000\n"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-27 14:42+0000\n"
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1728,6 +1742,7 @@ msgstr "Une erreur s’est produite lors de l’abonnement aux notifications"
 msgid "An error happened during notification subscription"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Erreur durant la désinscription..."
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
@@ -1737,12 +1752,20 @@ msgstr "Une erreur s’est produite lors de l’abonnement aux notifications"
 msgstr "Erreur durant la désinscription..."
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+msgstr "Erreur durant la désinscription..."
+>>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+msgstr "Une erreur s’est produite lors de l’abonnement aux notifications"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid ""
 "Don't forget to allow notifications from this website in your browser's "
 "settings!"
 msgstr ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1754,11 +1777,19 @@ msgstr ""
 "N’oubliez pas d’autoriser les notifications provenant de ce site web dans "
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "N’oubliez pas d’autoriser les notifications provenant de ce site web dans "
 =======
 "N'oubliez pas d'autoriser les notifications provenant de ce site web dans "
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+"N’oubliez pas d’autoriser les notifications provenant de ce site web dans "
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "votre navigateur !"
 
 #: pod/progressive_web_app/static/js/notification-toast.js
@@ -1783,6 +1814,7 @@ msgid "Notifications are currently enabled."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Les notifications sont actuellement activées."
 =======
 msgstr "Les notifications sont actuellement activées"
@@ -1791,11 +1823,19 @@ msgstr "Les notifications sont actuellement activées"
 msgstr "Les notifications sont actuellement activées."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Les notifications sont actuellement activées."
 =======
 msgstr "Les notifications sont actuellement activées"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+msgstr "Les notifications sont actuellement activées."
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/progressive_web_app/static/js/notification-toast.js
 msgid "Disable notifications"
@@ -2470,6 +2510,7 @@ msgid "Get notified when the video encoding is finished."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr "Recevez une notification lorsque l’encodage de la vidéo est terminé."
 =======
 msgstr "Recevez une notification lorsque l'encodage de la vidéo est terminé."
@@ -2478,11 +2519,19 @@ msgstr "Recevez une notification lorsque l'encodage de la vidéo est terminé."
 msgstr "Recevez une notification lorsque l’encodage de la vidéo est terminé."
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr "Recevez une notification lorsque l’encodage de la vidéo est terminé."
 =======
 msgstr "Recevez une notification lorsque l'encodage de la vidéo est terminé."
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+msgstr "Recevez une notification lorsque l’encodage de la vidéo est terminé."
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 
 #: pod/video/static/js/video_stats_view.js
 msgid "Title"

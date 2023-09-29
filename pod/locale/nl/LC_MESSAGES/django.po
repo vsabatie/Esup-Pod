@@ -80,6 +80,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -299,6 +300,8 @@ msgstr ""
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -398,6 +401,8 @@ msgstr ""
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -546,8 +551,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 12:16+0000\n"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-09-28 09:06+0000\n"
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -4724,15 +4738,21 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Fold/Unfold “Types” filters"
 msgstr ""
 
 #: pod/live/templates/live/filter_aside.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -4745,6 +4765,12 @@ msgstr ""
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+>>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/change_video_owner.html
 #: pod/video/templates/videos/filter_aside.html
 #: pod/video_search/templates/search/search.html
@@ -5775,6 +5801,7 @@ msgstr "Belangrijkste velden"
 #: pod/main/templates/navbar.html
 msgid "Close main menu"
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/main/templates/navbar.html
@@ -5785,10 +5812,14 @@ msgstr ""
 msgid "Promoted playlists"
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr ""
 
 #: pod/main/templates/navbar.html
 msgid "Promoted playlists"
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr ""
 
 #: pod/main/templates/navbar.html
@@ -5958,14 +5989,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
+=======
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgid "Close user menu"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -5976,6 +6013,12 @@ msgstr ""
 =======
 >>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
 >>>>>>> 030c65b5 ([DONE] Fix links (accessibility) (#931))
+=======
+=======
+>>>>>>> 93e943da ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgid "Add your picture"
 msgstr ""
 
@@ -7741,10 +7784,13 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Reset the filters"
 msgstr ""
@@ -7760,6 +7806,10 @@ msgid ""
 =======
 msgid "Reset the filter"
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+#: pod/video/templates/videos/filter_aside.html
+msgid "Reset the filters"
+>>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr ""
 
 #: pod/playlist/templates/playlist/filter_aside.html
@@ -8296,6 +8346,16 @@ msgstr ""
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Edit the playlist “%(playlist.name)s”"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Remove the playlist “%(playlist.name)s”"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_link.html
 msgid "Remove the playlist"
 msgstr ""
 
@@ -8646,6 +8706,10 @@ msgid "Protected playlist form"
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlists.html
+msgid "Add a new playlist"
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html
@@ -9555,14 +9619,6 @@ msgstr ""
 
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
-msgstr ""
-
-#: pod/settings.py
-msgid ""
-"Pod is aimed at users of our institutions, by allowing the publication of "
-"videos in the fields of research (promotion of platforms, etc.), training "
-"(tutorials, distance training, student reports, etc.), institutional life "
-"(video of events), offering several days of content."
 msgstr ""
 
 #: pod/urls.py
@@ -11574,10 +11630,6 @@ msgstr ""
 
 #: pod/video_encode_transcript/utils.py
 msgid "Transcripting"
-msgstr ""
-
-#: pod/video_encode_transcript/utils.py
-msgid "automatically transcript"
 msgstr ""
 
 #: pod/video_search/apps.py
