@@ -44,6 +44,8 @@ INSTALLED_APPS = [
     "mozilla_django_oidc",
     "honeypot",
     "lti_provider",
+    "pwa",
+    "webpush",
     # Pod Applications
     "pod.main",
     "django.contrib.admin",  # put it here for template override
@@ -68,7 +70,7 @@ INSTALLED_APPS = [
     "pod.custom",
     "pwa",
     "pod.progressive_web_app",
-    "webpush",
+    "pod.custom",
 ]
 
 ##
