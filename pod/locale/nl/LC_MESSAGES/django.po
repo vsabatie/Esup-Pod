@@ -51,6 +51,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -208,6 +209,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 12:16+0000\n"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"POT-Creation-Date: 2023-09-28 09:06+0000\n"
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3999,15 +4003,21 @@ msgstr ""
 #: pod/live/templates/live/filter_aside.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Fold/Unfold “Types” filters"
 msgstr ""
 
 #: pod/live/templates/live/filter_aside.html
+<<<<<<< HEAD
 =======
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/change_video_owner.html
 #: pod/video/templates/videos/filter_aside.html
 #: pod/video_search/templates/search/search.html
@@ -5022,6 +5032,7 @@ msgstr "Belangrijkste velden"
 
 #: pod/main/templates/navbar.html
 msgid "Close main menu"
+<<<<<<< HEAD
 msgstr ""
 
 #: pod/main/templates/navbar.html
@@ -5030,6 +5041,8 @@ msgstr ""
 
 #: pod/main/templates/navbar.html
 msgid "Promoted playlists"
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgstr ""
 
 #: pod/main/templates/navbar.html
@@ -5151,12 +5164,18 @@ msgstr ""
 
 #: pod/main/templates/navbar.html
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgid "Close user menu"
 msgstr ""
 
 #: pod/main/templates/navbar.html
+<<<<<<< HEAD
 =======
 >>>>>>> ef4e4568 ([DONE] Fix links (accessibility) (#931))
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 msgid "Add your picture"
 msgstr ""
 
@@ -6511,6 +6530,9 @@ msgstr ""
 #: pod/playlist/templates/playlist/filter_aside.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
 #: pod/video/templates/videos/filter_aside.html
 msgid "Reset the filters"
 msgstr ""
@@ -6842,6 +6864,16 @@ msgstr ""
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 #: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Edit the playlist “%(playlist.name)s”"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_link.html
+#, python-format
+msgid "Remove the playlist “%(playlist.name)s”"
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlist_link.html
 msgid "Remove the playlist"
 msgstr ""
 
@@ -7032,6 +7064,10 @@ msgid "Protected playlist form"
 =======
 "You haven't got any playlist yet, please use the \"Add a playlist\" button "
 "to add one."
+msgstr ""
+
+#: pod/playlist/templates/playlist/playlists.html
+msgid "Add a new playlist"
 msgstr ""
 
 #: pod/playlist/templates/playlist/protected-playlist-form.html
@@ -7842,14 +7878,6 @@ msgstr ""
 
 #: pod/recorder/views.py
 msgid "Recorder for Studio not found."
-msgstr ""
-
-#: pod/settings.py
-msgid ""
-"Pod is aimed at users of our institutions, by allowing the publication of "
-"videos in the fields of research (promotion of platforms, etc.), training "
-"(tutorials, distance training, student reports, etc.), institutional life "
-"(video of events), offering several days of content."
 msgstr ""
 
 #: pod/urls.py
@@ -9721,10 +9749,6 @@ msgstr ""
 
 #: pod/video_encode_transcript/utils.py
 msgid "Transcripting"
-msgstr ""
-
-#: pod/video_encode_transcript/utils.py
-msgid "automatically transcript"
 msgstr ""
 
 #: pod/video_search/apps.py
