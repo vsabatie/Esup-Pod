@@ -75,6 +75,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -279,6 +280,8 @@ msgstr ""
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -380,6 +383,8 @@ msgstr ""
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -542,6 +547,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-28 09:06+0000\n"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"POT-Creation-Date: 2023-10-12 13:34+0000\n"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -11209,6 +11217,7 @@ msgid "Close notification panel"
 msgstr "Fermer le panneau de notification"
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 msgstr "Recevez les notifications de l'application"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
@@ -11219,6 +11228,8 @@ msgstr "Recevez les notifications de l’application"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 =======
 =======
+>>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
 msgstr "Recevez les notifications de l'application"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 <<<<<<< HEAD
@@ -11227,7 +11238,12 @@ msgstr "Recevez les notifications de l'application"
 =======
 msgstr "Recevez les notifications de l’application"
 >>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+<<<<<<< HEAD
 >>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+=======
+>>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+>>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid ""
