@@ -73,6 +73,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -292,6 +293,8 @@ msgstr ""
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -391,6 +394,8 @@ msgstr ""
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -539,8 +544,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-13 13:36+0000\n"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+<<<<<<< HEAD
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+<<<<<<< HEAD
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-10-16 13:36+0000\n"
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -708,6 +722,7 @@ msgid "A caption cannot has more than 80 characters."
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 msgid "Add a caption/subtitle after this one"
 msgstr ""
 
@@ -721,11 +736,14 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -745,6 +763,8 @@ msgstr ""
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 #: pod/video/static/js/comment-script.js
 msgid "Delete"
 msgstr ""
@@ -1500,11 +1520,6 @@ msgid "Network response was not ok."
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
-#: pod/video/static/js/change_video_owner.js
-msgid "Loading…"
-msgstr ""
-
-#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr ""
 
@@ -1670,6 +1685,7 @@ msgstr ""
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 #: pod/video/static/js/ajax-display-channels.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1954,11 +1970,17 @@ msgstr ""
 msgid "No element found"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
+=======
+msgid "No channels found"
+msgstr ""
+
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 #: pod/video/static/js/change_video_owner.js
 msgid "No element found"
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 msgid "Loading…"
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
@@ -1974,8 +1996,20 @@ msgstr ""
 =======
 =======
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+=======
+msgid "Loading…"
+msgstr ""
+
+#: pod/video/static/js/change_video_owner.js
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 msgid "An error occurred during the change of owner"
 msgstr ""
 
@@ -1996,34 +2030,11 @@ msgid "Cancel"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] ""
-msgstr[1] ""
-
-#: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Reply to comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Reply"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
 msgid "Remove this comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Add a public comment"
-msgstr ""
-
-#: pod/video/static/js/comment-script.js
-msgid "Send"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
@@ -2037,6 +2048,13 @@ msgstr ""
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr ""
+
+#: pod/video/static/js/comment-script.js
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] ""
+msgstr[1] ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -2058,47 +2076,38 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
-#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr ""
 
@@ -2204,18 +2213,6 @@ msgstr ""
 
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Delete the category"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Success!"
-msgstr ""
-
-#: pod/video/static/js/video_category.js
-msgid "Error…"
 msgstr ""
 
 #: pod/video/static/js/video_category.js

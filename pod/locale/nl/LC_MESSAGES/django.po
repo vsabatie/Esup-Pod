@@ -82,6 +82,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -305,6 +306,8 @@ msgstr ""
 >>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -408,6 +411,8 @@ msgstr ""
 >>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -574,8 +579,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-12 13:34+0000\n"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+<<<<<<< HEAD
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+<<<<<<< HEAD
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-10-16 13:36+0000\n"
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3647,6 +3661,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3684,6 +3699,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -8963,10 +8982,15 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 #, python-format
 msgid "Edit the playlist “%(pname)s”"
 msgstr ""
@@ -9037,6 +9061,10 @@ msgid "The playlist has been created and the video has been added in it."
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+msgstr ""
+
+#: pod/playlist/views.py
+msgid "The data sent to create the playlist are invalid."
 msgstr ""
 
 #: pod/playlist/views.py
@@ -9561,8 +9589,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html

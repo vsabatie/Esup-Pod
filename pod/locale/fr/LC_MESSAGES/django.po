@@ -76,6 +76,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -282,6 +283,8 @@ msgstr ""
 >>>>>>> 81962806 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -385,6 +388,8 @@ msgstr ""
 >>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -550,11 +555,22 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-12 13:34+0000\n"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+=======
+"POT-Creation-Date: 2023-10-16 13:36+0000\n"
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 "PO-Revision-Date: \n"
+<<<<<<< HEAD
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
 >>>>>>> 85cd1f4c ([DONE] fix recuring date in edit meeting (#946))
+<<<<<<< HEAD
 >>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
+=======
+=======
+"Last-Translator: Ptitloup <nicolas.can@univ-lille.fr>\n"
+"Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -3321,6 +3337,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 8eeb87fe (ajout)
@@ -3380,7 +3397,14 @@ msgstr ""
 "le temps depuis le lecteur\" pour renseigner automatiquement le champ "
 "\"Début\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+"le temps depuis le lecteur\" pour renseigner automatiquement le champ \"Début"
+"\". Vous pouvez le faire également pour remplir le champ \"Fin\"."
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 
 #: pod/enrichment/templates/enrichment/edit_enrichment.html
 msgid "You cannot overlap enrichments."
@@ -3980,6 +4004,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4089,6 +4114,8 @@ msgstr ""
 >>>>>>> e2aeb870 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -4125,6 +4152,8 @@ msgstr ""
 >>>>>>> 50d6f5d8 ([DONE] Features for meeting: manage recording with token and send email when BBB recording available (#958))
 =======
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -4193,8 +4222,18 @@ msgstr ""
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+<<<<<<< HEAD
 >>>>>>> 4b60167c ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+=======
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+>>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -4205,6 +4244,7 @@ msgstr ""
 #: pod/import_video/views.py
 #, python-format
 msgid ""
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4252,6 +4292,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 "href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 1e93d973 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
+"\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -8254,16 +8298,16 @@ msgid ""
 msgstr ""
 "\n"
 "        <p>Bonjour,\n"
-"        <p>%(owner)s vous invite à une réunion récurrente "
-"<b>%(meeting_title)s</b>.</p>\n"
+"        <p>%(owner)s vous invite à une réunion récurrente <b>"
+"%(meeting_title)s</b>.</p>\n"
 "        <p>Date de début : %(start_date_time)s </p>\n"
 "        <p>Récurrent jusqu’à la date : %(end_date)s </p>\n"
 "        <p>La réunion se tiendra tou(te)s les %(frequency)s %(recurrence)s </"
 "p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -8289,8 +8333,8 @@ msgstr ""
 "        <p>Date de fin : %(end_date)s </p>\n"
 "        <p>Voici le lien pour rejoindre la réunion :\n"
 "        <a href=\"%(join_link)s\">%(join_link)s</a></p>\n"
-"        <p>Vous avez besoin de ce mot de passe pour entrer : "
-"<b>%(password)s</b> </p>\n"
+"        <p>Vous avez besoin de ce mot de passe pour entrer : <b>"
+"%(password)s</b> </p>\n"
 "        <p>Cordialement</p>\n"
 "    "
 
@@ -10979,8 +11023,17 @@ msgstr "La liste de lecture a été supprimée."
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 
 #: pod/playlist/views.py
+msgid "Edit the playlist “%(pname)s”"
+msgstr "Modifier la liste de lecture « %(pname)s »"
+
+#: pod/playlist/views.py
 msgid "The playlist has been created and the video has been added in it."
 msgstr "La liste de lecture a été créée et la vidéo a été ajoutée dedans."
+
+#: pod/playlist/views.py
+msgid "The data sent to create the playlist are invalid."
+msgstr ""
+"Les données envoyées pour créer la liste de lecture ne sont pas valides."
 
 #: pod/playlist/views.py
 msgid "JSON in wrong format"
@@ -11592,8 +11645,8 @@ msgstr "Prévisualisation d’enregistrement"
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" "
-"target=\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
+"\"_blank\">supports HTML5 video</a>"
 msgstr ""
 "Pour visionner cette vidéo, veuillez activer JavaScript et envisager de "
 "passer à un navigateur Web qui <a href=\"https://videojs.com/html5-video-"
@@ -11736,11 +11789,17 @@ msgstr ""
 =======
 "<p>Bonjour,<br> un nouvel enregistrement a été ajouté sur la plateforme "
 "%(title_site)s à partir de l’enregistreur « %(recorder)s ».<br>Pour "
+<<<<<<< HEAD
 "l’ajouter, cliquez sur le lien ci-dessous.</p><p><a "
 "href=\"%(link_url)s\">%(link_url)s</a><br><em>Si le lien n’est pas actif, il "
 "faut le copier-coller dans la barre d’adresse de votre navigateur.</em></"
 "p><p>Cordialement.</p>"
 >>>>>>> df8e8e98 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"l’ajouter, cliquez sur le lien ci-dessous.</p><p><a href=\"%(link_url)s\">"
+"%(link_url)s</a><br><em>Si le lien n’est pas actif, il faut le copier-coller "
+"dans la barre d’adresse de votre navigateur.</em></p><p>Cordialement.</p>"
+>>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 
 #: pod/recorder/views.py
 msgid "New recording added."
@@ -12088,8 +12147,8 @@ msgid ""
 "%(url)s</a></p>\n"
 msgstr ""
 "vous pouvez changer la date de suppression en éditant votre vidéo :</p>\n"
-"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" "
-"target=\"_blank\">%(scheme)s:%(url)s</a></p>\n"
+"<p><a href=\"%(scheme)s:%(url)s\" rel=\"noopener\" target=\"_blank\">"
+"%(scheme)s:%(url)s</a></p>\n"
 "\n"
 
 #: pod/video/management/commands/check_obsolete_videos.py
@@ -12989,8 +13048,8 @@ msgid ""
 "This video is chaptered. Click the chapter button <span class=\"vjs-icon-"
 "chapters\"></span> on the video player to view them."
 msgstr ""
-"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span "
-"class=\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
+"Cette vidéo est chapitrée. Cliquez sur le bouton de chapitre <span class="
+"\"vjs-icon-chapters\"></span> sur le lecteur vidéo pour les voir."
 
 #: pod/video/templates/videos/video-all-info.html
 msgid "Other versions"
