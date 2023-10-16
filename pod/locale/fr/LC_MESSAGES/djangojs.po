@@ -50,6 +50,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -204,6 +205,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 14:42+0000\n"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"POT-Creation-Date: 2023-10-13 13:36+0000\n"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -384,6 +388,9 @@ msgstr "Mettez en pause pour entrer le texte du segment entre %s et %s."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 msgid "A caption cannot has more than 80 characters."
 msgstr "Une légende / sous-titre ne peut comporter plus de 80 caractères."
 
@@ -392,12 +399,15 @@ msgid "Add a caption/subtitle after this one"
 msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 =======
 >>>>>>> 5f137acd (Encoding ok)
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
 msgstr "Ajouter"
@@ -406,21 +416,28 @@ msgstr "Ajouter"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 msgid "Delete this caption/subtitle"
 msgstr "Supprimer ce(tte) légende/sous-titre"
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 =======
 >>>>>>> 5f137acd (Encoding ok)
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 #: pod/video/static/js/comment-script.js
 msgid "Delete"
 msgstr "Supprimer"
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -438,6 +455,9 @@ msgid "Caption / Subtitle"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 msgid "Caption"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+msgid "Caption / Subtitle"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 msgstr "Légende / Sous-titre"
 
 #: pod/completion/static/js/caption_maker.js
@@ -1615,6 +1635,18 @@ msgid "Slug"
 msgstr "Titre court"
 <<<<<<< HEAD
 =======
+
+#~ msgid "Error reading caption file. Code = "
+#~ msgstr "Erreur durant la lecture du fichier de traduction, Code = "
+
+#~ msgid "Exception thrown reading caption file. Code = "
+#~ msgstr "Une exception a été levée durant la lecture du fichier. Code = "
+
+#~ msgid "Your browser does not support FileReader."
+#~ msgstr "Votre navigateur ne supporte pas FileReader."
+
+#~ msgid "Caption"
+#~ msgstr "Légende / Sous-titre"
 
 #~ msgid "Error"
 #~ msgstr "Erreur"

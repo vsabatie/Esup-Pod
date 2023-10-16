@@ -45,6 +45,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -205,6 +206,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-27 12:16+0000\n"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+"POT-Creation-Date: 2023-10-13 13:36+0000\n"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -359,8 +363,20 @@ msgid "Pause to enter caption for segment from %s to %s."
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+msgid "A caption cannot has more than 80 characters."
+msgstr ""
+
+#: pod/completion/static/js/caption_maker.js
+msgid "Add a caption/subtitle after this one"
+msgstr ""
+
+#: pod/completion/static/js/caption_maker.js
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
+msgstr ""
+
+#: pod/completion/static/js/caption_maker.js
+msgid "Delete this caption/subtitle"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
@@ -369,7 +385,7 @@ msgid "Delete"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
-msgid "Caption"
+msgid "Caption / Subtitle"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js

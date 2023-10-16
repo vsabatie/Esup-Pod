@@ -52,6 +52,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -212,6 +213,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-28 09:06+0000\n"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"POT-Creation-Date: 2023-10-12 13:34+0000\n"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -7518,12 +7522,18 @@ msgstr ""
 
 #: pod/progressive_web_app/templates/notification_toast.html
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 msgid "Close notification panel"
 msgstr ""
 
 #: pod/progressive_web_app/templates/notification_toast.html
+<<<<<<< HEAD
 =======
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 msgid ""
 "Get notified for specific events (when one of your video encoding is "
 "completed)."

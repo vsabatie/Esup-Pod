@@ -47,6 +47,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -222,6 +223,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-09-28 09:06+0000\n"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+"POT-Creation-Date: 2023-10-12 13:34+0000\n"
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -8507,12 +8511,15 @@ msgstr "Recevez les notifications de l’application"
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid "Close notification panel"
 msgstr "Fermer le panneau de notification"
+<<<<<<< HEAD
 =======
 msgstr "Recevez les notifications de l'application"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 =======
 msgstr "Recevez les notifications de l’application"
 >>>>>>> 125b96b0 ([DONE] RGAA 8.02 & W3C compliance (#956))
+=======
+>>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 
 #: pod/progressive_web_app/templates/notification_toast.html
 msgid ""
