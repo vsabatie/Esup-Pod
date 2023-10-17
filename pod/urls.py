@@ -27,6 +27,7 @@ from pod.main.rest_router import urlpatterns as rest_urlpatterns
 USE_CAS = getattr(settings, "USE_CAS", False)
 USE_SHIB = getattr(settings, "USE_SHIB", False)
 USE_OIDC = getattr(settings, "USE_OIDC", False)
+USE_NOTIFICATIONS = getattr(settings, "USE_NOTIFICATIONS", True)
 
 if USE_CAS:
     from cas import views as cas_views
@@ -83,7 +84,16 @@ urlpatterns = [
     url(r"^cut/", include("pod.cut.urls")),
     # dressing
     url(r"^dressing/", include("pod.dressing.urls")),
+    # pwa
+    url("", include("pwa.urls")),
 ]
+
+# WEBPUSH
+if USE_NOTIFICATIONS:
+    urlpatterns += [
+        # webpush
+        url(r"^webpush/", include("webpush.urls")),
+    ]
 
 # CAS
 if USE_CAS:
