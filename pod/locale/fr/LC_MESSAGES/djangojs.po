@@ -52,6 +52,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -212,8 +213,11 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-16 13:36+0000\n"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+"POT-Creation-Date: 2023-10-31 11:26+0000\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "PO-Revision-Date: \n"
-"Last-Translator: AymericJak <aymeric.jakobowski@univ-lille.fr>\n"
+"Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
@@ -221,10 +225,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+"X-Generator: Poedit 3.4\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/chapter/static/js/chapters.js pod/enrichment/static/js/enrichment.js
 msgid "Get time from the player"
@@ -400,10 +408,14 @@ msgstr "Une légende / sous-titre ne peut comporter plus de 80 caractères."
 
 #: pod/completion/static/js/caption_maker.js
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Add a caption/subtitle after this one"
 msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 5f137acd (Encoding ok)
@@ -415,6 +427,8 @@ msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
 msgstr "Ajouter"
@@ -425,12 +439,16 @@ msgstr "Ajouter"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Delete this caption/subtitle"
 msgstr "Supprimer ce(tte) légende/sous-titre"
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> 5f137acd (Encoding ok)
@@ -442,6 +460,8 @@ msgstr "Supprimer ce(tte) légende/sous-titre"
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/video/static/js/comment-script.js
 msgid "Delete"
 msgstr "Supprimer"
@@ -1001,6 +1021,11 @@ msgid "Network response was not ok."
 msgstr "La réponse du réseau n’était pas correcte."
 
 #: pod/podfile/static/podfile/js/filewidget.js
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+msgstr "Chargement en cours…"
+
+#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr "Changer d’image"
 
@@ -1126,6 +1151,7 @@ msgstr "Une erreur est survenue lors de la souscription aux notifications."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 msgid "Channels"
@@ -1165,12 +1191,15 @@ msgstr "Chaînes"
 >>>>>>> afb1f348 ([DONE] Yaal Coop/Add PWA functionality to app and notifications capabilities (#937))
 #: pod/video/static/js/ajax-display-channels.js
 <<<<<<< HEAD
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "%(count)s channel"
 msgid_plural "%(count)s channels"
 msgstr[0] "%(count)s chaîne"
 msgstr[1] "%(count)s chaînes"
 
 #: pod/video/static/js/ajax-display-channels.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1206,6 +1235,8 @@ msgstr "Chaînes"
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "No channels found"
 msgstr "Aucun chaîne trouvée"
 
@@ -1213,12 +1244,16 @@ msgstr "Aucun chaîne trouvée"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "%(count)s video"
 msgid_plural "%(count)s videos"
 msgstr[0] "%(count)s vidéo"
 msgstr[1] "%(count)s vidéos"
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 msgid "videos"
@@ -1280,13 +1315,12 @@ msgid "No channels found"
 msgstr "Aucun chaîne trouvée"
 
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/video/static/js/change_video_owner.js
 msgid "No element found"
 msgstr "Aucun élément trouvé"
-
-#: pod/video/static/js/change_video_owner.js
-msgid "Loading…"
-msgstr "Chargement en cours…"
 
 #: pod/video/static/js/change_video_owner.js
 msgid "An error occurred during the change of owner"
@@ -1309,10 +1343,18 @@ msgid "Cancel"
 msgstr "Annuler"
 
 #: pod/video/static/js/comment-script.js
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgstr[1] "%s <span class=\"d-none d-md-inline\">votes</span>"
+
+#: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr "D’accord avec ce commentaire"
 
 #: pod/video/static/js/comment-script.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1355,12 +1397,17 @@ msgstr "Répondre au commentaire"
 msgid "Reply to comment"
 msgstr "Répondre au commentaire"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
+=======
+msgid "Reply to comment"
+msgstr "Répondre au commentaire"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/video/static/js/comment-script.js
 msgid "Reply"
 msgstr "Répondre"
 
 #: pod/video/static/js/comment-script.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1393,8 +1440,18 @@ msgstr "Répondre"
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Remove this comment"
 msgstr "Supprimer ce commentaire"
+
+#: pod/video/static/js/comment-script.js
+msgid "Add a public comment"
+msgstr "Ajouter un commentaire public"
+
+#: pod/video/static/js/comment-script.js
+msgid "Send"
+msgstr "Envoyer"
 
 #: pod/video/static/js/comment-script.js
 msgid "Show answers"
@@ -1407,13 +1464,6 @@ msgstr "Mauvaise réponse du serveur."
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr "Désolé, vous n’êtes pas autorisé à voter maintenant."
-
-#: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgstr[1] "%s <span class=\"d-none d-md-inline\">votes</span>"
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -1435,38 +1485,47 @@ msgstr[0] "%s commentaire"
 msgstr[1] "%s commentaires"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr "Ce contenu est protégé par mot de passe."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr "Ce contenu est chapitré."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr "Ce contenu est en brouillon."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr "Contenu vidéo."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr "Contenu audio."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr "Éditer la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr "Compléter la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr "Chapitrer la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr "Supprimer la vidéo"
 
@@ -1538,6 +1597,18 @@ msgstr "Désolé, aucune vidéo trouvée"
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
 msgstr "Éditer la catégorie"
+
+#: pod/video/static/js/video_category.js
+msgid "Delete the category"
+msgstr "Supprimer la catégorie"
+
+#: pod/video/static/js/video_category.js
+msgid "Success!"
+msgstr "Succès !"
+
+#: pod/video/static/js/video_category.js
+msgid "Error…"
+msgstr "Erreur…"
 
 #: pod/video/static/js/video_category.js
 msgid "Category created successfully"
@@ -1623,6 +1694,7 @@ msgstr "Ajouts en favoris total depuis la création"
 msgid "Slug"
 msgstr "Titre court"
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 #~ msgid "Add a caption/subtitle after this one"
@@ -1677,3 +1749,5 @@ msgstr "Titre court"
 #~ msgid "Delete this caption/subtitle"
 #~ msgstr "Supprimer ce(tte) légende/sous-titre"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))

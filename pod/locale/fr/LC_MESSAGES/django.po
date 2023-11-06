@@ -49,6 +49,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -233,8 +234,11 @@ msgstr ""
 >>>>>>> c3c05541 ([DONE] fix recuring date in edit meeting (#946))
 =======
 "POT-Creation-Date: 2023-10-16 13:36+0000\n"
+=======
+"POT-Creation-Date: 2023-10-31 11:26+0000\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "PO-Revision-Date: \n"
-"Last-Translator: Ptitloup <nicolas.can@univ-lille.fr>\n"
+"Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 "Language: fr\n"
@@ -243,10 +247,14 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
 <<<<<<< HEAD
+<<<<<<< HEAD
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
+=======
+"X-Generator: Poedit 3.4\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/authentication/admin.py pod/main/forms.py
 msgid "Email"
@@ -616,6 +624,7 @@ msgstr ""
 #: pod/bbb/models.py pod/import_video/models.py pod/meeting/models.py
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
 =======
 #: pod/playlist/models.py pod/recorder/models.py
@@ -623,6 +632,9 @@ msgstr ""
 =======
 #: pod/playlist/models.py pod/recorder/models.py
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+#: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "User"
 msgstr "Utilisateur"
 
@@ -8293,6 +8305,7 @@ msgstr "La liste de lecture a été supprimée."
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 
 #: pod/playlist/views.py
+#, python-format
 msgid "Edit the playlist “%(pname)s”"
 msgstr "Modifier la liste de lecture « %(pname)s »"
 
@@ -9891,14 +9904,20 @@ msgstr "Ce contenu est protégé par un mot de passe."
 #: pod/video/templates/videos/card.html
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content has restricted access."
 msgstr "Ce contenu est en accès restreint."
 
 #: pod/video/templates/videos/card.html
+<<<<<<< HEAD
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content is chaptered."
 msgstr "Ce contenu est chapitré."
 
