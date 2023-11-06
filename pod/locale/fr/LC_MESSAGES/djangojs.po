@@ -80,6 +80,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -297,6 +298,8 @@ msgstr ""
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -400,6 +403,8 @@ msgstr ""
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -566,16 +571,26 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-16 13:36+0000\n"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-10-31 11:26+0000\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "PO-Revision-Date: \n"
-"Last-Translator: AymericJak <aymeric.jakobowski@univ-lille.fr>\n"
+"Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -587,11 +602,19 @@ msgstr ""
 "X-Generator: Poedit 3.4\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
 >>>>>>> 9586f1b6 ([DONE] RGAA 03.02 (#951))
+<<<<<<< HEAD
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+=======
+"X-Generator: Poedit 3.4\n"
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/chapter/static/js/chapters.js pod/enrichment/static/js/enrichment.js
 msgid "Get time from the player"
@@ -792,10 +815,15 @@ msgstr "Une légende / sous-titre ne peut comporter plus de 80 caractères."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Add a caption/subtitle after this one"
 msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 
@@ -804,8 +832,11 @@ msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 5f137acd (Encoding ok)
 =======
@@ -840,7 +871,12 @@ msgstr "Ajouter un(e) légende/sous-titre ci-dessous"
 =======
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
 msgstr "Ajouter"
@@ -857,6 +893,7 @@ msgstr "Ajouter"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8fdf7f05 ([DONE] A11y for caption_maker (#982))
 =======
@@ -873,6 +910,12 @@ msgstr "Ajouter"
 =======
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+=======
+>>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Delete this caption/subtitle"
 msgstr "Supprimer ce(tte) légende/sous-titre"
 
@@ -881,8 +924,11 @@ msgstr "Supprimer ce(tte) légende/sous-titre"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 5f137acd (Encoding ok)
 =======
@@ -917,7 +963,12 @@ msgstr "Supprimer ce(tte) légende/sous-titre"
 =======
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/video/static/js/comment-script.js
 msgid "Delete"
 msgstr "Supprimer"
@@ -1760,6 +1811,11 @@ msgid "Network response was not ok."
 msgstr "La réponse du réseau n’était pas correcte."
 
 #: pod/podfile/static/podfile/js/filewidget.js
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+msgstr "Chargement en cours…"
+
+#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr "Changer d’image"
 
@@ -1992,6 +2048,7 @@ msgstr[1] "%(count)s chaînes"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
 msgid "Channels"
@@ -2010,10 +2067,13 @@ msgstr "Chaînes"
 msgid "Channel"
 msgstr "Chaîne"
 =======
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "%(count)s channel"
 msgid_plural "%(count)s channels"
 msgstr[0] "%(count)s chaîne"
 msgstr[1] "%(count)s chaînes"
+<<<<<<< HEAD
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 
 #: pod/video/static/js/ajax-display-channels.js
@@ -2087,8 +2147,18 @@ msgstr "Chaînes"
 =======
 =======
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 8b3d52bd ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 15aacca9 ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+=======
+
+#: pod/video/static/js/ajax-display-channels.js
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "No channels found"
 msgstr "Aucun chaîne trouvée"
 
@@ -2138,6 +2208,7 @@ msgstr "vidéos"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9490b823 (Encoding ok)
 =======
@@ -2148,6 +2219,8 @@ msgstr "vidéos"
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/video/static/js/ajax-display-channels.js
 #, fuzzy
 #| msgid "videos"
@@ -2200,6 +2273,7 @@ msgstr "Aucun chaîne trouvée"
 
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
@@ -2217,13 +2291,13 @@ msgstr "Aucun chaîne trouvée"
 >>>>>>> ed6c9681 ([DONE] fix recuring date in edit meeting (#946))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/video/static/js/change_video_owner.js
 msgid "No element found"
 msgstr "Aucun élément trouvé"
-
-#: pod/video/static/js/change_video_owner.js
-msgid "Loading…"
-msgstr "Chargement en cours…"
 
 #: pod/video/static/js/change_video_owner.js
 msgid "An error occurred during the change of owner"
@@ -2246,10 +2320,18 @@ msgid "Cancel"
 msgstr "Annuler"
 
 #: pod/video/static/js/comment-script.js
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgstr[1] "%s <span class=\"d-none d-md-inline\">votes</span>"
+
+#: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr "D’accord avec ce commentaire"
 
 #: pod/video/static/js/comment-script.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2285,6 +2367,8 @@ msgstr "D’accord avec ce commentaire"
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #, fuzzy
 #| msgid "Remove this comment"
 msgid "Reply to comment"
@@ -2325,18 +2409,22 @@ msgstr "Répondre au commentaire"
 msgid "Reply to comment"
 msgstr "Répondre au commentaire"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+<<<<<<< HEAD
 =======
 >>>>>>> 09b732ff (Encoding ok)
 =======
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/video/static/js/comment-script.js
 msgid "Reply"
 msgstr "Répondre"
 
 #: pod/video/static/js/comment-script.js
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2371,6 +2459,8 @@ msgstr "Répondre"
 =======
 >>>>>>> 1073bb91 ([DONE] RGAA 03.02 (#951))
 =======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 83c6f9de ([DONE] A11y for 3.4.0 (#914))
@@ -2384,6 +2474,7 @@ msgstr "Répondre"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+<<<<<<< HEAD
 =======
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
@@ -2404,8 +2495,18 @@ msgstr "Répondre"
 =======
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "Remove this comment"
 msgstr "Supprimer ce commentaire"
+
+#: pod/video/static/js/comment-script.js
+msgid "Add a public comment"
+msgstr "Ajouter un commentaire public"
+
+#: pod/video/static/js/comment-script.js
+msgid "Send"
+msgstr "Envoyer"
 
 #: pod/video/static/js/comment-script.js
 msgid "Show answers"
@@ -2418,13 +2519,6 @@ msgstr "Mauvaise réponse du serveur."
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr "Désolé, vous n’êtes pas autorisé à voter maintenant."
-
-#: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgstr[1] "%s <span class=\"d-none d-md-inline\">votes</span>"
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -2446,38 +2540,47 @@ msgstr[0] "%s commentaire"
 msgstr[1] "%s commentaires"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr "Ce contenu est protégé par mot de passe."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr "Ce contenu est chapitré."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr "Ce contenu est en brouillon."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr "Contenu vidéo."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr "Contenu audio."
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr "Éditer la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr "Compléter la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr "Chapitrer la vidéo"
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr "Supprimer la vidéo"
 
@@ -2549,6 +2652,18 @@ msgstr "Désolé, aucune vidéo trouvée"
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
 msgstr "Éditer la catégorie"
+
+#: pod/video/static/js/video_category.js
+msgid "Delete the category"
+msgstr "Supprimer la catégorie"
+
+#: pod/video/static/js/video_category.js
+msgid "Success!"
+msgstr "Succès !"
+
+#: pod/video/static/js/video_category.js
+msgid "Error…"
+msgstr "Erreur…"
 
 #: pod/video/static/js/video_category.js
 msgid "Category created successfully"
@@ -2652,6 +2767,9 @@ msgstr "Titre court"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 
 <<<<<<< HEAD
@@ -2839,4 +2957,9 @@ msgstr "Répondre"
 #~ msgid "Delete this caption/subtitle"
 #~ msgstr "Supprimer ce(tte) légende/sous-titre"
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))

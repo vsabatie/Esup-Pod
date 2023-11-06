@@ -77,6 +77,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -285,6 +286,8 @@ msgstr ""
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -390,6 +393,8 @@ msgstr ""
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -558,7 +563,11 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-16 13:36+0000\n"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+"POT-Creation-Date: 2023-10-31 11:26+0000\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "PO-Revision-Date: \n"
+<<<<<<< HEAD
 <<<<<<< HEAD
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team pod@esup-portail.org\n"
@@ -568,6 +577,9 @@ msgstr ""
 =======
 =======
 "Last-Translator: Ptitloup <nicolas.can@univ-lille.fr>\n"
+=======
+"Last-Translator: obado <bado@unice.fr>\n"
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
@@ -579,6 +591,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
@@ -587,11 +600,19 @@ msgstr ""
 "X-Generator: Poedit 3.4\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "X-Generator: Poedit 3.4\n"
 =======
 "X-Generator: Poedit 3.3.2\n"
 >>>>>>> 792d863b ([DONE] A11y for 3.4.0 (#914))
+<<<<<<< HEAD
 >>>>>>> fc313dc2 ([DONE] A11y for 3.4.0 (#914))
+=======
+=======
+"X-Generator: Poedit 3.4\n"
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 
 #: pod/authentication/admin.py pod/main/forms.py
 msgid "Email"
@@ -979,12 +1000,16 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
 =======
 #: pod/playlist/models.py pod/recorder/models.py
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #: pod/playlist/models.py pod/recorder/models.py
@@ -994,6 +1019,11 @@ msgstr ""
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+#: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "User"
 msgstr "Utilisateur"
 
@@ -11023,6 +11053,7 @@ msgstr "La liste de lecture a été supprimée."
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 
 #: pod/playlist/views.py
+#, python-format
 msgid "Edit the playlist “%(pname)s”"
 msgstr "Modifier la liste de lecture « %(pname)s »"
 
@@ -12767,14 +12798,20 @@ msgstr "Ce contenu est protégé par un mot de passe."
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content has restricted access."
 msgstr "Ce contenu est en accès restreint."
 
 #: pod/video/templates/videos/card.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -12787,6 +12824,12 @@ msgstr "Ce contenu est en accès restreint."
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content is chaptered."
 msgstr "Ce contenu est chapitré."
 

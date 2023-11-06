@@ -83,6 +83,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -308,6 +309,8 @@ msgstr ""
 >>>>>>> b06a8d25 ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -413,6 +416,8 @@ msgstr ""
 >>>>>>> eeae4d5f ([DONE] A11y for caption_maker (#982))
 =======
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -588,8 +593,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-16 13:36+0000\n"
 >>>>>>> c35f7ee1 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+<<<<<<< HEAD
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-10-31 11:26+0000\n"
+>>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -954,12 +968,16 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 #: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
 =======
 #: pod/playlist/models.py pod/recorder/models.py
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 #: pod/playlist/models.py pod/recorder/models.py
@@ -969,6 +987,11 @@ msgstr ""
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+#: pod/playlist/models.py pod/recorder/models.py pod/video/models.py
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "User"
 msgstr ""
 
@@ -3662,6 +3685,7 @@ msgid ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
 =======
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube : <a "
@@ -3703,6 +3727,10 @@ msgid ""
 "This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
+=======
+"This video '%(name)s' was uploaded to Pod; its origin is Youtube: <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgstr ""
 
 #: pod/import_video/views.py
@@ -9589,8 +9617,8 @@ msgstr ""
 #: pod/video/templates/videos/video-element.html
 msgid ""
 "To view this video please enable JavaScript, and consider upgrading to a web "
-"browser that <a href=\"https://videojs.com/html5-video-support/\" target="
-"\"_blank\">supports HTML5 video</a>"
+"browser that <a href=\"https://videojs.com/html5-video-support/\" "
+"target=\"_blank\">supports HTML5 video</a>"
 msgstr ""
 
 #: pod/recorder/templates/recorder/link_record.html
@@ -10537,14 +10565,20 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content has restricted access."
 msgstr ""
 
 #: pod/video/templates/videos/card.html
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -10557,6 +10591,12 @@ msgstr ""
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+>>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
 msgid "This content is chaptered."
 msgstr ""
 
