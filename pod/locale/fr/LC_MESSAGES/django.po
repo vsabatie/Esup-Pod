@@ -5612,14 +5612,20 @@ msgstr "Supprimer l’évènement"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 =======
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 #: pod/live/templates/live/event_card.html
 msgid "Current event"
 msgstr "Évènement en cours"
 
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -5632,6 +5638,12 @@ msgstr "Évènement en cours"
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 #: pod/live/templates/live/event_card.html pod/video/templates/videos/card.html
 msgid "This content is in draft."
 msgstr "Ce contenu est en mode brouillon."

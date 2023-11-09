@@ -75,6 +75,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -298,6 +299,8 @@ msgstr ""
 >>>>>>> 62d35d9a ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -401,6 +404,8 @@ msgstr ""
 >>>>>>> b622f4f8 ([DONE] Bugfix of 3.4.0 (#983))
 =======
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -567,8 +572,17 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+<<<<<<< HEAD
 >>>>>>> 547d4da9 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+<<<<<<< HEAD
 >>>>>>> 6cce2cd5 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+=======
+=======
+"POT-Creation-Date: 2023-11-07 10:52+0000\n"
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1250,6 +1264,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
@@ -1275,6 +1290,11 @@ msgstr ""
 >>>>>>> 0fee55e1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+=======
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
 msgstr ""
@@ -1284,8 +1304,11 @@ msgid "Information"
 msgstr ""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 =======
+=======
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 =======
 >>>>>>> 3a4a3085 ([DONE] Update : Displaying channels via AJAX (#910))
 <<<<<<< HEAD
@@ -1293,7 +1316,13 @@ msgstr ""
 =======
 =======
 >>>>>>> 46d54872 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 3ba3755b ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> abc2a7b9 ([DONE] Feature/fix iframe js (#1004))
+>>>>>>> 4e561895 ([DONE] Feature/fix iframe js (#1004))
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."
 msgstr ""
