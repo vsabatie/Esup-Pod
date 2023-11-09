@@ -48,6 +48,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -217,6 +218,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+"POT-Creation-Date: 2023-11-07 10:52+0000\n"
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -743,6 +747,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/main/static/js/videojs-info-controlbar.js
 msgid "Info"
@@ -758,6 +763,16 @@ msgid "The video slug not found."
 msgstr ""
 
 <<<<<<< HEAD
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
+=======
+#: pod/main/static/js/videojs-info-controlbar.js
+msgid "Info"
+msgstr ""
+
+#: pod/main/static/js/videojs-info-controlbar.js
+msgid "Information"
+msgstr ""
+
 >>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 #: pod/playlist/static/playlist/js/add-or-edit.js
 msgid "<b>Public:</b> the playlist can be accessed by anyone."

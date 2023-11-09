@@ -55,6 +55,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -224,6 +225,9 @@ msgstr ""
 =======
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 >>>>>>> 8018b006 ([DONE] Distinct icons on password protected and restricted video content. (#1001))
+=======
+"POT-Creation-Date: 2023-11-09 10:23+0000\n"
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -3872,14 +3876,20 @@ msgstr ""
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 #: pod/live/templates/live/event_card.html
 msgid "Current event"
 msgstr ""
 
+<<<<<<< HEAD
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
+=======
+>>>>>>> 9a4278d9 ([DONE] Feature/fix iframe js (#1004))
 #: pod/live/templates/live/event_card.html pod/video/templates/videos/card.html
 msgid "This content is in draft."
 msgstr ""
