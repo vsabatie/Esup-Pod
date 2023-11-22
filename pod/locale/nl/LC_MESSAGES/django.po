@@ -5,27 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Pod\n"
 "Report-Msgid-Bugs-To: \n"
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-"POT-Creation-Date: 2023-07-13 16:48+0200\n"
-=======
-"POT-Creation-Date: 2023-07-05 15:50+0200\n"
->>>>>>> 21046607 ([DONE] live Extron SMP (#873))
-=======
-"POT-Creation-Date: 2023-08-14 13:00+0000\n"
->>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
-=======
-"POT-Creation-Date: 2023-08-18 09:32+0000\n"
->>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
-=======
-"POT-Creation-Date: 2023-08-23 12:22+0000\n"
->>>>>>> 776d6e3f ([DONE] Fix : accessibility issues (#913))
-=======
-"POT-Creation-Date: 2023-08-29 14:17+0000\n"
->>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1313,18 +1293,8 @@ msgid "Content"
 msgstr ""
 
 #: pod/completion/models.py pod/completion/templates/overlay/list_overlay.html
-<<<<<<< HEAD
-<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
-#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
-#: pod/playlist/templates/playlist/playlist_element_list.html
-=======
->>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
-=======
-#: pod/dressing/templates/my_dressings.html
-#: pod/dressing/templates/video_dressing.html pod/playlist/models.py
-#: pod/playlist/templates/playlist/playlist_element_list.html
->>>>>>> a51acb32 (ajout)
+#: pod/dressing/templates/video_dressing.html
 msgid "Position"
 msgstr ""
 
@@ -1936,8 +1906,6 @@ msgid "None"
 msgstr ""
 
 #: pod/dressing/templates/my_dressings.html pod/live/templates/live/direct.html
-#: pod/playlist/templates/playlist.html
-#: pod/playlist/templates/playlist/playlist_list.html
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
@@ -2560,7 +2528,7 @@ msgstr ""
 
 #: pod/import_video/utils.py
 #, python-format
-msgid "The size of the video file exceeds the maximum allowed value (%s Gb)."
+msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
 msgstr ""
 
 #: pod/import_video/views.py
@@ -3076,14 +3044,6 @@ msgstr ""
 msgid "Manage broadcaster"
 msgstr ""
 
-<<<<<<< HEAD
-=======
-#: pod/live/templates/live/direct.html
-#: pod/video/templates/videos/video_edit.html
-msgid "Edit"
-msgstr ""
-
->>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr ""

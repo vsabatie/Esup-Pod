@@ -8,7 +8,18 @@
 {% endblock page_extra_head %}
 
 {% block breadcrumbs %}{{ block.super }}
+<li class="breadcrumb-item">
+  <a href="{% url 'dressing:my_dressings' %}" title="{% trans 'My dressings' %}">
+    {% trans 'My dressings' %}
+  </a>
+</li>
 
+<li class="breadcrumb-item active" aria-current="page">        
+  {% if form.instance.title %}{% trans "Editing the dressing" %} "{{form.instance.title}}"
+  {% else %}
+    {% trans "Create a new dressing" %}
+  {% endif %}
+</li>
 {% endblock %}
 
 {% block page_title %}
@@ -62,10 +73,6 @@
 {% block collapse_page_aside %}
 {{ block.super }}
 {% endblock collapse_page_aside %}
-
-{% block page_aside %}
-<p>Hello</p>
-{% endblock page_aside %}
 
 {% block more_script %}
 <script src="/admin/jsi18n/"></script>

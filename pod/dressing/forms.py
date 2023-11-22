@@ -1,10 +1,10 @@
 from django import forms
 from django.conf import settings
 from pod.main.forms_utils import add_placeholder_and_asterisk
-from pod.podfile.widgets import CustomFileWidget
 from django.contrib.sites.models import Site
 from django_select2 import forms as s2forms
 from django.db.models import Q
+from django.utils.translation import ugettext_lazy as _
 
 from pod.video.models import Video
 from .models import Dressing
@@ -81,19 +81,19 @@ class DressingForm(forms.ModelForm):
             self.fields["title_%s" % settings.LANGUAGE_CODE].widget = forms.HiddenInput()
 
         self.fields = add_placeholder_and_asterisk(self.fields)
-        self.fields['opacity'].widget.attrs.update({'max': '100'})
+        self.fields["opacity"].widget.attrs.update({'max': '100'})
         self.fields["owners"].initial = self.user
 
         query_videos = Video.objects.filter(is_video=True).filter(
             Q(owner=self.user) | Q(additional_owners__in=[self.user])
         )
-
         self.fields["opening_credits"].queryset = query_videos.all()
         self.fields["ending_credits"].queryset = query_videos.all()
 
     class Meta(object):
         model = Dressing
         fields = "__all__"
+        exclude = ['videos']
         widgets = {
             "owners": AddOwnerWidget,
             "users": AddOwnerWidget,
@@ -101,3 +101,15 @@ class DressingForm(forms.ModelForm):
             "opening_credits": AddVideoHoldWidget,
             "ending_credits": AddVideoHoldWidget,
         }
+
+
+class DressingDeleteForm(forms.Form):
+    agree = forms.BooleanField(
+        label=_("I agree"),
+        help_text=_("Delete dressing cannot be undo"),
+        widget=forms.CheckboxInput(),
+    )
+
+    def __init__(self, *args, **kwargs):
+        super(DressingDeleteForm, self).__init__(*args, **kwargs)
+        self.fields = add_placeholder_and_asterisk(self.fields)

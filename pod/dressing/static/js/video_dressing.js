@@ -6,11 +6,9 @@ var watermarkField = document.getElementById('id_watermark');
 
 // Désactiver les champs opacity et position au chargement de la page
 if (watermarkField.value !== '') {
-    console.log("trouduc");
     opacityField.disabled = false;
     positionField.disabled = false;
 } else {
-    console.log("troudeballe");
     opacityField.disabled = true;
     positionField.disabled = true;
 }
@@ -35,5 +33,13 @@ function handleWatermarkChange() {
     } else {
         opacityField.disabled = true;
         positionField.disabled = true;
-    }
+    }   
 };
+
+// Déselectionner tous les boutons input radio
+function resetRadioButtons() {
+    const radioButtons = document.querySelectorAll('#apply_dressing input[type="radio"]');
+    radioButtons.forEach(button => {
+      button.checked = false;
+    });
+}

@@ -23,13 +23,15 @@ importing_app.conf.task_routes = {
 
 # celery -A pod.video_encode_transcript.importing_tasks worker -l INFO -Q importing
 @importing_app.task
-def start_importing_task(start, video_id, video_path, cut_start, cut_end, stop):
+def start_importing_task(start, video_id, video_path, cut_start, cut_end, stop,
+                         dressing):
     """Start the import of the encoding of the video."""
     print("Start the importing of the video: %s" % video_id)
     from .Encoding_video_model import Encoding_video_model
     from .encode import store_encoding_info, end_of_encoding
 
-    encoding_video = Encoding_video_model(video_id, video_path, cut_start, cut_end)
+    encoding_video = Encoding_video_model(video_id, video_path, cut_start, cut_end,
+                                          dressing)
     encoding_video.start = start
     encoding_video.stop = stop
 
