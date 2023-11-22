@@ -55,6 +55,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -238,6 +239,8 @@ msgstr ""
 >>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 "POT-Creation-Date: 2023-11-07 10:52+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -295,7 +298,13 @@ msgstr ""
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 "PO-Revision-Date: 2023-02-08 15:22+0100\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -451,6 +460,7 @@ msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
 <<<<<<< HEAD
+<<<<<<< HEAD
 msgid "A caption cannot has more than 80 characters."
 msgstr ""
 
@@ -459,22 +469,30 @@ msgid "Add a caption/subtitle after this one"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+=======
+>>>>>>> 5f137acd (Encoding ok)
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Add"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 msgid "Delete this caption/subtitle"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+=======
+>>>>>>> 5f137acd (Encoding ok)
 #: pod/video/static/js/comment-script.js
 msgid "Delete"
 msgstr ""
 
 #: pod/completion/static/js/caption_maker.js
+<<<<<<< HEAD
 msgid "Caption / Subtitle"
 =======
+=======
+>>>>>>> 5f137acd (Encoding ok)
 msgid "Caption"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
 msgstr ""
@@ -1072,6 +1090,11 @@ msgid "Network response was not ok."
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
+#: pod/video/static/js/change_video_owner.js
+msgid "Loading…"
+msgstr ""
+
+#: pod/podfile/static/podfile/js/filewidget.js
 msgid "Change image"
 msgstr ""
 
@@ -1097,10 +1120,6 @@ msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
 msgid "Server error"
-msgstr ""
-
-#: pod/podfile/static/podfile/js/filewidget.js
-msgid "Add"
 msgstr ""
 
 #: pod/podfile/static/podfile/js/filewidget.js
@@ -1235,6 +1254,10 @@ msgstr ""
 =======
 =======
 #: pod/video/static/js/ajax-display-channels.js
+msgid "Channels"
+msgstr ""
+
+#: pod/video/static/js/ajax-display-channels.js
 msgid "Channel"
 msgstr ""
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
@@ -1280,12 +1303,15 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/video/static/js/ajax-display-channels.js
 msgid "video"
 msgstr ""
 
 =======
 >>>>>>> 96067166 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 #: pod/video/static/js/change_video_owner.js
 <<<<<<< HEAD
 msgid "No element found"
@@ -1418,6 +1444,14 @@ msgstr ""
 >>>>>>> c7c7882c ([DONE] live Extron SMP (#873))
 =======
 msgid "Loading…"
+=======
+#: pod/video/static/js/ajax-display-channels.js
+msgid "video"
+msgstr ""
+
+#: pod/video/static/js/change_video_owner.js
+msgid "No element found"
+>>>>>>> 5f137acd (Encoding ok)
 msgstr ""
 
 #: pod/video/static/js/change_video_owner.js
@@ -1439,19 +1473,38 @@ msgid "Answers"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Delete"
+msgid "Cancel"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
-msgid "Cancel"
-msgstr ""
+#, javascript-format
+msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
+msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
+msgstr[0] ""
+msgstr[1] ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Agree with the comment"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
+msgid "Reply to comment"
+msgstr ""
+
+#: pod/video/static/js/comment-script.js
+msgid "Reply"
+msgstr ""
+
+#: pod/video/static/js/comment-script.js
 msgid "Remove this comment"
+msgstr ""
+
+#: pod/video/static/js/comment-script.js
+msgid "Add a public comment"
+msgstr ""
+
+#: pod/video/static/js/comment-script.js
+msgid "Send"
 msgstr ""
 
 #: pod/video/static/js/comment-script.js
@@ -1465,13 +1518,6 @@ msgstr ""
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you're not allowed to vote by now."
 msgstr ""
-
-#: pod/video/static/js/comment-script.js
-#, javascript-format
-msgid "%s <span class=\"d-none d-md-inline\">vote</span>"
-msgid_plural "%s <span class=\"d-none d-md-inline\">votes</span>"
-msgstr[0] ""
-msgstr[1] ""
 
 #: pod/video/static/js/comment-script.js
 msgid "Sorry, you can't comment this video by now."
@@ -1493,38 +1539,47 @@ msgstr[0] ""
 msgstr[1] ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is password protected."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is chaptered."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "This content is in draft."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Video content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Audio content."
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Edit the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Complete the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Chapter the video"
 msgstr ""
 
 #: pod/video/static/js/regroup_videos_by_theme.js
+#: pod/video/static/js/video_category.js
 msgid "Delete the video"
 msgstr ""
 
@@ -1610,6 +1665,18 @@ msgstr ""
 
 #: pod/video/static/js/video_category.js
 msgid "Edit the category"
+msgstr ""
+
+#: pod/video/static/js/video_category.js
+msgid "Delete the category"
+msgstr ""
+
+#: pod/video/static/js/video_category.js
+msgid "Success!"
+msgstr ""
+
+#: pod/video/static/js/video_category.js
+msgid "Error…"
 msgstr ""
 
 #: pod/video/static/js/video_category.js

@@ -62,6 +62,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -245,6 +246,8 @@ msgstr ""
 >>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 "POT-Creation-Date: 2023-11-09 10:23+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -302,7 +305,13 @@ msgstr ""
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1762,6 +1771,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -1772,6 +1782,8 @@ msgstr ""
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 386cba9c (ajout)
+=======
+>>>>>>> 09b732ff (Encoding ok)
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -1826,7 +1838,14 @@ msgstr ""
 #: pod/playlist/templates/playlist/playlist_element_list.html
 >>>>>>> a51acb32 (ajout)
 >>>>>>> 856119ca (ajout)
+<<<<<<< HEAD
 >>>>>>> 386cba9c (ajout)
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 msgid "Position"
 msgstr ""
 
@@ -2478,6 +2497,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
@@ -2488,6 +2508,8 @@ msgstr ""
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
 >>>>>>> 23b50507 (ajout)
+=======
+>>>>>>> 09b732ff (Encoding ok)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
@@ -3194,7 +3216,7 @@ msgstr ""
 
 #: pod/import_video/utils.py
 #, python-format
-msgid "The size of the video file exceeds the maximum allowed value (%s Gb)."
+msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
 msgstr ""
 
 #: pod/import_video/views.py
@@ -3730,6 +3752,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -3742,6 +3765,8 @@ msgstr ""
 =======
 >>>>>>> 23b50507 (ajout)
 =======
+=======
+>>>>>>> 09b732ff (Encoding ok)
 =======
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
@@ -3776,7 +3801,12 @@ msgstr ""
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr ""

@@ -56,6 +56,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 "POT-Creation-Date: 2023-07-05 15:50+0200\n"
@@ -222,6 +223,8 @@ msgstr ""
 >>>>>>> 44537ad7 ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 "POT-Creation-Date: 2023-10-31 11:26+0000\n"
 =======
 "POT-Creation-Date: 2023-07-13 16:48+0200\n"
@@ -279,7 +282,13 @@ msgstr ""
 "POT-Creation-Date: 2023-08-29 14:17+0000\n"
 >>>>>>> 43dd9c9b ([DONE] Update : Playlist (corrections) (#923))
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 "PO-Revision-Date: \n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: Pod Team cotech-esup-pod@esup-portail.org\n"
@@ -1855,6 +1864,7 @@ msgstr "Contenu"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -1865,6 +1875,8 @@ msgstr "Contenu"
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
 =======
 >>>>>>> 386cba9c (ajout)
+=======
+>>>>>>> 09b732ff (Encoding ok)
 =======
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html pod/playlist/models.py
@@ -1915,7 +1927,14 @@ msgstr "Contenu"
 #: pod/dressing/templates/video_dressing.html
 >>>>>>> a51acb32 (ajout)
 >>>>>>> 856119ca (ajout)
+<<<<<<< HEAD
 >>>>>>> 386cba9c (ajout)
+=======
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 msgid "Position"
 msgstr "Position"
 
@@ -2658,6 +2677,7 @@ msgstr "Aucun"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
@@ -2668,6 +2688,8 @@ msgstr "Aucun"
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
 >>>>>>> 23b50507 (ajout)
+=======
+>>>>>>> 09b732ff (Encoding ok)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr "Éditer"
@@ -3483,6 +3505,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
 =======
 "Cette vidéo a été téléversée sur Pod; son origine est %(type)s : <a "
@@ -3574,6 +3597,8 @@ msgstr ""
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
 =======
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 "Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a href="
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 =======
@@ -3590,7 +3615,14 @@ msgstr ""
 >>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 "\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5c90037b ([DONE] Update : Displaying channels via AJAX (#910))
+<<<<<<< HEAD
 >>>>>>> b598d4c1 ([DONE] Update : Displaying channels via AJAX (#910))
+=======
+=======
+"Cette vidéo a été téléversée sur Pod ; son origine est %(type)s : <a "
+"href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 
 #: pod/import_video/views.py pod/meeting/views.py
 msgid "Try changing the record type or address for this recording."
@@ -3626,12 +3658,15 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
 >>>>>>> 9490b823 (Encoding ok)
 =======
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 <<<<<<< HEAD
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
@@ -3660,12 +3695,16 @@ msgstr ""
 >>>>>>> 19840e5d ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> 7bc5a20e ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
 =======
+=======
+>>>>>>> 09b732ff (Encoding ok)
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
 "Youtube : <a href=\"%(url)s\" target=\"_blank\">%(url)s</a>"
 >>>>>>> 5f137acd (Encoding ok)
+<<<<<<< HEAD
 >>>>>>> 9490b823 (Encoding ok)
 =======
 "Cette vidéo « %(name)s » a été téléversée sur Pod ; son origine est "
@@ -3676,6 +3715,8 @@ msgstr ""
 >>>>>>> 84406de6 ([DONE] RGAA 03.02 (#951))
 =======
 >>>>>>> fcfcb6f7 ([DONE]Feature import_video add MAX_UPLOAD_SIZE_ON_IMPORT parameter (#911))
+=======
+>>>>>>> 09b732ff (Encoding ok)
 
 #: pod/import_video/views.py
 msgid "YouTube error"
@@ -4197,6 +4238,7 @@ msgstr "Gérer le diffuseur"
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -4209,6 +4251,8 @@ msgstr "Gérer le diffuseur"
 =======
 >>>>>>> 23b50507 (ajout)
 =======
+=======
+>>>>>>> 09b732ff (Encoding ok)
 =======
 =======
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
@@ -4243,7 +4287,12 @@ msgstr "Éditer"
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 22bbad30 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr "aucune diffusion actuellement"
@@ -7597,9 +7646,17 @@ msgstr "Vous ne pouvez créer une liste de lecture nommée \"Favoris\""
 =======
 =======
 msgstr ""
+<<<<<<< HEAD
 "Vous ne pouvez pas créer une liste de lecture nommée \"{FAVORITE_PLAYLIST_NAME}\""
 >>>>>>> 5a94d8e5 ([DONE] Update : Playlist (corrections) (#923))
+<<<<<<< HEAD
 >>>>>>> 961ae8ee ([DONE] Update : Playlist (corrections) (#923))
+=======
+=======
+"Vous ne pouvez pas créer une liste de lecture nommée "
+"\"{FAVORITE_PLAYLIST_NAME}\""
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 09b732ff (Encoding ok)
 
 #: pod/playlist/forms.py
 msgid "Remove playlist cannot be undone"
