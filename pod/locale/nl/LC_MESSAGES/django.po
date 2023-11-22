@@ -33,6 +33,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 "POT-Creation-Date: 2023-08-30 12:33+0200\n"
 =======
 =======
@@ -136,6 +137,9 @@ msgstr ""
 >>>>>>> f4c1c07c ([DONE] Fix : accessibility issues (#913))
 =======
 >>>>>>> 6a658ca2 ([DONE] Update : Playlist (corrections) (#923))
+=======
+"POT-Creation-Date: 2023-08-30 12:33+0200\n"
+>>>>>>> 9490b823 (Encoding ok)
 "PO-Revision-Date: 2023-06-08 14:37+0200\n"
 "Last-Translator: obado <bado@unice.fr>\n"
 "Language-Team: \n"
@@ -1520,6 +1524,7 @@ msgstr ""
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 #: pod/dressing/templates/my_dressings.html
 #: pod/dressing/templates/video_dressing.html
 =======
@@ -1546,6 +1551,10 @@ msgstr ""
 #: pod/playlist/templates/playlist/playlist_element_list.html
 >>>>>>> a51acb32 (ajout)
 >>>>>>> 27342add (ajout)
+=======
+#: pod/dressing/templates/my_dressings.html
+#: pod/dressing/templates/video_dressing.html
+>>>>>>> 9490b823 (Encoding ok)
 msgid "Position"
 msgstr ""
 
@@ -2178,10 +2187,13 @@ msgstr ""
 
 #: pod/dressing/templates/my_dressings.html pod/live/templates/live/direct.html
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 #: pod/playlist/templates/playlist.html
 #: pod/playlist/templates/playlist/playlist_list.html
 >>>>>>> 4ef26a00 (ajout)
+=======
+>>>>>>> 9490b823 (Encoding ok)
 #: pod/video/templates/videos/video_edit.html
 msgid "Edit"
 msgstr ""
@@ -2839,7 +2851,7 @@ msgstr ""
 
 #: pod/import_video/utils.py
 #, python-format
-msgid "The size of the video file exceeds the maximum allowed value (%s Gb)."
+msgid "The size of the video file exceeds the maximum allowed value, %s Gb."
 msgstr ""
 
 #: pod/import_video/views.py
@@ -3357,6 +3369,7 @@ msgid "Manage broadcaster"
 msgstr ""
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -3376,7 +3389,12 @@ msgstr ""
 =======
 >>>>>>> ee58a741 ([DONE] Update : Playlist (#857))
 >>>>>>> db188f15 ([DONE] Update : Playlist (#857))
+<<<<<<< HEAD
 >>>>>>> 605f7669 ([DONE] Update : Playlist (#857))
+=======
+=======
+>>>>>>> 5f137acd (Encoding ok)
+>>>>>>> 9490b823 (Encoding ok)
 #: pod/live/templates/live/direct.html pod/live/templates/live/directs_all.html
 msgid "no broadcast in progress"
 msgstr ""
