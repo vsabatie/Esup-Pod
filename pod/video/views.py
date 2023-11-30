@@ -300,6 +300,7 @@ def channel(request, slug_c, slug_t=None):
     channel = get_object_or_404(Channel, slug=slug_c, site=get_current_site(request))
 
     videos_list = get_available_videos().filter(channel=channel)
+    videos_list = sort_videos_list(videos_list, 'order')
     channel.video_count = videos_list.count()
 
     theme = None
