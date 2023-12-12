@@ -189,5 +189,14 @@
 </div>
 {% endblock page_aside %}
 {% block more_script %}
-<script src="{% static 'js/completion.js' %}?ver={{VERSION}}"></script>
+  <link href="/static/admin/css/vendor/select2/select2.min.css" type="text/css" media="screen" rel="stylesheet">
+  <link href="/static/django_select2/django_select2.css" type="text/css" media="screen" rel="stylesheet">
+  <script src="/static/admin/js/vendor/select2/select2.full.min.js"></script>
+  <script src="/static/ckeditor/ckeditor-init.js" data-ckeditor-basepath="/static/ckeditor/ckeditor/" id="ckeditor-init-script"></script>
+  <script src="/static/admin/js/calendar.js"></script>
+  <script src="/static/podfile/js/filewidget.js"></script>
+  <script src="/static/admin/js/vendor/select2/i18n/fr.js"></script>
+  <script src="/static/ckeditor/ckeditor/ckeditor.js"></script>
+  <script src="/static/admin/js/admin/DateTimeShortcuts.js"></script>
+  <script src="/static/django_select2/django_select2.js"></script>
 {% endblock more_script %}

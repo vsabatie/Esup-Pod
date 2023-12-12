@@ -6,7 +6,7 @@ from django_select2 import forms as s2forms
 
 # from django.utils.translation import ugettext_lazy as _
 
-from pod.completion.models import Contributor
+from pod.completion.models import Contributor, ContributorUsers, ContributorJobs
 from pod.completion.models import Document
 from pod.completion.models import Track
 from pod.completion.models import Overlay
@@ -37,6 +37,15 @@ class ContributorForm(forms.ModelForm):
         self.fields["name"].widget = forms.HiddenInput()
         self.fields["email_address"].widget.attrs["autocomplete"] = "email"
         self.fields = add_placeholder_and_asterisk(self.fields)
+
+        user = forms.ModelChoiceField(
+            queryset = ContributorUsers.objects.all(),
+            label = "User",
+            widget = s2forms.ModelSelect2Widget(
+                model = ContributorUsers,
+                search_fields = ['name__icontains'],
+            )
+        )
 
     class Meta(object):
         """Set form Metadata."""
