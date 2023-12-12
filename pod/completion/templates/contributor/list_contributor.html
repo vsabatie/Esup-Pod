@@ -8,6 +8,7 @@
 		<thead>
 			<tr>
 				<th scope="col" class="contributor_name">{% trans 'Lastname / Firstname' %}</th>
+				<th scope="col">{% trans 'Function' %}</th>
 				<th scope="col">{% trans 'Mail' %}</th>
 				<th scope="col">{% trans 'Role' %}</th>
 				<th scope="col">{% trans 'Web link' %}</th>
@@ -17,7 +18,8 @@
 		<tbody>
 			{% for contributor in list_contributor %}
 				<tr class="contributor">
-					<td class="contributor_name">{{contributor.name}}</td>
+					<td class="contributor_name">{{contributor.job.user}}</td>
+					<td class="contributor_job">{{contributor.job.job}}</td>
 					<td class="contributor_mail">{{contributor.email_address|default_if_none:'&nbsp;'}}</td>
 					<td class="contributor_role">{% trans contributor.role %}</td>
 					<td class="contributor_weblink">{{contributor.weblink|default_if_none:'&nbsp;'}}</td>

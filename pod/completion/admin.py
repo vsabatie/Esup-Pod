@@ -3,6 +3,7 @@ from django.conf import settings
 from django.contrib import admin
 from django.utils.translation import ugettext_lazy as _
 from pod.completion.models import Contributor
+from pod.completion.models import ContributorUsers, ContributorJobs
 from pod.completion.models import Document
 from pod.completion.models import Overlay
 from pod.completion.models import Track
@@ -71,6 +72,38 @@ class ContributorAdmin(admin.ModelAdmin):
 
 
 admin.site.register(Contributor, ContributorAdmin)
+
+
+class ContributorUsersAdmin(admin.ModelAdmin):
+    list_display = (
+        "name",
+        "email_address",
+        "weblink",
+    )
+    list_display_links = ("name",)
+    search_fields = ["id", "name", "email_address", "weblink"]
+
+    # class Media:
+    #     css = {"all": ("css/pod.css",)}
+
+
+admin.site.register(ContributorUsers, ContributorUsersAdmin)
+
+
+class ContributorJobsAdmin(admin.ModelAdmin):
+    list_display = (
+        "job",
+        "user",
+    )
+    list_display_links = ("job",)
+    search_fields = ["job", "user"]
+    autocomplete_fields = ["user"]
+
+    # class Media:
+    #     css = {"all": ("css/pod.css",)}
+
+
+admin.site.register(ContributorJobs, ContributorJobsAdmin)
 
 
 class DocumentInline(admin.TabularInline):

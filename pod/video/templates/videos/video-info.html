@@ -151,19 +151,27 @@
         <span class="pod-meta-title">{% trans 'Contributor(s):' %}</span>
         <div>
           <ul>
-            {% for contrib in video.contributor_set.all %}
+            {% regroup video.contributor_set.all|dictsort:"role" by role as role_list %}
+            {% for role in role_list %}
             <li>
-              {{ contrib.name }} ({% trans contrib.role %})
-              {% if contrib.email_address %}
-              <a href="javascript:linkTo_UnCryptMailto('{{ contrib.get_base_mail }}');" title="{% trans 'send an email' %}">
-                <i class="bi bi-envelope"></i>
-              </a>
-              {% endif %}
-              {% if contrib.weblink %}
-              <a href="{{ contrib.weblink }}" target="_blank" title="{% trans 'contributor web link' %}">
-                <i class="bi bi-box-arrow-up-right"></i>
-              </a>
-              {% endif %}
+              {% trans role.grouper %} :
+              <ul>
+                {% for contrib in role.list %}
+                <li>
+                  {{ contrib.job.user }} ({% trans contrib.job.job %})
+                  {% if contrib.email_address %}
+                  <a href="javascript:linkTo_UnCryptMailto('{{ contrib.get_base_mail }}');" title="{% trans 'send an email' %}">
+                    <i class="bi bi-envelope"></i>
+                  </a>
+                  {% endif %}
+                  {% if contrib.weblink %}
+                  <a href="{{ contrib.weblink }}" target="_blank" title="{% trans 'contributor web link' %}">
+                    <i class="bi bi-box-arrow-up-right"></i>
+                  </a>
+                  {% endif %}
+                </li>
+                {% endfor %}
+              </ul>
             </li>
             {% endfor %}
           </ul>

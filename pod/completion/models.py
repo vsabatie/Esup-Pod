@@ -56,9 +56,74 @@ __LANG_CHOICES_DICT__ = {
 DEFAULT_LANG_TRACK = getattr(settings, "DEFAULT_LANG_TRACK", "fr")
 
 
+class ContributorUsers(models.Model):
+    name = models.CharField(_("lastname / firstname"), max_length=200)
+    email_address = models.EmailField(_("mail"), null=True, blank=True, default="")
+    weblink = models.URLField(_("Web link"), max_length=200, null=True, blank=True)
+
+    class Meta:
+        verbose_name = _("Contributor User")
+        verbose_name_plural = _("Contributors Users")
+
+    @property
+    def sites(self):
+        return self.video.sites
+
+    def clean(self):
+        msg = list()
+        msg = self.verify_attributs()
+        if len(msg) > 0:
+            raise ValidationError(msg)
+
+    def verify_attributs(self):
+        msg = list()
+        if not self.name or self.name == "":
+            msg.append(_("Please enter a name."))
+        elif len(self.name) < 2 or len(self.name) > 200:
+            msg.append(_("Please enter a name from 2 to 200 caracters."))
+        if self.weblink and len(self.weblink) > 200:
+            msg.append(_("You cannot enter a weblink with more than 200 caracters."))
+        if len(msg) > 0:
+            return msg
+        else:
+            return list()
+
+    def __str__(self):
+        return self.name
+
+    def get_base_mail(self):
+        data = base64.b64encode(self.email_address.encode())
+        return data
+
+    def get_noscript_mail(self):
+        return self.email_address.replace("@", "__AT__")
+    
+
+class ContributorJobs(models.Model):
+    job = models.CharField(_("Function"), max_length=200)
+    user = models.ForeignKey(ContributorUsers, verbose_name=_("Contributor user"), on_delete=models.CASCADE)
+
+    class Meta:
+        verbose_name = _("Contributor job")
+        verbose_name_plural = _("Contributors jobs")
+
+    @property
+    def sites(self):
+        return self.video.sites
+
+    def clean(self):
+        msg = list()
+        if len(msg) > 0:
+            raise ValidationError(msg)
+
+    def __str__(self):
+        return "{0} - {1}".format(self.job, self.user)
+
+
 class Contributor(models.Model):
     video = models.ForeignKey(Video, verbose_name=_("video"), on_delete=models.CASCADE)
-    name = models.CharField(_("lastname / firstname"), max_length=200)
+    job = models.ForeignKey(ContributorJobs, verbose_name=_("Contributor Job"), on_delete=models.CASCADE, null=True)
+    name = models.CharField(_("lastname / firstname"), max_length=200, null=True, blank=True)
     email_address = models.EmailField(_("mail"), null=True, blank=True, default="")
     role = models.CharField(
         _("role"), max_length=200, choices=ROLE_CHOICES, default="author"
@@ -75,16 +140,12 @@ class Contributor(models.Model):
 
     def clean(self):
         msg = list()
-        msg = self.verify_attributs() + self.verify_not_same_contributor()
+        msg = self.verify_attributs()
         if len(msg) > 0:
             raise ValidationError(msg)
 
     def verify_attributs(self):
         msg = list()
-        if not self.name or self.name == "":
-            msg.append(_("Please enter a name."))
-        elif len(self.name) < 2 or len(self.name) > 200:
-            msg.append(_("Please enter a name from 2 to 200 caracters."))
         if self.weblink and len(self.weblink) > 200:
             msg.append(_("You cannot enter a weblink with more than 200 caracters."))
         if not self.role:

@@ -2,6 +2,7 @@
 from django import forms
 from django.conf import settings
 from django.forms.widgets import HiddenInput
+from django_select2 import forms as s2forms
 
 # from django.utils.translation import ugettext_lazy as _
 
@@ -20,6 +21,12 @@ if getattr(settings, "USE_PODFILE", False):
 ACTIVE_MODEL_ENRICH = getattr(settings, "ACTIVE_MODEL_ENRICH", False)
 
 
+class AddContributorWidget(s2forms.ModelSelect2Widget):
+    search_fields = [
+        "job__icontains",
+    ]
+
+
 class ContributorForm(forms.ModelForm):
     """Contributor form fields."""
 
@@ -27,7 +34,7 @@ class ContributorForm(forms.ModelForm):
         """Initialize fields."""
         super(ContributorForm, self).__init__(*args, **kwargs)
         self.fields["video"].widget = HiddenInput()
-        self.fields["name"].widget.attrs["autocomplete"] = "name"
+        self.fields["name"].widget = forms.HiddenInput()
         self.fields["email_address"].widget.attrs["autocomplete"] = "email"
         self.fields = add_placeholder_and_asterisk(self.fields)
 
@@ -36,6 +43,9 @@ class ContributorForm(forms.ModelForm):
 
         model = Contributor
         fields = "__all__"
+        widgets = {
+            "job": AddContributorWidget,
+        }
 
 
 class DocumentForm(forms.ModelForm):
