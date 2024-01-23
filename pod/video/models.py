@@ -822,6 +822,12 @@ class Video(models.Model):
         blank=True,
         null=True,
     )
+    order = models.PositiveSmallIntegerField(
+        verbose_name=_("order"),
+        default=1,
+        blank=True,
+        null=True,
+    )
     thumbnail = models.ForeignKey(
         CustomImageModel,
         on_delete=models.SET_NULL,
