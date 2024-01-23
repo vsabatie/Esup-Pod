@@ -157,7 +157,7 @@ def add_recording(request):
             )
 
             messages.add_message(request, messages.INFO, message)
-            return redirect(reverse("video:my_videos"))
+            return redirect(reverse("video:dashboard"))
         else:
             message = _("One or more errors have been found in the form.")
             messages.add_message(request, messages.ERROR, message)
@@ -444,14 +444,14 @@ def settings_toml(request):
             "recorder:studio_pod",
         )
     )
-    myvideo_url = request.build_absolute_uri(
+    dashboard_url = request.build_absolute_uri(
         reverse(
-            "video:my_videos",
+            "video:dashboard",
         )
     )
     # force https for developpement server
     studio_url = studio_url.replace("http://", "https://")
-    myvideo_url = myvideo_url.replace("http://", "https://")
+    dashboard_url = dashboard_url.replace("http://", "https://")
     content_text = """
     [opencast]
     serverUrl = "%(serverUrl)s"
@@ -466,7 +466,7 @@ def settings_toml(request):
     """
     content_text = content_text % {
         "serverUrl": studio_url,
-        "target": myvideo_url,
+        "target": dashboard_url,
         "label": "mes videos",
     }
     return HttpResponse(content_text, content_type="text/plain")
